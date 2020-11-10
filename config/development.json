@@ -1,15 +1,17 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-dev.firebaseapp.com/",
+  "url": "https://mdevconf.tech",
   "analytics": "UA-43643469-8",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com",
-    "messagingSenderId": "1083195713896"
+    "apiKey": "AIzaSyCdnQEgBQAt8XPhfQETBbeYI2a2ZN1fNSg",
+    "authDomain": "mdevcamp-b122d.firebaseapp.com",
+    "databaseURL": "https://mdevcamp-b122d.firebaseio.com",
+    "projectId": "mdevcamp-b122d",
+    "storageBucket": "mdevcamp-b122d.appspot.com",
+    "messagingSenderId": "472993796995",
+    "appId": "1:472993796995:web:aee312806c42ec2c615cb6",
+    "measurementId": "G-RSJXM1DDHN"
   },
-  "googleMapApiKey": ""
+  "googleMapApiKey": "AIzaSyAKOkGjmfBPTuYlDyPxlrSj7H-1oqWET7E"
 }
