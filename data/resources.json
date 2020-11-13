@@ -271,7 +271,7 @@
   },
   "notifications": {
     "default": "Permitir notificaciones",
-    "enabled": "Te extrañaremos  pero puedes  darte de baja en cualquier momento",
+    "enabled": "Te extrañaremos  pero puedes  darte  de baja en cualquier momento",
     "blocked": "No podemos enviarle notificaciones en este momento. Habilite las notificaciones en su navegador",
     "subscribe": "Suscribir",
     "unsubscribe": "Darse de baja",
