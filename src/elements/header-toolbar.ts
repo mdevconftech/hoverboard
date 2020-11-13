@@ -170,16 +170,6 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             >{$ signIn $}</paper-tab
           >
 
-          <a
-            href$="[[_getTicketUrl(tickets)]]"
-            target="_blank"
-            rel="noopener noreferrer"
-            ga-on="click"
-            ga-event-category="ticket button"
-            ga-event-action="buy_click"
-          >
-            <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
-          </a>
         </paper-tabs>
 
         <paper-menu-button

@@ -1,5 +1,5 @@
 {
-  "title": "Mobile Developers Conf 2020",
+  "title": "Mobile Developers Conference 2020",
   "description": "¡Sé parte del evento, aprende cosas nuevas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
@@ -166,14 +166,14 @@
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
+    "button": "Se un partner",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Se un partner!",
+      "submitLabel": "Enviar",
+      "fullName": "Nombre completo",
+      "companyName": "Nombre de Empresa"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Te contactaremos pronto!"
   },
   "featuredVideos": {
     "title": "Kotlin La Paz Vídeos destacados",
@@ -184,7 +184,7 @@
   },
   "blog": {
     "published": "Publicado",
-    "suggested": "Up next"
+    "suggested": "Hasta la próxima"
   },
   "latestPostsBlock": {
     "title": "Las últimas noticias",
@@ -212,7 +212,7 @@
       "link": "/previous-speakers/"
     }
   },
-  "galleryBlock": {
+  "cFvFz": {
     "title": "#dfua16 highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
