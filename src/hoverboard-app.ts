@@ -218,22 +218,7 @@ export class HoverboardApp extends ReduxMixin(PolymerElement) {
                 {$ addToHomeScreen.cta $}
               </a>
 
-              <a
-                class="bottom-drawer-link"
-                href$="[[_getTicketUrl(tickets)]]"
-                target="_blank"
-                rel="noopener noreferrer"
-                on-click="closeDrawer"
-                ga-on="click"
-                ga-event-category="ticket button"
-                ga-event-action="buy_click"
-                layout
-                horizontal
-                center
-              >
-                <span>{$ buyTicket $}</span>
-                <iron-icon icon="hoverboard:open-in-new"></iron-icon>
-              </a>
+              
             </div>
           </div>
         </app-drawer>
