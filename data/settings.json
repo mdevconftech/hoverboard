@@ -148,37 +148,37 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/es-ES/mdevconf/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/mDevConfBO"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/mDevConfBO?s=20"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/mdevconfbo"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCZM4yzVYpnlLXYDl3vELXrA"
       }
     ],
     "share": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sharer.php?u="
+        "url": "https://www.facebook.com/mDevConfBO"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/intent/tweet?text="
+        "url": "https://twitter.com/mDevConfBO?s=20"
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "mdevconf@gmail.com",
   "signInProviders": {
     "providersData": [
       {
@@ -210,5 +210,8 @@
       "itemsCount": 5
     }
   },
-  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
+  "showForkMeBlockForProjectIds": [
+    "hoverboard-master",
+    "hoverboard-dev"
+  ]
 }
