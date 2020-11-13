@@ -271,7 +271,7 @@
   },
   "notifications": {
     "default": "Permitir notificaciones",
-    "enabled": "Te extrañaremos pero puedes darte de baja en cualquier momento",
+    "enabled": "Te extrañaremos  pero puedes  darte  de baja en cualquier momento",
     "blocked": "No podemos enviarle notificaciones en este momento. Habilite las notificaciones en su navegador",
     "subscribe": "Suscribir",
     "unsubscribe": "Darse de baja",
@@ -287,8 +287,8 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizador",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizadores",
+        "description": "Somos un equipo de distintas comunidades GDG de Bolivia, esta ocasión nos reune para desarollar este grandioso evento.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
