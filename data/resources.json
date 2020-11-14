@@ -114,13 +114,13 @@
     "callToAction": {
       "featuredSessions": {
         "description": "El evento mDevConf busca reunir a los expertos de todo el mundo en tecnologías Móbiles durante 6 días de sesiones y talleres online.",
-        "label": "Explore la sesión destacada",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "label": "CONFIRMA TU ASISTENCIA",
+        "link": "https://www.meetup.com/es-ES/mdevconf/"
       },
       "howItWas": {
         "description": "Un evento espectacular que junto al trabajo de diferentes comunidades buscamos brindar a toda la gente de Latinoamérica una gran experiencia.",
-        "label": "Video Equipo",
-        "youtubeId": "TdpbgRgz6eE"
+        "label": "VER EVENTOS PASADOS",
+        "youtubeId": ""
       }
     },
     "statisticsBlock": {
