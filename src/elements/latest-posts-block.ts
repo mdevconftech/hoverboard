@@ -121,12 +121,6 @@ export class LatestPostsBlock extends ReduxMixin(PolymerElement) {
           </template>
         </div>
 
-        <a href="{$ latestPostsBlock.callToAction.link $}">
-          <paper-button class="cta-button animated icon-right">
-            <span>{$ latestPostsBlock.callToAction.label $}</span>
-            <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-          </paper-button>
-        </a>
       </div>
     `;
   }

@@ -43,14 +43,14 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2F20190824090315_IMG_1691.JPG?alt=media&token=eb7f0cdc-ec77-4584-bf3f-6d98df3d2e88",
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2FIMG-20190824-WA0041.jpg?alt=media&token=2d428e71-1e4f-4347-8225-79dd1c06ff3a",
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2FIMG_20190824_111015.jpg?alt=media&token=6e8e2335-a5b7-47da-912f-45460ae15d3f",
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2FIMG_20190824_112712.jpg?alt=media&token=96a33acf-2a65-4c29-b030-1d7df36e265f",
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2FIMG_4297.png?alt=media&token=86bb5650-b433-4f29-8ba1-17bbac9d93aa",
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2FIMG_4319.png?alt=media&token=66b4c308-8f4d-4830-9d0a-7cb727d245cf",
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2FIMG_4340.png?alt=media&token=2b656df7-7e96-4d8b-90aa-10cab35bb8ee",
+    "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fgallery%2FMVIMG_20190824_130044.jpg?alt=media&token=5919fde6-6c3b-4abe-baf8-9c79bc210526"
   ],
   "notifications": {
     "config": {
@@ -70,12 +70,6 @@
           "logoUrl": "../images/sponsors/gitkraken-logo.png",
           "name": "Gitkraken",
           "url": "https://www.meetup.com/GDG-Lviv/"
-        },
-        {
-          "order": 1,
-          "logoUrl": "../images/sponsors/jetbrains-logo.png",
-          "name": "Jetbrains",
-          "url": "https://www.meetup.com/GDG-Lviv/"
         }
       ],
       "order": 0,
@@ -85,69 +79,15 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/sponsors/gitkraken-logo.png",
+          "name": "Gitkraken",
+          "url": "https://www.meetup.com/GDG-Lviv/"
         },
         {
           "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 3,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 4,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 5,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 6,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 7,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 8,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 9,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 10,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/sponsors/jetbrains-logo.png",
+          "name": "Jetbrains",
+          "url": "https://www.meetup.com/GDG-Lviv/"
         }
       ],
       "order": 1,
