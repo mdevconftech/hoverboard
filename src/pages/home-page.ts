@@ -239,14 +239,14 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <fork-me-block></fork-me-block>
       {% endif %}
       <about-block></about-block>
-      <speakers-block></speakers-block>
+      
       <subscribe-block></subscribe-block>
 
 
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>
       <latest-posts-block></latest-posts-block>
-
+      <gallery-block></gallery-block>
       <partners-block></partners-block>
       <footer-block></footer-block>
     `;

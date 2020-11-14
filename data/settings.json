@@ -24,16 +24,6 @@
       "label": "Inicio"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "programa",
-      "permalink": "/schedule/",
-      "label": "Programa"
-    },
-    {
       "route": "equipo",
       "permalink": "/team/",
       "label": "Equipo"
@@ -148,7 +138,7 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/es-ES/mdevconf/"
+        "url": "https://www.meetup.com/mdevconf"
       },
       {
         "name": "facebook",

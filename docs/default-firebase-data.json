@@ -27,11 +27,11 @@
     },
     "thank-you": {
       "backgroundColor": "#5a7785",
-      "brief": "Our team wants to thank one more time our partners, who made GDG DevFest Ukraine 2016 possible...",
-      "content": "We want to thank one more time our partners, who made [DevFest 2016](https://devfest.gdg.org.ua/) possible! THANK YOU for being creative and motivating our participants for new challenges, THANK YOU for your experiments and expertise during the insane 2 days of GDG DevFest Ukraine. With love, GDG DevFest Ukraine Team",
+      "brief": "Nuestro equipo quiere agradecer una vez más a nuestros partners, que hacen posible el evento mDevConf ...",
+      "content": "Nuestro equipo quiere agradecer una vez más a nuestros partners, que hacen posible el evento mDevConf [DevFest 2016](https://devfest.gdg.org.ua/) posible! GRACIAS por ser creativos y motivar a los participantes para aprender y tener nuevos desafíos, GRACIAS por sus experimentos y experiencia. Con amor, Equipo de mDevFest",
       "image": "/images/posts/thankyou_2.jpg",
       "published": "2016-09-29",
-      "title": "Thank you all for your support"
+      "title": "Gracias por todo su apoyot"
     },
     "what-to-do-in-lviv": {
       "backgroundColor": "#009688",
@@ -69,6 +69,12 @@
           "order": 0,
           "logoUrl": "../images/sponsors/gitkraken-logo.png",
           "name": "Gitkraken",
+          "url": "https://www.meetup.com/GDG-Lviv/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/sponsors/jetbrains-logo.png",
+          "name": "Jetbrains",
           "url": "https://www.meetup.com/GDG-Lviv/"
         }
       ],
@@ -145,7 +151,7 @@
         }
       ],
       "order": 1,
-      "title": "PartnersPartnersPartnersPartnersPartnersPartnersPartnersPartners"
+      "title": "Partners"
     }
   ],
   "schedule": {
