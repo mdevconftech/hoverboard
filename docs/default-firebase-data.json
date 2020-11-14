@@ -67,13 +67,19 @@
       "logos": [
         {
           "order": 0,
+          "logoUrl": "../images/logos/kotlin-la-paz.png",
+          "name": "Kotlin La Paz",
+          "url": "https://www.facebook.com/KotlinLaPaz/"
+        },
+        {
+          "order": 1,
           "logoUrl": "../images/logos/gdg-sucre.png",
           "name": "GDG Sucre",
           "url": "https://www.facebook.com/gdgsucre"
         }
       ],
       "order": 0,
-      "title": "Sponsors"
+      "title": "Partners"
     },
     {
       "logos": [
@@ -81,17 +87,17 @@
           "order": 0,
           "logoUrl": "../images/sponsors/gitkraken-logo.png",
           "name": "Gitkraken",
-          "url": "https://www.meetup.com/GDG-Lviv/"
+          "url": "https://www.gitkraken.com/"
         },
         {
           "order": 1,
           "logoUrl": "../images/sponsors/jetbrains-logo.png",
           "name": "Jetbrains",
-          "url": "https://www.meetup.com/GDG-Lviv/"
+          "url": "https://www.jetbrains.com/"
         }
       ],
       "order": 1,
-      "title": "Partners"
+      "title": "Sponsors"
     }
   ],
   "schedule": {
