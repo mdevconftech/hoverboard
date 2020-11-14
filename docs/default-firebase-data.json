@@ -2094,49 +2094,6 @@
         }
       ],
       "title": "Core Team"
-    },
-    {
-      "members": [
-        {
-          "name": "Ihor Dvoretskyi",
-          "photo": "/images/people/ihor_dvoretskyi.jpg",
-          "photoUrl": "",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/idvoretskyi",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/idvoretskyi",
-              "name": "Twitter"
-            }
-          ],
-          "order": 0,
-          "title": "Cloud stream"
-        },
-        {
-          "name": "Dmytro Danylyk",
-          "photo": "/images/people/dmytro_danylyk.jpg",
-          "photoUrl": "",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dmytrodanylyk",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://www.dmytrodanylyk.com/#/about",
-              "name": "Website"
-            }
-          ],
-          "order": 1,
-          "title": "Android Stream"
-        }
-      ],
-      "title": "Program Committee"
     }
   ],
   "tickets": [
