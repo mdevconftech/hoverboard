@@ -229,7 +229,7 @@
     "toast": "Suscrito exitosamente!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "Google es conocido mundialmente, todos estamos \"googleando\" algo todos los días, buscando en mapas, comunicándonos por correo, etc. Para muchos usuarios esto es realmente útil y simplemente funciona, pero no para nosotros. Nosotros los desarrolladores buscamos algo más: APIs, problemas de escalabilidad, tecnologías complejas, etc.<br>Y eso es de lo que trata la GDG.<br><br>Google Developers Group (GDG) - es una comunidad abierta y voluntaria que está dedicada a crear grandes proyectos y compartir las apasionantes experiencias sobre las tecnologías de Google.<br><br>El objetivo nuestro es el de crear y organizar espacios que permitan conectar a los mejores y más grandes expertos de la industria con toda la audiencia, de esta manera impulsando el desarrollo tecnológico en nuestra región."
   },
   "schedule": {
     "saveSessionsSignedOut": "Iniciar sesión para guardar sesiones"
