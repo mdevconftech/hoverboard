@@ -2,7 +2,7 @@
 
 ### Fechas del evento
 
-mDevConf se llevará a cabo del 14 al 19 de diciembre.
+mDevConf se llevará a cabo del 15 al 19 de diciembre.
 
 ### Mantente informado
 
@@ -10,7 +10,12 @@ Para mantenerse actualizado con la información más reciente sobre sesiones, or
 
 ### Formatos de contenido
 
-Durante dos días de la conferencia, los asistentes podrán ingresar a las transmisiones realizadas por Youtube y Facebook donde se realizarán sesiones y talleres prácticos, podrá interactuar con expertos y asistentes durante las sesiones.
+Durante cinco días de la conferencia, los asistentes podrán ingresar a las transmisiones realizadas por Youtube y Facebook donde se realizarán sesiones y talleres prácticos divididos en 3 stages por día:
+- Android
+- iOS
+- Non-Native
+
+Los participantes podrán interactuar con expertos y asistentes durante las sesiones.
 
 ### Livestream & Recordings
 
