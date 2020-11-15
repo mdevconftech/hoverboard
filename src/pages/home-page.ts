@@ -240,7 +240,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       {% endif %}
       <about-block></about-block>
       
-      <subscribe-block></subscribe-block>
+
 
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>

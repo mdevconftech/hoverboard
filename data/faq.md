@@ -6,7 +6,7 @@ mDevConf se llevará a cabo del 15 al 19 de diciembre.
 
 ### Mantente informado
 
-Para mantenerse actualizado con la información más reciente sobre sesiones, oradores y actividades, asegúrese de visitar el [Sitio Web](https://devfest.gdg.org.ua/), confirme su asistencia en [Meetup](https://www.meetup.com/es-ES/mdevconf/events/274567688/) y síganos en [Facebook](https://www.facebook.com/mDevConfBO) and [Twitter](https://twitter.com/mDevConfBO?s=20). También puede seguir y unirse a la conversación social sobre mDevConf a través del hashtag oficial #mDevConf2020.
+Para mantenerse actualizado con la información más reciente sobre sesiones, oradores y actividades, asegúrese de visitar el [Sitio Web](https://mdevconf.tech/), confirme su asistencia en [Meetup](https://www.meetup.com/es-ES/mdevconf/events/274567688/) y síganos en [Facebook](https://www.facebook.com/mDevConfBO) and [Twitter](https://twitter.com/mDevConfBO?s=20). También puede seguir y unirse a la conversación social sobre mDevConf a través del hashtag oficial #mDevConf2020.
 
 ### Formatos de contenido
 
