@@ -19,7 +19,7 @@ Los participantes podrán interactuar con expertos y asistentes durante las sesi
 
 ### Livestream & Recordings
 
-Todas las conferencias de las sesiones estarán disponibles de forma gratuita en mDevConf [Canal de Youtube](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w)
+Todas las conferencias de las sesiones estarán disponibles de forma gratuita en mDevConf [Canal de Youtube](https://www.youtube.com/channel/UCZM4yzVYpnlLXYDl3vELXrA)
 
 ## Detalles de sesiones
 
