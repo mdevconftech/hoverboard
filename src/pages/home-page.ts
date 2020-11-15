@@ -152,8 +152,13 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             alt="{$ title $}"
           ></plastic-image>
           <div class="info-items">
-            <div class="info-item">{$ location.city $}. {$ dates $}</div>
-            <div class="info-item">{$ heroSettings.home.description $}</div>
+            <div class="info-item">{$ location.city $} {$ dates $}</div>
+            <div class="info-item" slot="markdown-html"></div>
+
+            <marked-element class="info-item" markdown="{$ heroSettings.home.description $}">
+            <div slot="markdown-html"></div>
+
+          </marked-element>
           </div>
 
           <div class="action-buttons" layout horizontal center-justified wrap>

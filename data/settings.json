@@ -36,7 +36,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Únete a la comunidad, ¡Aprende nuevas cosas!",
+      "description": "Únete a la comunidad,<br>¡Aprende nuevas cosas!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -103,8 +103,8 @@
   },
   "location": {
     "label": "Ubicación",
-    "name": "La Paz",
-    "city": "La Paz",
+    "name": "",
+    "city": "",
     "short": "La Paz, Bolivia",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {
