@@ -10,9 +10,8 @@ Para mantenerse actualizado con la información más reciente sobre sesiones, or
 
 ### Formatos de contenido
 
-Durante cinco días de la conferencia, los asistentes podrán ingresar a las transmisiones realizadas por Youtube y Facebook donde se realizarán sesiones y talleres prácticos divididos en 3 stages por día:
-- Android: En este stage encontrarán talleres y charlas enfocadas en el desarrollo de aplicaciones para la plataforma Android de forma NATIVA, tocando temas principalmente de Kotlin y en algunos casos Java.
-- iOS: En este stage encontrarán talleres y charlas enfocadas en el desarrollo de aplicaciones para la plataforma iOS de forma NATIVA, tocando temas relacionados con el lenguaje de programación Swift.
+Durante cinco días de la conferencia, los asistentes podrán ingresar a las transmisiones realizadas por Youtube y Facebook donde se realizarán sesiones y talleres prácticos divididos en 2 stages por día:
+- Native: En este stage encontrarán talleres y charlas enfocadas en el desarrollo de aplicaciones para la plataforma Android y iOS de forma NATIVA, tocando temas relacionados con el lenguaje de programación Kotlin Java y Swift.
 - Non-Native: En este stage encontrarán talleres y charlas enfocadas en el desarrollo de aplicaciones para las plataformas Android e iOS utilizando frameworks como: Flutter, React Native, SDKs como Ionic o Progressive Web Apps.
 
 También tendremos paneles de discusión, en los cuales tocaremos temas de mucha relevancia en el día a día de cualquier desarrollador móvil.

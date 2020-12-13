@@ -123,11 +123,11 @@
       },
       "days": {
         "label": "Stages",
-        "number": "3"
+        "number": "2"
       },
       "sessions": {
         "label": "Sesiones",
-        "number": "60"
+        "number": "38"
       },
       "tracks": {
         "label": "Paneles",

@@ -29,6 +29,11 @@
       "label": "Equipo"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },
+    {
       "route": "blog",
       "permalink": "/blog/",
       "label": "Blog"
