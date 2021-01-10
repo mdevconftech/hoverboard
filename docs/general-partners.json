@@ -1,0 +1,628 @@
+{
+  "adrian_catalan": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F1.%20Adri%C3%A1n%20Catalan%20-%20Adrian%20Catalan-min.jpg?alt=media&token=3276ed1d-5e59-4b13-ba99-f90eeb05f834",
+    "featured": false,
+    "order": 17,
+    "company": "Universidad Galileo",
+    "id": "adrian_catalan",
+    "bio": "Adrian has been part of the software industry for 17+ years as full stack, mobile and machine learning engineer. Past co-organizer of several meetups in Guatemala(GDG Cloud, GDG, Facebook DevC, JS.GT and Nodebots). TensorFlow Certified Developer, Google For Startups Mentor, Design Sprint Master and Google Developer Expert for Android, IoT and Firebase. Consultant, coach and speaker for a range of topics in LATAM, US, Europe&Asia. Currently he is the Innovation Lab Director at Galileo University.",
+    "shortBio": "Adrian has been part of the software industry for 17+ years as full stack, mobile and machine learning engineer. Past co-organizer of several meetups in Guatemala(GDG Cloud, GDG, Facebook DevC, JS.GT and Nodebots)...",
+    "country": "Ciudad de Guatemala, Guatemala",
+    "name": "Adrian Catalan",
+    "title": ""
+  },
+  "angel_bejarano": {
+    "company": "ZipDev",
+    "socials": [
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/arkangel12"
+      },
+      {
+        "link": "https://www.linkedin.com/in/argelbejarano/",
+        "name": "Linkedin",
+        "icon": "linkedin"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/ArkangelB"
+      },
+      {
+        "link": "https://www.facebook.com/ArkangelB12",
+        "icon": "facebook",
+        "name": "Facebook"
+      }
+    ],
+    "shortBio": "Flutter GDE,  con más de 10 años de experiencia en desarrollo de software, creador de la comunidad de Flutter y Dart en Español ",
+    "name": "Argel Bejarano",
+    "order": 2,
+    "featured": true,
+    "id": "angel_bejarano",
+    "country": "Hermosillo, Sonora, México",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FDevFest%20Profile%20-%20Argel%20Bejarano.jpeg?alt=media&token=6ce4f978-01c3-4998-80c6-c3ac5ed098bc",
+    "title": "Software Developer",
+    "bio": "Flutter GDE,  con más de 10 años de experiencia en desarrollo de software, creador de la comunidad de Flutter y Dart en Español y profesor de Dart en Platzi."
+  },
+  "armando_pico": {
+    "country": "Lima, Perú",
+    "title": "",
+    "order": 22,
+    "bio": "Líder técnico Android en Cornershop Inc., \"lifelong learner\", host de Codalot Podcast (@codalotdev), youtuber por hobby, gusto de la cocina y de andar en bici. Me gusta compartir mis experiencias y rodearme de personas buena onda que buscan superarse a sí mismas.",
+    "name": "Armando Picón",
+    "featured": false,
+    "shortBio": "Líder técnico Android en Cornershop Inc., \"lifelong learner\", host de Codalot Podcast (@codalotdev), youtuber por hobby, gusto de la cocina y de andar en bici. Me gusta compartir mis experiencias y...",
+    "id": "armando_pico",
+    "company": "Cornershop Inc.",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FPPd7i9x4_400x400%20-%20Armando%20Pic%C3%B3n.jpg?alt=media&token=31ae0528-f496-482c-9867-c01389a07594"
+  },
+  "brian_castillo": {
+    "country": "Santiago, Chile",
+    "company": "Wibo",
+    "featured": false,
+    "order": 23,
+    "name": "Brian Castillo",
+    "shortbio": "He is a Geek who loves videogames, he is currently the founder and CTO at WIBO it's a mobile engagement platform for the everyday business with solutions like self-service & grab and go...",
+    "title": "",
+    "id": "brian_castillo",
+    "bio": "He is a Geek who loves videogames, he is currently the founder and CTO at WIBO it's a mobile engagement platform for the everyday business with solutions like self-service & grab and go. Wibo increases efficiency, meaning sales and also uses transactional based data to create engagement.  With over 6 years working with mobile technologies. Founder and former CTO of Horses Developer, a software company specialized in mobile solutions.",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fbrian_dev%20-%20Brian%20Castillo-min.png?alt=media&token=488c2904-6b19-43cd-9ef0-ff7dc51c6f66"
+  },
+  "bruno_aybar": {
+    "shortBio": "Principal Engineer @ Avantica Technologies. 7 años de experiencia desarrollando aplicaciones móviles de todo tipo. Instructor de Android & Kotlin...",
+    "bio": "Principal Engineer @ Avantica Technologies. 7 años de experiencia desarrollando aplicaciones móviles de todo tipo. Instructor de Android & Kotlin. Co-organizador de la comunidad Android Dev Perú.",
+    "featured": true,
+    "socials": [
+      {
+        "icon": "github",
+        "link": "github.com/bruno125",
+        "name": "Github"
+      },
+      {
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/bruno-aybar/"
+      },
+      {
+        "icon": "twitter",
+        "link": "twitter.com/brunoaybarg",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "brunoaybar.com",
+        "name": "Website"
+      }
+    ],
+    "id": "bruno_aybar",
+    "title": "",
+    "order": 6,
+    "country": "Lima, Peru",
+    "company": "Avantica Technologies",
+    "name": "Bruno Aybar",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F20190824055120_IMG_1669%20-%20Bruno%20Aybar-min.JPG?alt=media&token=126a23bd-1e57-4f62-be6f-17534c4fb868"
+  },
+  "cecilia_castillo": {
+    "order": 16,
+    "id": "cecilia_castillo",
+    "company": "Xoom",
+    "name": "Cecilia Castillo",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fme%20-%20Ana%20Cecilia%20Castillo-min.jpg?alt=media&token=5c487f64-f20d-45a2-adb5-9edb091aa457",
+    "featured": false,
+    "bio": "Ingeniera en Sistemas, desarrolladora de software ha desarrollado aplicaciones móviles por más de 8 años tanto para android como iOS actualmente trabaja desarrollando iOS en Xoom a PayPal Service. Co-Organizadora del GDG Guatemala, Embajadora de Women Techmakers. Runner, Speaker y me encanta leer.",
+    "shortBio": "Ingeniera en Sistemas, desarrolladora de software ha desarrollado aplicaciones móviles por más de 8 años tanto para android como iOS actualmente trabaja desarrollando iOS en Xoom a PayPal Service...",
+    "country": "Guatemala, Ciudad de Guatemala"
+  },
+  "cristian_gomez": {
+    "id": "cristian_gomez",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fprofile%20copy%20-%20Cristian%20Gomez%20-%20Cristian%20Gomez-min.jpg?alt=media&token=6a47061f-9d6d-4a27-b68c-4b2e3bfc75f9",
+    "name": "Cristian Gomez",
+    "country": "Medellin, Colombia",
+    "company": "Matter Supply Co",
+    "bio": "Cristian es desarrollador de software, actualmente enfocado en el desarrollo de apps usando el JAMSTACK y también como GDE de Android. Activo en las comunidades de desarrollo de Colombia y Latam. Co-organizador de Droids4Droids, conferencia especializada para desarrolladores Android, Charlista de conferencias como Droidcon (Polonia, Santo Domingo). En su tiempo libre disfruta de la fotografía y tocar la guitarra.",
+    "order": 4,
+    "shortBio": "Cristian es desarrollador de software, actualmente enfocado en el desarrollo de apps usando el JAMSTACK y también como GDE de Android. Activo en las comunidades de desarrollo de Colombia y Latam...",
+    "title": "Software Developer",
+    "socials": [
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/go-cristian/"
+      },
+      {
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/go-cristian/"
+      },
+      {
+        "link": "https://twitter.com/iyubinest",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ]
+  },
+  "diego_velasquez": {
+    "company": "Go",
+    "shortBio": "Soy de Lima Perú. GDE en Dart y Flutter con más de 10 años de experiencia en el desarrollo de apps móviles...",
+    "name": "Diego Velásquez López",
+    "socials": [
+      {
+        "icon": "github",
+        "link": "github.com/diegoveloper",
+        "name": "Github"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/diegoveloper/"
+      },
+      {
+        "link": "https://twitter.com/diegoveloper",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "www.diegoveloper.com"
+      },
+      {
+        "link": "www.youtube.com/diegoveloper",
+        "name": "Youtube",
+        "icon": "youtube"
+      }
+    ],
+    "bio": "Soy de Lima Perú. GDE en Dart y Flutter con más de 10 años de experiencia en el desarrollo de apps móviles Android/iOS/Flutter. Ing. de Software Senior en Go social, portland USA.",
+    "title": "Software Engineer",
+    "order": 1,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fdiego_profile%20-%20Diego%20Vel%C3%A1squez-min.jpg?alt=media&token=513f1420-73cd-44aa-83b0-71b2fb5f2cf7",
+    "id": "diego_velasquez",
+    "featured": true,
+    "country": "Lima, Perú"
+  },
+  "dinorah_tovar": {
+    "id": "dinorahdinorah_tovar",
+    "bio": "Dinorah is Mobile Platform Engineer and Tech Advocate at Konfio, named the number one startup to work by LinkedIn in Mexico, In the past, she was the lead mobile engineering at Lonely Planet and the Boston Consulting Group. She’s also a speaker in many tech conferences for the community, like Women Who Code, Droidcon, Android Summit, DevFest, and Kotlin Everywhere, who is passionate about developers, android, and diversity in tech.",
+    "featured": true,
+    "title": "",
+    "order": 9,
+    "shortBio": "Dinorah is Mobile Platform Engineer and Tech Advocate at Konfio, named the number one startup to work by LinkedIn in Mexico, In the past, she was the lead mobile engineering at...",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FDinorah%20Tovar%20-%20Dinorah%20Tovar-min.jpeg?alt=media&token=23ac33e2-0dae-4ca4-8d03-456416a488c6",
+    "socials": [
+      {
+        "name": "Github",
+        "link": "https://github.com/dinorahto",
+        "icon": "github"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/dinorah-tovar-17463364/"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/DDinorahtovar",
+        "icon": "twitter"
+      },
+      {
+        "link": "https://medium.com/knowing-android",
+        "name": "Medium",
+        "icon": "website"
+      }
+    ],
+    "country": "Mexico",
+    "name": "Dinorah Tovar",
+    "company": "Konfio"
+  },
+  "facundo_rodriguez": {
+    "title": "",
+    "shortBio": "Facundo es un desarrollador Android con experiencia en esta plataforma desde Android Donut (1.6), y tuvo un amor a primera vista con ...",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Ffacu%20-%20Facundo%20Rodr%C3%ADguez%20Arceri.jpg?alt=media&token=b4cdcfe2-e306-409b-8550-2c928307cd15",
+    "socials": [
+      {
+        "name": "Github",
+        "icon": "github",
+        "link": "github.com/facundomr"
+      },
+      {
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/facundomr"
+      },
+      {
+        "link": "https://www.twitter.com/facundomr",
+        "name": "Twitter",
+        "icon": "twitter"
+      },
+      {
+        "link": "https://speakerdeck.com/facundomr",
+        "name": "Website",
+        "icon": "website"
+      }
+    ],
+    "name": "Facundo Rodríguez Arceeri",
+    "featured": true,
+    "bio": "Facundo es un desarrollador Android con experiencia en esta plataforma desde Android Donut (1.6), y tuvo un amor a primera vista con Kotlin. También es co-organizador de Android Devs Buenos Aires y GDG Buenos Aires.",
+    "country": "Buenos Aires, Argentina",
+    "order": 3,
+    "id": "facundo_rodriguez"
+  },
+  "fernando_herrera": {
+    "featured": true,
+    "name": "Fernando Herrera",
+    "bio": "Full-Stack developer, Analista Programador y Profesor en línea.",
+    "socials": [
+      {
+        "icon": "github",
+        "link": "https://github.com/Klerith",
+        "name": "Github"
+      },
+      {
+        "link": "https://www.linkedin.com/in/fernando-herrera-b6b204200/",
+        "icon": "linkedin",
+        "name": "Linkedin"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/Fernando_Her85",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://fernando-herrera.com",
+        "name": "Website",
+        "icon": "website"
+      }
+    ],
+    "order": 10,
+    "title": "",
+    "country": "Ottawa, Canadá",
+    "shortBio": "Full-Stack developer, Analista Programador y Profesor en línea.",
+    "company": "Udemy",
+    "id": "fernando_herrera",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FIMG_0287%20-%20Fernando%20Herrera-min.JPG?alt=media&token=5daaac27-6adb-4b92-86d8-87aecd577e01"
+  },
+  "frank_moreno": {
+    "name": "Frank Andre Moreno Vera",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Ffrank%20-%20Frank%20Moreno-min%20(1).jpg?alt=media&token=7f6987a0-d148-4fd0-b84d-a942b9c8e636",
+    "bio": "Desarrollador de Flutter desde hace poco más 3 años (cuando estaba en su versión alpha) soy Co-Founder de la comunidad de Flutter Perú. Me gusta desentrañar todo tecnología y también hago estudios sobre la historia y evolución de las tecnologías.  También tengo artículos indexados sobre IoT, escribo exporádicamente en Medium y tengo un canal de YouTube \"Grinch Code\" en el cual hablo de como evitar las malas prácticas de código y sobre los análisis que debemos hacer como devs.",
+    "shortBio": "Desarrollador de Flutter desde hace poco más 3 años (cuando estaba en su versión alpha) soy Co-Founder de la comunidad de Flutter Perú. Me gusta desentrañar todo tecnología y también hago estudios sobre la historia y evolución de las tecnologías...",
+    "company": "Freelancer",
+    "title": "",
+    "id": "frank_moreno",
+    "order": 28,
+    "featured": false,
+    "country": "Lima, Perú"
+  },
+  "gianny_alfaro": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FGianny%20Alfaro%20-%20Gianny%20Alfaro-min.png?alt=media&token=04695348-c83f-417b-834c-a129c561cdef",
+    "shortBio": "Ingeniera Informática de la Universidad Nacional de Trujillo. Candidata a MBA - CENTRUM PUCP Graduate Business School y...",
+    "company": "Scotiabank Perú",
+    "featured": true,
+    "country": "Lima, Perú",
+    "order": 5,
+    "name": "Gianny Alfaro Gutierrez",
+    "bio": "Ingeniera Informática de la Universidad Nacional de Trujillo. Candidata a MBA - CENTRUM PUCP Graduate Business School y con más de 3 años de experiencia desarrollando aplicaciones móviles Android. Me gusta el Body Painting y las películas de ficción. ",
+    "socials": [
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/giannyalfaro"
+      },
+      {
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/gianny-alfaro/"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/GiannyRomie",
+        "icon": "twitter"
+      },
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "link": "https://www.facebook.com/galfarogutierrez/"
+      }
+    ],
+    "id": "gianny_alfaro",
+    "title": "Computer Engineer"
+  },
+  "guillermo_paredes": {
+    "order": 25,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F68919717_2807124109317519_5213743676303343616_o%20-%20Guillermo%20David%20Paredes%20Torrez-min.jpg?alt=media&token=30d35de8-e801-4c0b-ae9c-8f67115a8bc4",
+    "name": "Guillermo Paredes",
+    "country": "La Paz, Bolivia",
+    "featured": false,
+    "title": "",
+    "company": "Tutator Development Company",
+    "bio": "Soy un ingeniero de desarrollo de software con cuatro años de experiencia. Desarrollo aplicaciones web, aplicaciones móviles que ayudan a las pequeñas y grandes empresas a hacer crecer su negocio. Disfruto compartiendo conocimientos sobre tecnología organizando eventos y encuentros. En mis tiempos libres jugando CS:GO ",
+    "shortBio": "Soy un ingeniero de desarrollo de software con cuatro años de experiencia. Desarrollo aplicaciones web, aplicaciones móviles que ayudan a las pequeñas y grandes empresas a hacer crecer su negocio...",
+    "id": "guillermo_paredes"
+  },
+  "gunar_ortiz": {
+    "order": 20,
+    "name": "Gunar Ortiz",
+    "bio": "Gunar es Mobile developer y UX designer con 4 años de experiencia en el desarrollo de aplicaciones móviles. Es miembro de la comunidad GDG La Paz y actualmente es líder de tecnología en una startup. Participó como expositor en diferentes eventos de comunidades tecnológicas.",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fperfilgu%20cuadrado%20-%20Gunar%20Ortiz-min.jpg?alt=media&token=7ca705b3-e602-4076-8638-d76ad6574fb1",
+    "featured": false,
+    "id": "gunar_ortiz",
+    "country": "La Paz, Bolivia",
+    "company": "",
+    "shortBio": "Gunar es Mobile developer y UX designer con 4 años de experiencia en el desarrollo de aplicaciones móviles. Es miembro de la comunidad GDG La Paz y actualmente es líder de tecnología en una startup...",
+    "title": ""
+  },
+  "hansy_schmitt": {
+    "featured": false,
+    "company": "Interseguro",
+    "id": "hansy_schmitt",
+    "country": "Lima . Peru",
+    "name": "Hansy Schmitt",
+    "shortBio": "Desarrollador Mobile , coleccionador de gadgets bluetooth , hardware hacker hobista y amante de Flutter ( excepto los 31 de febrero)",
+    "title": "",
+    "bio": "Desarrollador Mobile , coleccionador de gadgets bluetooth , hardware hacker hobista y amante de Flutter ( excepto los 31 de febrero).",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F40385444_10211841558970553_6288262099109937152_o%20-%20Hansy%20Schmitt-min.jpg?alt=media&token=e97dd07e-6733-45f7-9075-da49deb0a92b",
+    "order": 29
+  },
+  "irving_cossio": {
+    "featured": true,
+    "name": "Irvin Cossio Chavalier",
+    "country": "Cochabamba, Bolivia",
+    "bio": "Actualmente trabajo como freelance para Monbuilding una startup francesa, en el cual trabajo como desarrollador mobile en React Native, Trainer para pasantes y encargado de mantenimiento y desarrollo de Android. Entre algunos de mis skills están Javascript, Typescript, Android, React Native. Lo que me apasiona es aprender y compartir.",
+    "order": 8,
+    "socials": [
+      {
+        "name": "Github",
+        "link": "https://github.com/irvin373",
+        "icon": "github"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/irvin373"
+      },
+      {
+        "link": "https://twitter.com/irvinvisho",
+        "icon": "twitter",
+        "name": "Twitter"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/irvin.chavalier/"
+      }
+    ],
+    "shortBio": "Actualmente trabajo como freelance para Monbuilding una startup francesa, en el cual trabajo como desarrollador mobile en React Native...",
+    "title": "",
+    "id": "irving_cossio",
+    "company": "Monbuilding",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F60774555_1026615750869054_1097784247764123648_n%20-%20Irvin%20Cossio%20Chavalier-min.jpg?alt=media&token=572b70be-8ec2-4ed6-a776-20ac74becef3"
+  },
+  "ivan_sangueza": {
+    "featured": true,
+    "bio": "Desarrollador Móvil. Entusiasta de las comunidades de tecnologías, promotor de colaboración y el trabajo en equipo amante del arte y la creatividad. Líder en en la comunidad GDG La Paz.",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FIvan%20Sangueza%20-%20Ivan%20Limberth%20Sangueza%20Alarcon-min.JPG?alt=media&token=58dc41ba-65db-4d83-be82-3e63f403e28a",
+    "company": "Qhali",
+    "name": "Ivan Limberth Sangueza Alarcon",
+    "order": 0,
+    "socials": [
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/ivansanguezax"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/ivansanguezax/"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/ivansanguezaX"
+      },
+      {
+        "name": "Linkedin",
+        "link": "https://www.facebook.com/ivansanguezaX",
+        "icon": "facebook"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/ivansanguezax/",
+        "icon": "instagram"
+      }
+    ],
+    "title": "Mobile Developer",
+    "shortBio": "Desarrollador Móvil. Entusiasta de las comunidades de tecnologías, promotor de colaboración y el trabajo en equipo...",
+    "id": "ivan_sangueza",
+    "country": "La Paz Bolivia"
+  },
+  "jhonny_ventiades": {
+    "socials": [
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/jhonny-ventiades"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/jhonnyventiades/",
+        "name": "Linkedin"
+      },
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "link": "https://www.facebook.com/jhonnyventiades"
+      },
+      {
+        "name": "Declarando Variables Podcast",
+        "link": "https://declarandovariables.com/",
+        "icon": "website"
+      }
+    ],
+    "order": 11,
+    "country": "Santa Cruz, Bolivia",
+    "bio": "Soy Ingeniero en Sistemas, me dedico al desarrollo Mobile y Web, actualmente como FullStack Developer en AssureSoft y CTO de PQLatam. Cuento con experiencia en Bolivia, India y Egipto. Certificado como Google Associate Android Developer, Analista de Datos del programa NanoDegree y UX Designer miembro de IDF. Creador del Podcast Declarando Variables, autor de 2 cursos de Android con Kotlin y Firebase, Docente, conferencista y Co-Organizador del GDG Santa Cruz y Co-Fundador del CityAI Santa Cruz.",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FIMG_20171123_201455%20-%20Jhonny%20Ventiades%20-%20Jhonny%20Ventiades-min.jpg?alt=media&token=48555fba-bcbd-49f4-9bd1-34c49bfe631b",
+    "company": "Assuresoft",
+    "name": "Jhonny Ventiades",
+    "featured": true,
+    "shortBio": "Soy Ingeniero en Sistemas, me dedico al desarrollo Mobile y Web, actualmente como FullStack Developer en AssureSoft y CTO de PQLatam. Cuento con experiencia en Bolivia, India y Egipto...",
+    "id": "jhonny_ventiades",
+    "title": "System Engineer"
+  },
+  "joey_villa": {
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fjoey%20devilla%20headshot-min.jpg?alt=media&token=039617df-cae1-4b2d-b481-b5b2a8b5eab8",
+    "shortBio": "Joey first job was developing interactive CD-ROMs and Windows 95 desktop applications for a small artist-run company in Toronto, Canada. He went to work at a San Francisco startup during the dot-com era...",
+    "id": "joey_villa",
+    "title": "",
+    "bio": "Joey first job was developing interactive CD-ROMs and Windows 95 desktop applications for a small artist-run company in Toronto, Canada. He went to work at a San Francisco startup during the dot-com era, and has since worked as a programmer or developer evangelist at Tucows, Microsoft, and Shopify. He learned mobile development from a RayWenderlich.com book, and years later, he co-wrote the 8th edition of that book. He is now part of the Developer Marketing team at Auth0 and lives in Tampa, Florida, where he is working on his Spanish language skills. ",
+    "name": "Joey de Villa",
+    "order": 21,
+    "company": "Auth0, Senior R&D Content Engineer",
+    "featured": true,
+    "country": "Toronto, Canadá"
+  },
+  "jose_lujan": {
+    "company": "Diplus",
+    "country": "Cancun México",
+    "featured": true,
+    "order": 18,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FFoto%20el%2004-12-20%20a%20la(s)%2023.43%20%237%20-%20Jos%C3%A9%20Dimas%20Luj%C3%A1n%20Castillo-min.jpg?alt=media&token=75aa9f77-20a1-4ed4-9380-ad0b9725ad14",
+    "title": "",
+    "shortBio": "Developer, Teacher & Writer. Android developer(10 years) and creating software a little more. Teaching on the most important online platforms, more than 250 applications created...",
+    "bio": "Developer, Teacher & Writer. Android developer(10 years) and creating software a little more. Teaching on the most important online platforms, more than 250 applications created and published in play store and app store.",
+    "id": "jose_lujan",
+    "name": "José Luján"
+  },
+  "juan_guillermo": {
+    "name": "Juan Guillermo Gómez Torres",
+    "socials": [
+      {
+        "icon": "github",
+        "link": "https://github.com/jggomez",
+        "name": "Github"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jggomezt/",
+        "icon": "linkedin",
+        "name": "Linkedin"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/jggomezt"
+      },
+      {
+        "name": "Anchor",
+        "icon": "website",
+        "link": "https://anchor.fm/jggomez"
+      }
+    ],
+    "title": "",
+    "company": "Wordbox",
+    "bio": "Juan Guillermo es co-organizador y fundador del GDG Cali. Ha estado involucrado en la comunidad tecnológica durante los últimos 15 años. Asiste a más de 30 eventos al año como orador invitado en toda Latinoamérica, donde habla sobre móvil, android, cloud, firebase, kotlin y arquitectura de software. Es reconocido por Google como un experto en Firebase y Google Cloud Platform. Actualmente es líder técnico de una startup en CDMX.",
+    "order": 7,
+    "featured": true,
+    "country": "Cali, Colombia",
+    "id": "juan_guillermo",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Ffoto%20-%20Juan%20Guillermo%20Gomez%20Torres-min.jpg?alt=media&token=605a7c7c-a958-44bc-8537-8027ccd8bbe0",
+    "shortBio": "Juan Guillermo es co-organizador y fundador del GDG Cali. Ha estado involucrado en la comunidad tecnológica durante los últimos 15 años. Asiste a más de 30 eventos al año como orador invitado en toda Latinoamérica..."
+  },
+  "kenji_kawaida": {
+    "featured": false,
+    "company": "Kytech",
+    "title": "",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F16425750_10154907504008808_8756664443806384030_n%20-%20kenji%20kawaida.jpg?alt=media&token=9ff8c81b-77bd-4f98-9ca9-f0ef9cde66d6",
+    "bio": "Desarrollador Senior en aplicaciones móviles en Bolivia y en el exterior, dedicándose como especialidad a la programación Android. Con más de 10 años de experiencia en desarrollo móvil. Con certificación internacional en Advanced Training Consultants (ATC): • Android Certified Application Developer • Android Certified Application Engineer Organizer y speakers en Google Developer Group – Santa Cruz, con más de 6 años de experiencia en la capacitación en tecnologías de Google. ",
+    "country": "Santa Cruz, Bolivia",
+    "name": "Kenji Kawaida",
+    "id": "kenji_kawaida",
+    "shortBio": "Desarrollador Senior en aplicaciones móviles en Bolivia y en el exterior, dedicándose como especialidad a la programación Android. Con más de 10 años de experiencia en desarrollo móvil...",
+    "order": 12
+  },
+  "marcelo_torrez": {
+    "title": "",
+    "shortBio": "UI/UX Designer, Android & iOS Developer, Frontend Developer, Flutter, React, AWS, Google Cloud, Firebase, AI, ML, Python y apasionado por la tecnología,  Mobile developer en Vinnove...",
+    "bio": "UI/UX Designer, Android & iOS Developer, Frontend Developer, Flutter, React, AWS, Google Cloud, Firebase, AI, ML, Python y apasionado por la tecnología,  Mobile developer en Vinnove,  organizador del GDG La Paz, miembro de PyData La Paz y Flutter Devs Bolivia",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fmac%20-%20Marcelo%20Torrez%20Azuga-min.jpg?alt=media&token=998d58da-8ba9-41b9-bc97-0b5b5ada66a7",
+    "company": "Vinnove",
+    "country": "La Paz, Bolivia",
+    "featured": false,
+    "id": "marcelo_torrez",
+    "order": 27,
+    "name": "Marcelo Torrez Azuga"
+  },
+  "marco_salazar": {
+    "featured": false,
+    "title": "",
+    "order": 16,
+    "bio": "Mobile developer @ Avantica Technologies. Más de 7 años trabajando en el área mobile, enfocado principalmente en iOS, tanto en Objective C y Swift; pero también con trabajando con Android (Kotlin) y con frameworks híbridos como  Phonegap, Xamarin y React Native.",
+    "company": "Avantica Technologies",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fmarco%20salazar%20-%20Marco%20Salazar-min.jpg?alt=media&token=8d0240cc-304e-4da7-ad24-96447dedd61f",
+    "shortBio": "Mobile developer @ Avantica Technologies. Más de 7 años trabajando en el área mobile, enfocado principalmente en iOS, tanto en Objective C y Swift; pero también con trabajando con Android (Kotlin) y...",
+    "name": "Marco Salazar",
+    "country": "Quesada, Costa Rica",
+    "id": "marco_salazar"
+  },
+  "pablo_montes": {
+    "id": "pablo_montes",
+    "order": 26,
+    "featured": false,
+    "shortBio": "CEO de Zoundbar, somos una empresa de tecnología 100% boliviana con la visión de revolucionar el entretenimiento y la experiencia de las personas al ir a bares, restaurantes y otros negocios...",
+    "name": "Pablo Montes Jordan",
+    "title": "",
+    "company": "ZOUNDBAR SRL",
+    "country": "La Paz, Bolivia",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FWhatsApp%20Image%202020-12-02%20at%2010.21.19%20-%20Pablo%20Montes%20Jordan-min.jpeg?alt=media&token=39f902f6-3a16-4aef-b806-1c99467a2791",
+    "bio": "CEO de Zoundbar, somos una empresa de tecnología 100% boliviana con la visión de revolucionar el entretenimiento y la experiencia de las personas al ir a bares, restaurantes y otros negocios. Soy Ingeniero de Sistemas, llevo dando consultorías en tecnología hace 5 años, actualmente soy consultor con el Departamento de Seguridad de Naciones Unidas Bolivia. Tengo amplia experiencia en tecnologías móviles, web, backend, ciencia de datos y UI/UX. Soy activista, ecologista y algo anárquico."
+  },
+  "roberto_miranda": {
+    "company": "Cornershop",
+    "id": "roberto_miranda",
+    "shortBio": "Mi nombre es Roberto. Soy de a Burgos(España) pero actualmente estoy viviendo en Chile. Me encsnts Android y todo lo relacionado con e mundo mobile, pero lo que más me gusta...",
+    "name": "Roberto Miranda",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2FIMG-20201209-WA0019%20-%20Roberto%20Miranda.jpg?alt=media&token=9774d63a-47bb-41cb-80d9-a5e4a631c97f",
+    "country": "Concepción, Chile",
+    "bio": "Mi nombre es Roberto. Soy de a Burgos(España) pero actualmente estoy viviendo en Chile. Me encsnts Android y todo lo relacionado con e mundo mobile, pero lo que más me gusta es poder disfrutar de la compañía de los mios",
+    "featured": false,
+    "order": 19
+  },
+  "santiago_carrillo": {
+    "order": 13,
+    "country": "Bogota, Colombia",
+    "featured": true,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F2019-GDE-Android-Profile-Badge-Santi%20Carrillo%20-%20santiago%20carrillo-min.png?alt=media&token=836770b3-091e-43e4-beb2-9ad86cc66faa",
+    "company": "Ada School",
+    "bio": "Santiago es MSc en Ingeniería de Software de la Universidad de Amsterdam, cuenta con +10 años de experiencia como desarrollador Android, es reconocido por Google como experto en Android, hace parte de la red de mentores de la aceleradora de Google Launchpad, diseño y enseño durante 4 años la asignatura de Emprendimiento en TI de la Escuela Colombiana de Ingeniería Julio Garavito.",
+    "title": "",
+    "id": "santiago_carrillo",
+    "shortBio": "Santiago es MSc en Ingeniería de Software de la Universidad de Amsterdam, cuenta con +10 años de experiencia como desarrollador Android, es reconocido por Google como experto en Android...",
+    "name": "Santiago Carrillo"
+  },
+  "segio_ochoa": {
+    "title": "",
+    "name": "Sergio Antonio Ochoa Martinez",
+    "bio": "Desarrollador Freelancer, desarrollador en OpenKM, Cofundador de GDG Sucre,  Embajador de GitKraken, Desarrollador full stack, Desarrollador de aplicaciones nativas, bridge y hibridas en Android y IOS, encargado de la comunidad de OpenKM, experiencia laboral como Freelancer con el desarrollo de aplicaciones para empresas públicas y privadas, nacionales y extranjeras, interesado en el aprendizaje y enseñanza de nuevas tecnologías.",
+    "featured": false,
+    "country": "Villazon, Bolivia",
+    "id": "segio_ochoa",
+    "shortBio": "Desarrollador Freelancer, desarrollador en OpenKM, Cofundador de GDG Sucre,  Embajador de GitKraken, Desarrollador full stack, Desarrollador de aplicaciones nativas, bridge y hibridas en Android y IOS...",
+    "company": "OpenKM",
+    "order": 24,
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2F4a1cd4bd-4be7-4042-bbe0-37948a342ab8%20-%20Sergio%20Antonio%20Ochoa%20Martinez.jpeg?alt=media&token=da8fe695-5c1b-42a8-8811-c0ec27b97a0c"
+  },
+  "yuri_camacho": {
+    "title": "",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevcamp-b122d.appspot.com/o/images%2Fspeakers%2Fbadge%20(1)%20-%20Yury%20Camacho-min%20(1).png?alt=media&token=af68f615-4339-4e46-aed1-0462f659b41e",
+    "order": 14,
+    "featured": true,
+    "id": "yuri_camacho",
+    "name": "Yury Camacho",
+    "bio": "Yury Camacho es Ingeniero de Sistemas y Google Developer Expert en Android & Kotlin, mentor Google Launchpad,  Desarrollador de aplicaciones móviles experimentado,  orador internacional con más de 30 charlas sobre desarrollo móvil. trabajo en empresas como Globant, JPMorgan Chase , OLX y actualmente es Android/IOS Tech Lead en Rappi. ",
+    "country": "Cochabamba, Bolivia",
+    "company": "Rappi",
+    "shortBio": "Yury Camacho es Ingeniero de Sistemas y Google Developer Expert en Android & Kotlin, mentor Google Launchpad,  Desarrollador de aplicaciones móviles experimentado,  orador internacional con más de 30 charlas sobre desarrollo móvil..."
+  }
+}

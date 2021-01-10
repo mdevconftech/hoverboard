@@ -65,13 +65,6 @@ class SessionDetails extends SpeakersHoC(
                 </template>
               </div>
 
-              <div class="float-button">
-                <paper-fab
-                  icon="hoverboard:[[_getFeaturedSessionIcon(featuredSessions, session.id)]]"
-                  hidden$="[[!viewport.isLaptopPlus]]"
-                  on-click="_toggleFeaturedSession"
-                ></paper-fab>
-              </div>
             </div>
           </app-toolbar>
         </app-header>
