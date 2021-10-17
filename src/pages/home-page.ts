@@ -161,21 +161,6 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           </marked-element>
           </div>
 
-          <div class="action-buttons" layout horizontal center-justified wrap>
-            <paper-button
-              class="watch-video"
-              on-click="_playVideo"
-              ga-on="click"
-              ga-event-category="video"
-              ga-event-action="watch"
-              ga-event-label="hero block - view highlights"
-            >
-              <iron-icon icon="hoverboard:movie"></iron-icon>
-              {$ viewHighlights $}
-            </paper-button>
-            
-          </div>
-
           <div class="scroll-down" on-click="_scrollNextBlock">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -244,13 +229,12 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <fork-me-block></fork-me-block>
       {% endif %}
       <about-block></about-block>
-      <speakers-block></speakers-block>
+      <previous-speakers-block></previous-speakers-block>
 
 
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>
-      <latest-posts-block></latest-posts-block>
       
       <partners-block></partners-block>
       <footer-block></footer-block>

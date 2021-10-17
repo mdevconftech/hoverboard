@@ -1,9 +1,9 @@
 {
-  "title": "Mobile Developers Conference 2020",
+  "title": "Mobile Developers Conference 2021",
   "description": "¡Sé parte del evento, aprende cosas nuevas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
-  "dates": "Diciembre 15-19, 2020",
+  "dates": "Noviembre 17-20, 2021",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Compartir",
   "followOur": "Sigue nuestro",
@@ -40,6 +40,11 @@
       "title": "Acerca de",
       "links": [
         {
+          "name": "mDevConf 2020",
+          "url": "https://2020.mdevconf.tech/",
+          "newTab": true
+        },
+        {
           "name": "Kotlin La Paz",
           "url": "https://www.facebook.com/KotlinLaPaz",
           "newTab": true
@@ -50,7 +55,7 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
+          "name": "Conoce al equipo del mDevConf",
           "url": "https://mdevconf.tech/team/",
           "newTab": true
         }
@@ -60,6 +65,11 @@
       "title": "Explore eventos anteriores",
       "links": [
         {
+          "name": "mDevConf 2020",
+          "url": "https://2020.mdevconf.tech",
+          "newTab": true
+        },
+        {
           "name": "Kotlin Everywhere La Paz",
           "url": "https://everywhere.kotlinlapaz.dev/",
           "newTab": true
@@ -67,23 +77,8 @@
       ]
     },
     {
-      "title": "Event Resources",
+      "title": "Recursos del evento",
       "links": [
-        {
-          "name": "Propuesta de Partnership",
-          "url": "",
-          "newTab": true
-        },
-        {
-          "name": "Información de propuesta de Partnership",
-          "url": "https://drive.google.com/file/d/1c4tmX7e06HjVf0lEh4ixKKGW5XqK30CX/view?usp=sharing",
-          "newTab": true
-        },
-        {
-          "name": "Call for Speakers",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSdpHDoWpH3psAz06wnLiMtumQTHFGGNg2frMDvVGuzvxE6WwQ/viewform",
-          "newTab": true
-        },
         {
           "name": "FAQs",
           "url": "/faq/",
@@ -92,7 +87,6 @@
       ]
     }
   ],
-  "subscribeNote": "¡Sin spam, solo las últimas noticias y actualizaciones!",
   "codeOfConduct": "Código de Conducta",
   "codeOfConductBlock": {
     "organization": "Kotlin La Paz",
@@ -106,7 +100,7 @@
     "title": "Acerca de",
     "callToAction": {
       "featuredSessions": {
-        "description": "El mDevConf 2020 es una iniciativa de 2 comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 5 días de sesiones y talleres online.",
+        "description": "El mDevConf 2021 es una iniciativa de 2 comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 5 días de sesiones y talleres online.",
         "label": "CONFIRMA TU ASISTENCIA",
         "link": "https://www.meetup.com/es-ES/mdevconf/events/274567688/"
       },
@@ -154,10 +148,10 @@
     "toast": "Te contactaremos pronto!"
   },
   "featuredVideos": {
-    "title": "Kotlin La Paz Vídeos destacados",
+    "title": "mDevConf 2020 Vídeos destacados",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/KotlinLaPaz"
+      "link": "https://www.youtube.com/c/mDevConf"
     }
   },
   "blog": {
@@ -184,9 +178,9 @@
     }
   },
   "previousSpeakersBlock": {
-    "title": "Anteriores speakers",
+    "title": "Speakers mDevConf 2020",
     "callToAction": {
-      "label": "Ver todo",
+      "label": "Ver todos",
       "link": "/previous-speakers/"
     }
   },
@@ -209,25 +203,8 @@
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
     }
   },
-  "subscribeBlock": {
-    "callToAction": {
-      "description": "Reciba notificaciones sobre las actualizaciones importantes de la conferencia",
-      "label": "Suscribirse"
-    },
-    "yourEmail": "Tu correo electrónico",
-    "emailAddress": "Dirección de Correo Electrónico",
-    "firstName": "Nombres",
-    "lastName": "Apellidos",
-    "formTitle": "Reciba las últimas actualizaciones, conocimientos y noticias sobre mDevConf en su bandeja de entrada.",
-    "emailRequired": "Por favor, introduce una dirección de correo electrónico válida.",
-    "subscribe": "Suscribir",
-    "subscribed": "Suscrito",
-    "close": "Cerrar",
-    "generalError": "Se ha producido un error. Por favor, inténtelo de nuevo más tarde.",
-    "toast": "Suscrito exitosamente!"
-  },
   "team": {
-    "description": "El mDevConf 2020 es una iniciativa de 2 comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, ver los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 5 días de sesiones y talleres online.<br><br>Kotlin La Paz: O también llamada: Kotlin User Group La Paz, es una comunidad enfocada en compartir y realizar actividades en la ciudad de La Paz fomentando el uso y desarrollo del lenguaje de programación número 1 para desarrollar aplicaciones Android, Web y Multiplataforma como lo es Kotlin.<br><br>GDG Sucre: Somos una comunidad en la que nuestra visión es ayudar a que los desarrolladores tengan acceso a talleres, hackatones, charlas y todo las actividades que se puedan hacer para poder ayudar, incentivar y enseñar."
+    "description": "1 es una iniciativa comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, ver los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 4 días de sesiones y talleres online.<br><br>Kotlin La Paz: O también llamada: Kotlin User Group La Paz, es una comunidad enfocada en compartir y realizar actividades en la ciudad de La Paz fomentando el uso y desarrollo del lenguaje de programación número 1 para desarrollar aplicaciones Android, Web y Multiplataforma como lo es Kotlin.<br><br>GDG Sucre: Somos una comunidad en la que nuestra visión es ayudar a que los desarrolladores tengan acceso a talleres, hackatones, charlas y todo las actividades que se puedan hacer para poder ayudar, incentivar y enseñar."
   },
   "schedule": {
     "saveSessionsSignedOut": "Iniciar sesión para guardar sesiones"

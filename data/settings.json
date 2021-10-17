@@ -9,8 +9,8 @@
   "endDate": "2020-12-24T19:00:00+03:00",
   "webapp": {
     "shortName": "mDevConf",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#006666",
+    "backgroundColor": "#006666"
   },
   "dateFormat": {
     "locale": "es-BO"
@@ -32,24 +32,14 @@
       "route": "speakers",
       "permalink": "/speakers/",
       "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Programa"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Únete a la comunidad,<br>¡Aprende nuevas cosas!",
+      "description": "Sé parte de nuestro gran evento<br><b> ● ▴ ■ </b>",
       "background": {
-        "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "color": "#006666",
+        "image": "/images/backgrounds/home.png"
       },
       "fontColor": "#FFF"
     },

@@ -165,27 +165,6 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             <a href="{$ nav.permalink $}" layout vertical center-center>{$ nav.label $}</a>
           </paper-tab>
           {% endfor %}
-
-          <a
-            href="{$ buyTicketUrl $}"
-            target="_blank"
-            rel="noopener noreferrer"
-            ga-on="click"
-            ga-event-category="ticket button"
-            ga-event-action="buy_click"
-          >
-            <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
-          </a>
-          <a
-            href="{$ donationUrl $}"
-            target="_blank"
-            rel="noopener noreferrer"
-            ga-on="click"
-            ga-event-category="ticket button"
-            ga-event-action="buy_click"
-          >
-            <paper-button class="buy-button" primary>{$ donation $}</paper-button>
-          </a>
         </paper-tabs>
 
       </app-toolbar>
@@ -272,8 +251,8 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
     return status === NOTIFICATIONS_STATUS.DEFAULT
       ? 'bell-outline'
       : status === NOTIFICATIONS_STATUS.GRANTED
-      ? 'bell'
-      : 'bell-off';
+        ? 'bell'
+        : 'bell-off';
   }
 
   _hideNotificationBlock(status, blockStatus) {
