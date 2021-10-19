@@ -55,7 +55,7 @@
           "newTab": true
         },
         {
-          "name": "Conoce al equipo del mDevConf",
+          "name": "Conoce al equipo",
           "url": "https://mdevconf.tech/team/",
           "newTab": true
         }
@@ -100,7 +100,7 @@
     "title": "Acerca de",
     "callToAction": {
       "featuredSessions": {
-        "description": "El mDevConf 2021 es una iniciativa de 2 comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 5 días de sesiones y talleres online.",
+        "description": "El mDevConf 2021 es una iniciativa de 2 comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos del exterior en tecnologías móviles durante 4 días de sesiones y talleres online donde podrás aprender de su experiencia y conocimientos en el área.",
         "label": "CONFIRMA TU ASISTENCIA",
         "link": "https://www.meetup.com/es-ES/mdevconf/events/274567688/"
       },
@@ -113,19 +113,19 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Dias",
-        "number": "5"
+        "number": "4"
       },
       "days": {
-        "label": "Stages",
+        "label": "Talleres",
         "number": "2"
       },
       "sessions": {
         "label": "Sesiones",
-        "number": "38"
+        "number": "20"
       },
       "tracks": {
         "label": "Paneles",
-        "number": "3"
+        "number": "1"
       }
     }
   },
@@ -196,15 +196,15 @@
     "title": "Ubicación"
   },
   "galleryBlock": {
-    "title": "#KotlinEverywhere highlights",
-    "description": "El evento KotlinEverywhere el año pasado generó mucha emoción. Vea fotos de charlas destacadas, sesiones de aprendizaje prácticas y todas las experiencias...",
+    "title": "#mDevConf highlights",
+    "description": "El evento mDevConf el año pasado generó mucha emoción. Vea fotos de charlas destacadas, sesiones de aprendizaje prácticas y todas las experiencias...",
     "callToAction": {
       "label": "Ver Todas las fotos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
     }
   },
   "team": {
-    "description": "1 es una iniciativa comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, ver los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 4 días de sesiones y talleres online.<br><br>Kotlin La Paz: O también llamada: Kotlin User Group La Paz, es una comunidad enfocada en compartir y realizar actividades en la ciudad de La Paz fomentando el uso y desarrollo del lenguaje de programación número 1 para desarrollar aplicaciones Android, Web y Multiplataforma como lo es Kotlin.<br><br>GDG Sucre: Somos una comunidad en la que nuestra visión es ayudar a que los desarrolladores tengan acceso a talleres, hackatones, charlas y todo las actividades que se puedan hacer para poder ayudar, incentivar y enseñar."
+    "description": "El mDevConf es una iniciativa comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, ver los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 4 días de sesiones y talleres online.<br><br>Kotlin La Paz: O también llamada: Kotlin User Group La Paz, es una comunidad enfocada en compartir y realizar actividades en la ciudad de La Paz fomentando el uso y desarrollo del lenguaje de programación número 1 para desarrollar aplicaciones Android, Web y Multiplataforma como lo es Kotlin.<br><br>GDG Sucre: Somos una comunidad en la que nuestra visión es ayudar a que los desarrolladores tengan acceso a talleres, hackatones, charlas y todo las actividades que se puedan hacer para poder ayudar, incentivar y enseñar."
   },
   "schedule": {
     "saveSessionsSignedOut": "Iniciar sesión para guardar sesiones"

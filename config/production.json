@@ -4,13 +4,13 @@
   "analytics": "UA-43643469-9",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBPvD87nsFR9fzmD80ZhlTPPwWKtVgum-Y",
-    "authDomain": "mdevconf-74754.firebaseapp.com",
-    "projectId": "mdevconf-74754",
-    "storageBucket": "mdevconf-74754.appspot.com",
-    "messagingSenderId": "175849212038",
-    "appId": "1:175849212038:web:947da016ad9672f6f5a907",
-    "measurementId": "G-7174Z5MY3H"
+    "apiKey": "AIzaSyAmn-VRcX-X1M-7a9ItYxxH7OeoFV3ytso",
+    "authDomain": "mdevconf-2021.firebaseapp.com",
+    "projectId": "mdevconf-2021",
+    "storageBucket": "mdevconf-2021.appspot.com",
+    "messagingSenderId": "816450152134",
+    "appId": "1:816450152134:web:09f738e15a50d2ca9019c7",
+    "measurementId": "G-J5W2D6XZZ0"
   },
   "googleMapApiKey": "AIzaSyCJqlRVGIe6bfU43rga3cnK7tSXXwc7JD8"
 }
