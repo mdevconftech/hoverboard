@@ -1733,21 +1733,30 @@
         {
           "name": "Alicia Rosales",
           "photo": "/images/people/oleh_zasadnyy.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/people%2FIMG_20191219_121518%20-%20Miriam%20Rodriguez-min.jpg?alt=media&token=622b46b0-0dcd-4949-83cf-06fc970c5d1a",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2Foct21%20-%20Miriam%20Alicia%20Rosales%20Rodr%C3%ADguez-min.jpg?alt=media&token=20875bbb-feb4-46c2-ae8d-b879c117e5ee",
           "socials": [
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/marosalesrodriguez",
               "name": "Facebook"
-            },
+            }
+          ],
+          "order": 0,
+          "title": "Social Media"
+        },
+        {
+          "name": "Alison Lesly Marca Conde",
+          "photo": "/images/people/oleh_zasadnyy.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2FIMG_20211019_095326%20-%20Alison%20Marca-min.jpg?alt=media&token=3313beb7-c820-4625-a3c3-5e3f37962ecf",
+          "socials": [
             {
-              "icon": "twitter",
-              "link": "https://twitter.com/MAliciaSec",
-              "name": "Twitter"
+              "icon": "facebook",
+              "link": "https://www.facebook.com/alisonluna.marcaconde",
+              "name": "Facebook"
             },
             {
               "icon": "github",
-              "link": "https://github.com/lockiAilish",
+              "link": "https://github.com/alisonlesly24",
               "name": "Github"
             }
           ],
@@ -1755,9 +1764,17 @@
           "title": "Social Media"
         },
         {
+          "name": "Carla Ticona",
+          "photo": "/images/people/oleh_zasadnyy.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2FFotoS%20-%20Carla%20Ticona%20Ramos-min.jpg?alt=media&token=08e1e25e-f114-44d0-9f7a-c5054324777d",
+          "socials": [],
+          "order": 0,
+          "title": "Merchandise"
+        },
+        {
           "name": "Erwin Mendez Mejia",
           "photo": "/images/people/sofiya_huts.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/people%2Fdescarga%20-%20Erwin%20M%C3%A9ndez-min.png?alt=media&token=7c8b5c15-7ab7-48ed-9091-f9fb7e425a39",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2Fphoto_2021-10-16_19-18-29%20-%20Erwin%20M%C3%A9ndez-min.jpg?alt=media&token=a644791f-be96-46a6-82f2-572e1dca4505",
           "socials": [
             {
               "icon": "facebook",
@@ -1781,7 +1798,7 @@
         {
           "name": "Gustavo Lizárraga",
           "photo": "/images/people/vitaliy_zasadnyy.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/people%2FGus%20-%20Gustavo%20Josu%C3%A9%20Liz%C3%A1rraga-min.jpg?alt=media&token=daa971a7-f76d-42a1-8d7c-0b0fcf52f0c1",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2FfotoGus%20-%20Gustavo%20Liz%C3%A1rraga-min.jpg?alt=media&token=eec884fb-2116-468e-876b-113cfa742006",
           "socials": [
             {
               "icon": "facebook",
@@ -1797,10 +1814,15 @@
               "icon": "github",
               "link": "https://github.com/lizarragadev",
               "name": "Github"
+            },
+            {
+              "icon": "website",
+              "link": "https://lizarragadev.github.io/",
+              "name": "Personal Website"
             }
           ],
           "order": 2,
-          "title": "Speakers and Sponsors"
+          "title": "Design, Speakers & Sponsors"
         },
         {
           "name": "Wilma Limachi",
@@ -1817,9 +1839,9 @@
           "title": "Social media"
         },
         {
-          "name": "Felix Alejandro Zelaya Orellana",
+          "name": "Felix A. Zelaya O.",
           "photo": "/images/people/ostap_andrusiv.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/people%2Fphoto_2020-11-14_17-09-57%20-%20Felix%20Alejandro%20Zelaya%20Orellana-min.jpg?alt=media&token=1f12e287-723c-4b4c-a6c7-0e5bb9a5c14a",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2FFelixOficialJpg%20-%20Felix%20Alejandro%20Zelaya%20Orellana-min.jpg?alt=media&token=68b7a40f-fbeb-4a80-95ee-9c01b12b072c",
           "socials": [
             {
               "icon": "facebook",
@@ -1838,12 +1860,12 @@
             }
           ],
           "order": 4,
-          "title": "Website, Design"
+          "title": "Design, Speakers"
         },
         {
           "name": "Corali Diana Almanza Patzi",
           "photo": "/images/people/vasylyna_mytsak.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/people%2FIMG_20200815_231120%20-%20Corali%20Diana%20Almanza%20Patzi-min.jpg?alt=media&token=0b3622a3-f5e9-4c9c-bef9-546692d39302",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2Fpp%20-%20Corali%20Diana%20Almanza%20Patzi-min.jpg?alt=media&token=053aff5a-d4dd-4432-8e5d-56056d2f50c3",
           "socials": [
             {
               "icon": "facebook",
@@ -1854,29 +1876,29 @@
               "icon": "github",
               "link": "https://github.com/coralidianaa",
               "name": "Github"
+            },
+            {
+              "icon": "website",
+              "link": "https://coralidiana.github.io",
+              "name": "Personal Website"
             }
           ],
           "order": 5,
-          "title": "Merchandise"
+          "title": "Speakers and Sponsors"
         },
         {
           "name": "Limbert Leon Quispe",
           "photo": "/images/people/volodya_karpliuk.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/people%2FIMG_20181019_123539%20-%20Limbert%20Leon-min.jpg?alt=media&token=7723ce82-d903-487e-b2d5-fd3e159a42f9",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2Ffoto%20-%20Limbert%20Leon-min.jpeg?alt=media&token=2b3c866b-a7e8-4e50-9cbc-590851e8fed4",
           "socials": [
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/limbert.leonquispe",
               "name": "Linkedin"
-            },
-            {
-              "icon": "github",
-              "link": "https://github.com/infolimbert",
-              "name": "Github"
             }
           ],
           "order": 6,
-          "title": "Design"
+          "title": "Design, Creative"
         },
         {
           "name": "Amancaya Iriarte Negrón",
@@ -1924,7 +1946,7 @@
             }
           ],
           "order": 7,
-          "title": "Opening and Music"
+          "title": "Creative"
         },
         {
           "name": "Laskar Q. Torrez",
@@ -1948,7 +1970,7 @@
             }
           ],
           "order": 7,
-          "title": "Social and media"
+          "title": "Website"
         }
       ],
       "title": "Organizadores"
