@@ -1767,7 +1767,13 @@
           "name": "Carla Ticona",
           "photo": "/images/people/oleh_zasadnyy.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2FFotoS%20-%20Carla%20Ticona%20Ramos-min.jpg?alt=media&token=08e1e25e-f114-44d0-9f7a-c5054324777d",
-          "socials": [],
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/carlaleticia.ticonaramos",
+              "name": "Facebook"
+            }
+          ],
           "order": 0,
           "title": "Merchandise"
         },
@@ -1779,7 +1785,7 @@
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/erwin.mendez.188/",
-              "name": "Linkedin"
+              "name": "Facebook"
             },
             {
               "icon": "twitter",
@@ -1803,7 +1809,7 @@
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/lizarragadev",
-              "name": "Linkedin"
+              "name": "Facebook"
             },
             {
               "icon": "twitter",
@@ -1832,7 +1838,7 @@
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/vilma.casi",
-              "name": "Linkedin"
+              "name": "Facebook"
             }
           ],
           "order": 3,
@@ -1870,7 +1876,7 @@
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/coralidianaa",
-              "name": "Linkedin"
+              "name": "Facebook"
             },
             {
               "icon": "github",
@@ -1908,7 +1914,7 @@
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/kaya.negron/",
-              "name": "Linkedin"
+              "name": "Facebook"
             },
             {
               "icon": "twitter",
