@@ -47,6 +47,15 @@ export class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
         paper-button {
           margin: 0;
         }
+
+        .logo-item {
+          padding: 12px;
+        }
+
+        .logo-img {
+          height: 84px;
+          width: 100%;
+        }
       </style>
 
       <div class="container" layout horizontal>
@@ -62,12 +71,13 @@ export class AboutOrganizerBlock extends ReduxMixin(PolymerElement) {
             <plastic-image
               class="organizers-photo"
               srcset="{$ aboutOrganizerBlock.image $}"
-              sizing="cover"
+              sizing="contain"
               lazy-load
               preload
               fade
             ></plastic-image>
           </a>
+          
         </div>
 
         <div class="description-block" flex>
