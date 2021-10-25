@@ -1833,7 +1833,7 @@
         {
           "name": "Wilma Limachi",
           "photo": "/images/people/marta_maxymiak.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2FIMG_20211019_095326%20-%20Alison%20Marca-min.jpg?alt=media&token=132e53a4-3361-4b29-a463-c9036fe1912e",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2FWhatsApp%20Image%202021-10-21%20at%2000.34.34%20-%20Wilma%20Limachi-min.jpeg?alt=media&token=5ec32e63-64e6-46f6-bd38-d496628372a4",
           "socials": [
             {
               "icon": "facebook",
@@ -1871,7 +1871,7 @@
         {
           "name": "Corali Diana Almanza Patzi",
           "photo": "/images/people/vasylyna_mytsak.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2Fpp%20-%20Corali%20Diana%20Almanza%20Patzi-min.jpg?alt=media&token=053aff5a-d4dd-4432-8e5d-56056d2f50c3",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2Fpp%20-%20Corali%20Diana%20Almanza%20Patzi-min.jpg?alt=media&token=848d316b-dae7-4c5d-89bd-5fea0007f3ba",
           "socials": [
             {
               "icon": "facebook",
@@ -1907,7 +1907,7 @@
           "title": "Design, Creative"
         },
         {
-          "name": "Limbert Leon Quispe",
+          "name": "Kaya Negrón",
           "photo": "/images/people/volodya_karpliuk.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Team%2Ffoto%20-%20Limbert%20Leon-min.jpeg?alt=media&token=2b3c866b-a7e8-4e50-9cbc-590851e8fed4",
           "socials": [
@@ -2040,37 +2040,37 @@
   "videos": [
     {
       "speakers": "",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.png?alt=media&token=e32a972d-bff6-4bdf-8410-2bd8d7ec8351",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.jpg?alt=media&token=c8eabfca-24be-4931-afb8-90c4b30a704a",
       "title": "Panel: Versus de tecnologías y clausura mDevConf 2020.",
       "youtubeId": "RhSIpq1Y3Vg"
     },
     {
       "speakers": "",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.png?alt=media&token=e32a972d-bff6-4bdf-8410-2bd8d7ec8351",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.jpg?alt=media&token=c8eabfca-24be-4931-afb8-90c4b30a704a",
       "title": "OPENING - mDevConf 2020",
       "youtubeId": "IPCoCywY2ms"
     },
     {
       "speakers": "",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.png?alt=media&token=e32a972d-bff6-4bdf-8410-2bd8d7ec8351",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.jpg?alt=media&token=c8eabfca-24be-4931-afb8-90c4b30a704a",
       "title": "Native Stage - Day 1 - mDevConf 2020",
       "youtubeId": "5lj2uMHYxgU"
     },
     {
       "speakers": "",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.png?alt=media&token=e32a972d-bff6-4bdf-8410-2bd8d7ec8351",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.jpg?alt=media&token=c8eabfca-24be-4931-afb8-90c4b30a704a",
       "title": "Non-Native Stage - Day 1 - mDevConf 2020",
       "youtubeId": "Ocnd0G5aj-Y"
     },
     {
       "speakers": "",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.png?alt=media&token=e32a972d-bff6-4bdf-8410-2bd8d7ec8351",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.jpg?alt=media&token=c8eabfca-24be-4931-afb8-90c4b30a704a",
       "title": "Native Stage - Day 2 - mDevConf 2020",
       "youtubeId": "AyWrwmH8j6g"
     },
     {
       "speakers": "",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.png?alt=media&token=e32a972d-bff6-4bdf-8410-2bd8d7ec8351",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/logo.jpg?alt=media&token=c8eabfca-24be-4931-afb8-90c4b30a704a",
       "title": "Non-Native Stage - Day 2 - mDevConf 2020",
       "youtubeId": "53a4KRzNfHI"
     }
