@@ -2,7 +2,7 @@
 
 ### Fechas del evento
 
-mDevConf se llevará a cabo del 17 al 20 de noviembre.
+mDevConf se llevará a cabo del 16 al 20 de noviembre.
 
 ### Mantente informado
 

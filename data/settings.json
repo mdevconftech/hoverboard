@@ -5,8 +5,8 @@
     "blog": "https://www.mdevconf.tech/blog/",
     "url": "http://lviv.gdg.org.ua/"
   },
-  "startDate": "2020-12-19T09:00:00+03:00",
-  "endDate": "2020-12-24T19:00:00+03:00",
+  "startDate": "2021-10-16T09:00:00+03:00",
+  "endDate": "2021-10-20T19:00:00+03:00",
   "webapp": {
     "shortName": "mDevConf",
     "themeColor": "#006666",

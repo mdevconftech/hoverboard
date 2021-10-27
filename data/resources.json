@@ -3,7 +3,7 @@
   "description": "¡Sé parte del evento, aprende cosas nuevas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
-  "dates": "Noviembre 17-20, 2021",
+  "dates": "Noviembre 16-20, 2021",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Compartir",
   "followOur": "Sigue nuestro",
@@ -113,7 +113,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Dias",
-        "number": "4"
+        "number": "5"
       },
       "days": {
         "label": "Talleres",
@@ -121,7 +121,7 @@
       },
       "sessions": {
         "label": "Sesiones",
-        "number": "20"
+        "number": "24"
       },
       "tracks": {
         "label": "Premios",
