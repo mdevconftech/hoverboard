@@ -161,6 +161,20 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           </marked-element>
           </div>
 
+          <div class="action-buttons" layout horizontal center-justified wrap>
+            <paper-button
+              on-click="_buyTicketUrl"
+              ga-on="click"
+              ga-event-category="ticket button"
+              ga-event-action="buy_click"
+              primary
+              invert
+            >
+              <iron-icon icon="hoverboard:ticket"></iron-icon>
+              {$ buyTicket $}
+            </paper-button>
+          </div>
+
           <div class="scroll-down" on-click="_scrollNextBlock">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -269,5 +283,9 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   _scrollNextBlock() {
     const heroHeight = this.$.hero.getBoundingClientRect().height - 64;
     scrollToY(heroHeight, 600, 'easeInOutSine');
+  }
+
+  _buyTicketUrl() {
+    window.open('https://forms.gle/DbkhvNiNxFhBHg7Q8', '_blank');
   }
 }
