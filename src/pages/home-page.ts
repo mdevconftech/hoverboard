@@ -28,65 +28,52 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           display: block;
           height: 100%;
         }
-
         hero-block {
           font-size: 24px;
           text-align: center;
         }
-
         .hero-logo {
           --iron-image-width: 100%;
           max-width: 240px;
         }
-
         .info-items {
           margin: 24px auto;
           font-size: 22px;
         }
-
         .info-items > *:not(:first-of-type) {
           margin-top: 4px;
         }
-
         .action-buttons {
           margin: 0 -8px;
           font-size: 14px;
         }
-
         .action-buttons paper-button {
           margin: 8px;
         }
-
         .action-buttons .watch-video {
           color: #fff;
         }
-
         .action-buttons iron-icon {
           --iron-icon-fill-color: currentColor;
           margin-right: 8px;
         }
-
         .scroll-down {
           margin-top: 24px;
           color: currentColor;
           user-select: none;
           cursor: pointer;
         }
-
         .scroll-down svg {
           width: 24px;
           opacity: 0.6;
         }
-
         .scroll-down .stroke {
           stroke: currentColor;
         }
-
         .scroll-down .scroller {
           fill: currentColor;
           animation: updown 2s infinite;
         }
-
         @keyframes updown {
           0% {
             transform: translate(0, 0);
@@ -98,17 +85,14 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             transform: translate(0, 0);
           }
         }
-
         @media (min-height: 500px) {
           hero-block {
             height: calc(100vh + 57px);
             max-height: calc(100vh + 1px);
           }
-
           .home-content {
             margin-top: -48px;
           }
-
           .scroll-down {
             position: absolute;
             bottom: 24px;
@@ -117,16 +101,13 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             z-index: 2;
           }
         }
-
         @media (min-width: 812px) {
           hero-block {
             height: calc(100vh + 65px);
           }
-
           .hero-logo {
             max-width: 320px;
           }
-
           .info-items {
             margin: 48px auto;
             font-size: 28px;
@@ -134,9 +115,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           }
         }
       </style>
-
       <polymer-helmet active="[[active]]"></polymer-helmet>
-
       <hero-block
         id="hero"
         background-image="{$ heroSettings.home.background.image $}"
@@ -153,20 +132,14 @@ export class HomePage extends ReduxMixin(PolymerElement) {
           ></plastic-image>
           <div class="info-items">
             <div class="info-item">{$ location.city $} {$ dates $}</div>
-            <div class="info-item" slot="markdown-html"></div>
-
-            <marked-element class="info-item" markdown="{$ heroSettings.home.description $}">
-            <div slot="markdown-html"></div>
-
-          </marked-element>
-          </div>
-
-          <div class="action-buttons" layout horizontal center-justified wrap>
+            <marked-element class="info-item" markdown="{$ heroSettings.home.description $}"></marked-element>
+            <div class="action-buttons" layout horizontal center-justified wrap>
             <paper-button
               on-click="_buyTicketUrl"
               ga-on="click"
               ga-event-category="ticket button"
               ga-event-action="buy_click"
+              ga-event-label="hero block - scroll to tickets"
               primary
               invert
             >
@@ -174,7 +147,8 @@ export class HomePage extends ReduxMixin(PolymerElement) {
               {$ buyTicket $}
             </paper-button>
           </div>
-
+          </div>
+          
           <div class="scroll-down" on-click="_scrollNextBlock">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -245,11 +219,9 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <about-block></about-block>
       <speakers-block></speakers-block>
       <previous-speakers-block></previous-speakers-block>
-
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>
-      
       <partners-block></partners-block>
       <footer-block></footer-block>
     `;

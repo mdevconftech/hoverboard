@@ -10,14 +10,14 @@
     }
   },
   "gallery": [
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2F20190824090315_IMG_1691-min.JPG?alt=media&token=eb3fd1ed-b1ec-4ba1-8182-045d489808bf",
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2FIMG-20190824-WA0041-min.jpg?alt=media&token=87c9e16d-7339-453a-ad87-07ddf10a2c70",
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2FIMG_20190824_111015-min.jpg?alt=media&token=5f21ed2f-a310-4d8d-9d57-c9b9db5ba06f",
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2FIMG_20190824_112712-min.jpg?alt=media&token=885abe9a-a31a-4705-80da-deaa04e63e4a",
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2FIMG_4297-min.png?alt=media&token=ee0d1bed-792d-4672-b906-71e3879c9f54",
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2FIMG_4319-min.png?alt=media&token=298baa1c-e44b-4eea-8cfb-914b4862bd05",
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2FIMG_4340-min.png?alt=media&token=4b7a36ca-4541-4e18-a7bc-f66e4571fcec",
-    "https://firebasestorage.googleapis.com/v0/b/mdevconf-74754.appspot.com/o/gallery%2FMVIMG_20190824_130044-min.jpg?alt=media&token=0f3e8a8a-d082-439a-b059-071b3d7ba4f0"
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2F131117289_121013213163410_7944673871399829663_n-min.jpg?alt=media&token=cbb59ae1-e083-4b00-9569-8c95a17da485",
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20210106_123323-min.jpg?alt=media&token=301a0509-c8b7-4cce-bee6-b61045b26f6c",
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20201222_160916-min.jpg?alt=media&token=d5439e01-eba3-49e9-b70e-d11a8abd6de5",
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20201222_162853-min.jpg?alt=media&token=49427981-8bcf-4a4f-b278-f7b300c0083d",
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2F132040730_3795187433873150_4570530737595785824_n-min.jpg?alt=media&token=c3fd831b-621c-4e9b-8ffc-d8b8e7e13bb0",
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20210105_180941-min.jpg?alt=media&token=6604ac7f-6f71-4a6e-935d-04120dc99cf2",
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20201215_134401-min.jpg?alt=media&token=a676c3a5-f24d-459f-a2b0-04ad4777b6f8",
+    "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2Fphoto5167942055320725691-min.jpg?alt=media&token=90213eca-c121-4cde-a253-30992ecd4ff6"
   ],
   "notifications": {
     "config": {
@@ -97,6 +97,12 @@
           "logoUrl": "../images/sponsors/05.Steam.jpg",
           "name": "Steam",
           "url": "https://www.facebook.com/CefacFcpnSteam/"
+        },
+        {
+          "order": 9,
+          "logoUrl": "../images/sponsors/04.GitKraken.png",
+          "name": "GitKraken",
+          "url": "https://www.gitkraken.com/invite/jzUntqzm"
         }
       ],
       "order": 1,
@@ -121,7 +127,7 @@
           "endTime": "18:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["102"]
             }
           ],
           "startTime": "17:00"
@@ -130,7 +136,7 @@
           "endTime": "19:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["103"]
             }
           ],
           "startTime": "18:00"
@@ -139,7 +145,7 @@
           "endTime": "20:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["104"]
             }
           ],
           "startTime": "19:00"
@@ -148,7 +154,7 @@
           "endTime": "21:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["105"]
             }
           ],
           "startTime": "20:00"
@@ -156,7 +162,7 @@
       ],
       "tracks": [
         {
-          "title": "Day 1"
+          "title": "Día 1"
         }
       ]
     },
@@ -204,7 +210,7 @@
           "endTime": "21:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["110"]
             }
           ],
           "startTime": "20:00"
@@ -212,7 +218,7 @@
       ],
       "tracks": [
         {
-          "title": "Day 2"
+          "title": "Día 2"
         }
       ]
     },
@@ -242,7 +248,7 @@
           "endTime": "19:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["113"]
             }
           ],
           "startTime": "18:00"
@@ -251,7 +257,7 @@
           "endTime": "20:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["114"]
             }
           ],
           "startTime": "19:00"
@@ -268,7 +274,7 @@
       ],
       "tracks": [
         {
-          "title": "Day 3"
+          "title": "Día 3"
         }
       ]
     },
@@ -316,7 +322,7 @@
           "endTime": "21:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["120"]
             }
           ],
           "startTime": "20:00"
@@ -324,7 +330,7 @@
       ],
       "tracks": [
         {
-          "title": "Day 4"
+          "title": "Día 4"
         }
       ]
     },
@@ -354,7 +360,7 @@
           "endTime": "13:00",
           "sessions": [
             {
-              "items": ["100"]
+              "items": ["123"]
             }
           ],
           "startTime": "12:00"
@@ -380,7 +386,7 @@
       ],
       "tracks": [
         {
-          "title": "Day 5"
+          "title": "Día 5"
         }
       ]
     }
@@ -405,40 +411,40 @@
       "title": "Keynote"
     },
     "102": {
-      "complexity": "Principiante",
-      "description": "Training Android con Kotlin con Félix Alejandro Zelaya",
+      "complexity": "Intermedio",
+      "description": "Un vistazo a la implementación de Clean Architecture en iOS, cómo crear aplicaciones realmente módulares y escalables que cumplan con los principios de la buena arquitectura y desarrollo de software.",
       "language": "Español",
       "presentation": "",
-      "speakers": [""],
-      "tags": ["Native"],
-      "title": "Training Android con Kotlin"
+      "speakers": ["uriel_pacheco"],
+      "tags": ["iOS", "Clean Architecture", "Native"],
+      "title": "Aplicaciones iOS escalables con Clean Architecture"
     },
     "103": {
-      "complexity": "Principiante",
-      "description": "Training Android con Kotlin con Kaya Iriarte Negrón",
+      "complexity": "Intermedio",
+      "description": "Como SRE el principal objetivo debe ser entregar al usuario una aplicación altamente confiable, ultra escalable y resiliente, para esto debemos crear herramientas que nos permitan tener una supervisión constante de la aplicación y generar métricas claves que nos ayuden  a la toma de decisiones.",
       "language": "Español",
       "presentation": "",
-      "speakers": [""],
-      "tags": ["Native"],
-      "title": "Training Android con Kotlin"
+      "speakers": ["mauricio_hernandez"],
+      "tags": ["Site Reliability Engineering"],
+      "title": "SRE para aplicaciones móviles"
     },
     "104": {
       "complexity": "Intermedio",
-      "description": "No todo el mundo está encargado de gestionar la salida a producción de una aplicación, o simplemente no está acostumbrado a ello. ¿Qué pasa cuando la app llega a millones de usuarios? ¿Cómo es salir a producción 'en el mundo real'? Responderemos a estas preguntas y aprenderemos qué variables monitorear una vez que nuestra app sale a la luz.",
+      "description": "Kotlin es un lenguaje moderno, sencillo, seguro y soporta escribir código asíncrono. Para el desarrollo nativo de aplicaciones Android se asumió como lenguaje principal kotlin. Las aplicaciones a menudo necesitan obtener información o ejecutar alguna funcionalidad del backend y la forma actual más usada son APIs REST/JSON. Sin embargo también es posible con RPC el cual nos ofrece menos latencia y mensajes más livianos. En esta charla mostraremos ejemplos de uso de RPC con Kotlin y en Android.",
       "language": "Español",
       "presentation": "",
-      "speakers": ["facundo_rodriguez"],
-      "tags": ["Native"],
-      "title": "¿Qué pasa luego de salir a producción?"
+      "speakers": ["juan_guillermo"],
+      "tags": ["Android", "Kotlin", "GRPC", "Native"],
+      "title": "GRPC para Android - Un eficiente framework de comunicación RPC"
     },
     "105": {
       "complexity": "Intermedio",
-      "description": "Veremos el uso de la herramienta de ML Kit en una aplicacion movil de Android, se explicara que es Machine Learning y como integrar con Firebase.",
+      "description": "Crear shorcuts para aplicaciones Android con la ayuda de Google Assistant",
       "language": "Español",
       "presentation": "",
-      "speakers": ["kenji_kawaida"],
-      "tags": ["Native"],
-      "title": "ML Kit in Android for Dummies"
+      "speakers": ["carlo_huaman"],
+      "tags": ["Android", "Google Assistant", "Native"],
+      "title": "Shortcuts & Capabilities API for Android"
     },
     "106": {
       "complexity": "Intermedio",
@@ -478,12 +484,12 @@
     },
     "110": {
       "complexity": "Intermedio",
-      "description": "Introducción sobre cómo utilizar UIAccessibility para hacer una aplicación de iOS más accesible. Se demostrará que es el UIAccessibility, cómo utilizarlo y qué ventajas tiene. Se hablará sobre el Accessibility Inspector, una herramienta que nos permite evaluar el nivel de accesibilidad de una aplicación.",
+      "description": "Voy a contar mi experiencia dictando un taller de KMM a alumnos de una Tecnicatura en Desarrollo de Aplicaciones Móviles cuya principal experiencia es el desarrollo Android nativo. Además de ver una introducción a la tecnología, contaré cómo encontrar analogías con el desarrollo nativo que permitan entender rápidamente los conceptos que involucra el desarrollo multiplataforma. Además, repasaremoslos desafíos y dificultades que los estudiantes encuentran a la hora de aplicar esto en la práctica cuando lo único con lo que trabajaron hasta el momento es Android. Si sabes algo sobre desarrollo nativo, sea Android o iOS, y te interesa empezar a meterte en el mundo de Kotlin Multiplatform, seguramente vas a aprender cosas nuevas en esta charla de una manera sencilla de entender.",
       "language": "Español",
       "presentation": "",
-      "speakers": ["marco_salazar"],
-      "tags": ["Native"],
-      "title": "Como hacer una aplicación más accessible en iOS"
+      "speakers": ["facundo_rodriguez"],
+      "tags": ["Kotlin", "Kotlin Multiplatform"],
+      "title": "Kotlin Multiplatform Mobile en la Universidad"
     },
     "111": {
       "complexity": "Intermedio",
@@ -504,22 +510,22 @@
       "title": "Flutter Multiplatform"
     },
     "113": {
-      "complexity": "Avanzado",
-      "description": "Cuántos ejemplos, artículos y repos hemos visto donde hablan del poder de Kotlin y solo vemos un micro servicio o una función que arroja un 'hello kotlin'?. En este ejemplo queremos mostrar que tanto jugo le podemos sacar a este lenguaje usando diferentes tecnologías como gRPC, bots, notificaciones, apps, etc. Acompañanos en esta aventura por el espacio con este juego no tan convencional.",
+      "complexity": "Intermedio",
+      "description": "En esta sesion, nos conectaremos con un dispositivo externo y lo integraremos a una aplicacion de Flutter. Recibiremos y enviaremos informacion y en general nos comunicaremos con el.",
       "language": "Español",
       "presentation": "",
-      "speakers": ["sebastian_tellez"],
-      "tags": ["Native"],
-      "title": "Not a typical example: The kotlinaut adventure"
+      "speakers": ["hansy_schmitt"],
+      "tags": ["Flutter", "Hardware"],
+      "title": "Hardware & Flutter"
     },
     "114": {
       "complexity": "Intermedio",
-      "description": "El mundo está evolucionando gradualmente  y machine learning es una de las tecnologías más importantes que está revolucionando el mundo. Durante esta charla estaré compartiendo una introducción al ecosistema de machine learning dentro del mundo de Apple, las herramientas que tienes a tu disposición y los procesos que conllevan todo para que al final puedas agregar y aplicar los modelos a tus apps.",
+      "description": "Kotlin como lenguaje sigue avanzando y con el, las herramientas que surgen dia a dia. Google recientemente libero KSP, una herramienta que permite procesar informacion de nuestro codigo en tiempo de compila... quien?? KHE STA PASANDAH???? QUE ES ESO DE META PROGRAMMING Y QUE ES EL TIEMPO DE COMPILACION??? trataremos de adentrarnos a este mundo META durante la platica para entender que es y como se digiere esta nueva herramienta.",
       "language": "Español",
       "presentation": "",
-      "speakers": ["cecilia_castillo"],
-      "tags": ["Native"],
-      "title": "Introducción a CoreML: usando machine learning en tu Aplicación de iOS"
+      "speakers": ["sinuhe_jaime"],
+      "tags": ["Kotlin", "KSP"],
+      "title": "KSP: Khe Sta Pasandah!"
     },
     "115": {
       "complexity": "Intermedio",
@@ -535,7 +541,7 @@
       "description": "Actualmente existen más de un billón de personas que viven con algún tipo de discapacidad. Personas que muchas veces se quedan sin poder utilizar un servicio porque sus necesidades no han sido consideradas. Durante esta plática estaré conversando acerca de cómo podemos implementar accesibilidad en nuestras aplicaciones tanto para android como iOS. Cuáles son los problemas más comunes que podemos empezar a resolver. Y cómo podemos aprovechar jetpack compose y Swiftui para asegurarnos que podamos darle una experiencia de usuario extraordinaria a todos nuestros usuarios. También compartiré un poco de la experiencia que he tenido desarrollando accesibilidad y cómo podemos adaptarla a nuestro proceso de desarrollo.",
       "language": "Español",
       "presentation": "",
-      "speakers": ["cecilia_castillo"],
+      "speakers": ["ana_cecilia"],
       "tags": ["Accessibility", "Android", "iOS", "Native", "Jetpack Compose", "SwiftUI"],
       "title": "Haciendo el mundo más accesible: Como implementar accesibilidad en tus aplicaciones nativas "
     },
@@ -568,12 +574,12 @@
     },
     "120": {
       "complexity": "Intermedio",
-      "description": "Usar Compose es a primera vista, bastante simple. Sin embargo, implica un cambio de paradigma que hace podría no quedar del todo claro cuando recién empiezas. En esta charla, veremos a detalle cómo se recomponen los componentes en Compose, y cómo eso influye en la forma en la que manejamos nuestros estados.",
+      "description": "El desarrollo de apps en android en los últimos años se modernizo con la llegada de Kotlin como lenguaje, esto trajo nuevas herramientas y componentes/librerías que mejoran y aceleran el desarrollo de nuestras apps, en esta charla veremos un poco de cada una de las principales herramientas construyendo una app.",
       "language": "Español",
       "presentation": "",
-      "speakers": ["bruno_aybar"],
-      "tags": ["Native"],
-      "title": "Estados y Recomposición en Compose"
+      "speakers": ["yury_camacho"],
+      "tags": ["Android", "Native"],
+      "title": "Construyendo Android apps nativas en el 2021"
     },
     "121": {
       "complexity": "Intermedio",
@@ -594,13 +600,13 @@
       "title": "De Junior a Senior con Flutter"
     },
     "123": {
-      "complexity": "Principiante",
-      "description": "En esta charla deseo compartir una serie de pensamientos y reflexiones a la hora de formar un equipo de desarrollo Android. Deseo repasar mi perspectiva sobre lo que debe buscar uno mismo para ser empleable, sobre lo que debería tener un equipo y sobre cómo abordar el reclutamiento. Esta es una charla no técnica, pero que puede ayudarte mucho.",
+      "complexity": "Intermedio",
+      "description": "Blazor es un framework sobre .NET Core que permite el desarollo de aplicaciones modernas, interactivas y adaptativas a cualquier dispositvo.",
       "language": "Español",
       "presentation": "",
-      "speakers": ["armando_picon"],
-      "tags": ["Native"],
-      "title": "Una charla no técnica: ¿Cómo formar un equipo de desarrolladores Android?"
+      "speakers": ["marco_erlwein"],
+      "tags": ["Blazor", ".NET"],
+      "title": "Blazor The Big Picture"
     },
     "124": {
       "complexity": "Intermedio",
@@ -1008,8 +1014,8 @@
       "country": "Lima, Peru",
       "featured": false,
       "name": "Bruno Aybar",
-      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190824055120_IMG_1669%20-%20Bruno%20Aybar-min.JPG?alt=media&token=e7af7846-8b70-4738-9159-1686e2c02624",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190824055120_IMG_1669%20-%20Bruno%20Aybar-min.JPG?alt=media&token=e7af7846-8b70-4738-9159-1686e2c02624",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190824055120_IMG_1669%20-%20Bruno%20Aybar-min.JPG?alt=media&token=09beee29-34b5-4650-880d-b66b1e972283",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190824055120_IMG_1669%20-%20Bruno%20Aybar-min.JPG?alt=media&token=09beee29-34b5-4650-880d-b66b1e972283",
       "shortBio": "Senior Mobile Developer @ Shopify. Organizador en Android Dev Peru. 8 años haciendo Android/iOS/RN y mil otras tecnologías móviles. Amo Kotlin...",
       "socials": [
         {
@@ -1177,7 +1183,276 @@
           "name": "Personal Website"
         }
       ],
-      "order": 4,
+      "order": 14,
+      "title": ""
+    },
+    "juan_guillermo": {
+      "bio": "Juan Guillermo is the co-organizer of several global and local events, such as GDG Cali, startup weekend Colombia and free software. He has been involved in tech and software programming for the past 20 years. He attends more than 30 events per year as a guest speaker throughout Latin America, where he speaks about mobile, android, cloud, firebase, kotlin, software architecture, entrepreneurship, and innovation. In 2016, he co-founded the first hacker school in Cali (DevHack), where he teaches programming different technologies such as front-end, mobile, and back-end. He has been a programmer, software architect, technology leader, university professor, advisor in technology companies and systems departments. Now, he is an educator at DevHack and tech lead in WordBox. Juan is GDE (Google Developer Expert) in Firebase and GCP, holds a BS in System Engineering, and an MS in Software Engineering at Universidad San Buenaventura Cali.",
+      "company": "Wordbox",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "CDMX, Mexico",
+      "featured": false,
+      "name": "Juan Guillermo Gómez",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffoto%20-%20Juan%20Guillermo%20Gomez%20Torres-min.jpg?alt=media&token=ff82ad38-4b34-4b6f-b5fe-93ec3ac13a03",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffoto%20-%20Juan%20Guillermo%20Gomez%20Torres-min.jpg?alt=media&token=ff82ad38-4b34-4b6f-b5fe-93ec3ac13a03",
+      "shortBio": "Juan Guillermo is the co-organizer of several global and local events, such as GDG Cali, startup weekend Colombia and free software...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/jggomezt",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/jggomez84/",
+          "name": "Facebook"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jggomezt/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jggomez",
+          "name": "GitHub"
+        }
+      ],
+      "order": 15,
+      "title": ""
+    },
+    "uriel_pacheco": {
+      "bio": "Mi nombre es Uriel Pacheco, tengo más de 3 años de experiencia desarrollando aplicaciones móviles y actualmente trabajo en Wizeline como iOS Software Engineer. Me encanta desarrollar soluciones de software con buena arquitectura, con la mejor UI y excelente experiencia de usuario.",
+      "company": "Wizeline",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "México",
+      "featured": false,
+      "name": "Uriel Pacheco",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FDSC_0407%20-%20Uriel%20Pacheco-min.jpg?alt=media&token=d69e344b-80d5-44d3-92e2-c04845c73810",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FDSC_0407%20-%20Uriel%20Pacheco-min.jpg?alt=media&token=d69e344b-80d5-44d3-92e2-c04845c73810",
+      "shortBio": "Juan Guillermo is the co-organizer of several global and local events, such as GDG Cali, startup weekend Colombia and free software...",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/victorurielp/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/VictorUrielP",
+          "name": "GitHub"
+        }
+      ],
+      "order": 16,
+      "title": ""
+    },
+    "sinuhe_jaime": {
+      "bio": "KotlinersKT nacio como una manera de hacer un 'mashup' entre KUG Guadalajara y KUG Ciudad de Mexico... pero terminamos haciendo tonterias y mezclando kotlin en el proceso. Actualmente KotlinersKT es presentado por Sebastian Tellez (@gorrotowi), Sinuhe Jaime (@sierisimo) y el Fantasma de Chuby (@ChubyAvodroc).",
+      "company": "KotlinersKT",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Ciudad de Mexico, Mexico Y Guadalajara, Mexico",
+      "featured": false,
+      "name": "Sinuhe Jaime Valencia",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FUntitled%20drawing%20-%20Sinuhe%20Jaime-min.png?alt=media&token=0bec1cbc-c439-4996-8bf0-032f6bd909cc",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FUntitled%20drawing%20-%20Sinuhe%20Jaime-min.png?alt=media&token=0bec1cbc-c439-4996-8bf0-032f6bd909cc",
+      "shortBio": "KotlinersKT nacio como una manera de hacer un 'mashup' entre KUG Guadalajara y KUG Ciudad de Mexico...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/kotlinerskt",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "github.com/kotlinersKt/",
+          "name": "GitHub"
+        }
+      ],
+      "order": 17,
+      "title": ""
+    },
+    "facundo_rodriguez": {
+      "bio": "Ingeniero en Computación por la Universidad Nacional de Tres De Febrero. Actualmente me desempeño como Senior Android Engineer, plataforma para la cual desarrollo profesionalmente hace 10 años.",
+      "company": "",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Buenos Aires, Argentina",
+      "featured": false,
+      "name": "Facundo Rodríguez Arceri",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffacu%20-%20Facundo%20Rodr%C3%ADguez%20Arceri-min.jpg?alt=media&token=197e8129-95a4-4ac6-ba16-57438e8385d0",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffacu%20-%20Facundo%20Rodr%C3%ADguez%20Arceri-min.jpg?alt=media&token=197e8129-95a4-4ac6-ba16-57438e8385d0",
+      "shortBio": "Ingeniero en Computación por la Universidad Nacional de Tres De Febrero. Actualmente me desempeño como Senior Android Engineer...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "twitter.com/facundomr",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "linkedin.com/in/facundomr",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "github.com/facundomr",
+          "name": "GitHub"
+        }
+      ],
+      "order": 18,
+      "title": ""
+    },
+    "marco_erlwein": {
+      "bio": "Ingenierio de Sistemas, arquitecto de soluciones.",
+      "company": "Cognos",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Santa Cruz, Bolivia",
+      "featured": false,
+      "name": "Marco Erlwein",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FMarco%20-%20Marco%20Erlwein.JPG?alt=media&token=6bd0176f-c123-4994-bd9b-10430823038c",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FMarco%20-%20Marco%20Erlwein.JPG?alt=media&token=6bd0176f-c123-4994-bd9b-10430823038c",
+      "shortBio": "Ingenierio de Sistemas, arquitecto de soluciones.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "twitter.com/MarcoErlwein",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/marco.erlwein.5",
+          "name": "Facebook"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/MarcoErlwein/",
+          "name": "GitHub"
+        }
+      ],
+      "order": 19,
+      "title": ""
+    },
+    "mauricio_hernandez": {
+      "bio": "Soy desarrollador Android, actualmente trabajo como SRE en el equipo de arquitectura mobile de Mercado Libre donde co-creamos una de las mejores aplicaciones de Latinoamérica, democratizando el comercio y los pagos en la región.",
+      "company": "Mercado Libre",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Bogotá, Colombia",
+      "featured": false,
+      "name": "Mauricio Hernandez",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FWhatsApp%20Image%202021-11-02%20at%208.56.23%20AM%20-%20Mauricio%20Hernandez-min.jpeg?alt=media&token=856c88d3-6921-428f-820e-f9bdcf7d905c",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FWhatsApp%20Image%202021-11-02%20at%208.56.23%20AM%20-%20Mauricio%20Hernandez-min.jpeg?alt=media&token=856c88d3-6921-428f-820e-f9bdcf7d905c",
+      "shortBio": "Soy desarrollador Android, actualmente trabajo como SRE en el equipo de arquitectura mobile de Mercado Libre donde co-creamos una...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/IMAOHD",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ivanmaohd/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 20,
+      "title": ""
+    },
+    "yury_camacho": {
+      "bio": "Yury Camacho es Ingeniero de Sistemas y Google Developer Expert en Android y Kotlin,  Desarrollador experimentado de aplicaciones móviles con  mas de 10 años en la industria del desarrollo de software y en especial desarrollo móvil,  trabajo en empresas como Globant, OLX y  actualmente es Staff Software Engineer  y Tech Lead del equipo de Pagos y fraude en Rappi.",
+      "company": "Rappi",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Cochabamba, Bolivia",
+      "featured": false,
+      "name": "Yury Camacho",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fbadge%20(1)%20-%20Yury%20Camacho-min.png?alt=media&token=d0882649-8e08-4429-aea1-53d69837a3b2",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fbadge%20(1)%20-%20Yury%20Camacho-min.png?alt=media&token=d0882649-8e08-4429-aea1-53d69837a3b2",
+      "shortBio": "Yury Camacho es Ingeniero de Sistemas y Google Developer Expert en Android y Kotlin,  Desarrollador experimentado de aplicaciones móviles...",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/camachoyury",
+          "name": "Twitter"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/camachoyury",
+          "name": "Facebook"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/camachoyury/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/camachoyury",
+          "name": "GitHub"
+        }
+      ],
+      "order": 21,
+      "title": ""
+    },
+    "carlo_huaman": {
+      "bio": "Dad, Mobile Architect, Assistant GDE | Love mangos, tangerines & chocolates.",
+      "company": "BCP",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Cochabamba, Bolivia",
+      "featured": false,
+      "name": "Carlo Huaman",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FCarlo%20Huaman%20-%20Carlo%20Huam%C3%A1n-min.png?alt=media&token=2b4d7b2e-494c-4cc5-bfb8-7ca2570e43c2",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FCarlo%20Huaman%20-%20Carlo%20Huam%C3%A1n-min.png?alt=media&token=2b4d7b2e-494c-4cc5-bfb8-7ca2570e43c2",
+      "shortBio": "Dad, Mobile Architect, Assistant GDE | Love mangos, tangerines & chocolates.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Tohure_",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tohure/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Tohure",
+          "name": "GitHub"
+        }
+      ],
+      "order": 22,
+      "title": ""
+    },
+    "hansy_schmitt": {
+      "bio": "Desarrollador Mobile Flutter, Wannabe Game Developer , Hardware Hacker.",
+      "company": "BCP",
+      "companyLogo": "",
+      "companyLogoUrl": "",
+      "country": "Lima, Peru",
+      "featured": false,
+      "name": "Hansy Schmitt",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F40385444_10211841558970553_6288262099109937152_n%20-%20Hansy%20Schmitt-min.jpg?alt=media&token=ff13bc76-d142-4dbb-a05b-f02ce34c1530",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F40385444_10211841558970553_6288262099109937152_n%20-%20Hansy%20Schmitt-min.jpg?alt=media&token=ff13bc76-d142-4dbb-a05b-f02ce34c1530",
+      "shortBio": "Desarrollador Mobile Flutter, Wannabe Game Developer , Hardware Hacker.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "linkedin.com/in/hansyschmitt",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "github.com/hansyschmitt",
+          "name": "GitHub"
+        }
+      ],
+      "order": 23,
       "title": ""
     }
   },
