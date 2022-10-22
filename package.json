@@ -9,9 +9,10 @@
   "scripts": {
     "build": "npm run clean && tsc && NODE_ENV=production rollup --config rollup.config.js",
     "clean": "rimraf dist out-tsc",
-    "deploy": "npm run build && NODE_ENV=production firebase deploy",
+    "deploy": "npm run build && NODE_ENV=production firebase deploy --except functions",
     "firestore:copy": "ts-node-script ./scripts/firestore-copy",
     "firestore:init": "firebase functions:config:set schedule.enabled=true && firebase deploy --except hosting && ts-node-script ./scripts/firestore-init",
+    "firestore:initial": "ts-node-script ./scripts/firestore-init",
     "fix": "concurrently npm:fix:*",
     "fix:eslint": "eslint . --ext .ts --ext .js --fix",
     "fix:prettier": "prettier . --write",
