@@ -1,9 +1,9 @@
 {
-  "title": "Mobile Developers Conference 2021",
+  "title": "Mobile Developers Conference 2022",
   "description": "¡Sé parte del evento, aprende cosas nuevas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
-  "dates": "Noviembre 16-20, 2021",
+  "dates": "Noviembre 16-20, 2022",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Compartir",
   "followOur": "Sigue nuestro",
@@ -100,7 +100,7 @@
     "title": "Acerca de",
     "callToAction": {
       "featuredSessions": {
-        "description": "El mDevConf 2021 es una iniciativa de 2 comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos del exterior en tecnologías móviles durante 5 días de sesiones y talleres online donde podrás aprender de su experiencia y conocimientos en el área.",
+        "description": "El mDevConf 2022 es una iniciativa de 2 comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos del exterior en tecnologías móviles durante 5 días de sesiones y talleres online donde podrás aprender de su experiencia y conocimientos en el área.",
         "label": "CONFIRMA TU ASISTENCIA",
         "link": "https://forms.gle/DbkhvNiNxFhBHg7Q8"
       },
@@ -196,8 +196,8 @@
     "title": "Ubicación"
   },
   "galleryBlock": {
-    "title": "#mDevConf highlights",
-    "description": "El evento mDevConf2020 el año pasado generó mucha emoción entre todos los expositores y participantes. Vea las fotos de charlas, premios otorgados, participantes y todas las experiencias...",
+    "title": "#mDevConf2021 highlights",
+    "description": "El evento mDevConf2021 el año pasado generó mucha emoción entre todos los expositores y participantes. Vea las fotos de charlas, premios otorgados, participantes y todas las experiencias...",
     "callToAction": {
       "label": "Ver Todas las fotos",
       "link": "https://photos.google.com/share/AF1QipOEteEBRGoUXFaF9BNPoHc9oHrtCebdJTlhwDRWWGJ99qaSGtvbVd9saikamurEhg?key=eGtDU1lvbjJFaVRJS0VXZ0tfelBsbmFwZVY5ZUVR"
@@ -240,7 +240,7 @@
     "unsubscribe": "Darse de baja",
     "enable": {
       "label": "Habilitar",
-      "link": "https://support.google.com/chrome/answer/3220216"
+      "link": "https://support.google.com/chrome/answer/3220226"
     },
     "toast": {
       "title": "Abrir"

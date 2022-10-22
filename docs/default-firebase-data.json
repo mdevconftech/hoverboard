@@ -10,14 +10,13 @@
         }
     },
     "gallery": [
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2F131117289_121013213163410_7944673871399829663_n-min.jpg?alt=media&token=cbb59ae1-e083-4b00-9569-8c95a17da485",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20210106_123323-min.jpg?alt=media&token=301a0509-c8b7-4cce-bee6-b61045b26f6c",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20201222_160916-min.jpg?alt=media&token=d5439e01-eba3-49e9-b70e-d11a8abd6de5",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20201222_162853-min.jpg?alt=media&token=49427981-8bcf-4a4f-b278-f7b300c0083d",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2F132040730_3795187433873150_4570530737595785824_n-min.jpg?alt=media&token=c3fd831b-621c-4e9b-8ffc-d8b8e7e13bb0",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20210105_180941-min.jpg?alt=media&token=6604ac7f-6f71-4a6e-935d-04120dc99cf2",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2FIMG_20201215_134401-min.jpg?alt=media&token=a676c3a5-f24d-459f-a2b0-04ad4777b6f8",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Gallery%2Fphoto5167942055320725691-min.jpg?alt=media&token=90213eca-c121-4cde-a253-30992ecd4ff6"
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F1.jpg?alt=media&token=5e49d809-e0ed-4d67-a89b-d70414577e58",
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F2.jpg?alt=media&token=9779f821-d467-4c11-9627-9ebf881006f6",
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F3.jpg?alt=media&token=a5b083b9-8375-4719-982e-5933966fc1cb",
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F4.jpg?alt=media&token=4cce0528-9cc8-4bef-a8bb-9fa2c1678946",
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F5.jpg?alt=media&token=aa597fec-4c4f-4108-af22-43aecbbeb352",
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F6.jpg?alt=media&token=7e6d8767-1bcd-447a-8cc3-92e4a77ecb16",
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F7.jpg?alt=media&token=c3a3cc85-8304-4be3-8585-9f775e16019d"
     ],
     "notifications": {
         "config": {
