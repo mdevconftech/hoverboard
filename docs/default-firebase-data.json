@@ -44,65 +44,6 @@
             ],
             "order": 0,
             "title": "Partners"
-        },
-        {
-            "logos": [{
-                    "order": 1,
-                    "logoUrl": "../images/sponsors/01.Auth0.png",
-                    "name": "Auth0",
-                    "url": "https://a0.to/mDevConf"
-                },
-                {
-                    "order": 2,
-                    "logoUrl": "../images/sponsors/02.LOGO-DE-COGNOS-CAPACITACIÓN.png",
-                    "name": "Cognos",
-                    "url": "https://cognos-capacitacion.com/"
-                },
-                {
-                    "order": 3,
-                    "logoUrl": "../images/sponsors/03.GitHub_Logo.png",
-                    "name": "Github",
-                    "url": "https://github.com/"
-                },
-                {
-                    "order": 4,
-                    "logoUrl": "../images/sponsors/06.jetbrains.png",
-                    "name": "Jetbrains",
-                    "url": "https://www.jetbrains.com/es-es/"
-                },
-                {
-                    "order": 5,
-                    "logoUrl": "../images/sponsors/04.FCPN.png",
-                    "name": "FCPN",
-                    "url": "http://www.fcpn.edu.bo"
-                },
-                {
-                    "order": 6,
-                    "logoUrl": "../images/sponsors/07.OReilly_logo_rgb.png",
-                    "name": "O'Reilly",
-                    "url": "https://www.oreilly.com"
-                },
-                {
-                    "order": 7,
-                    "logoUrl": "../images/sponsors/08.Codear.png",
-                    "name": "Codear",
-                    "url": "https://codear.org"
-                },
-                {
-                    "order": 8,
-                    "logoUrl": "../images/sponsors/05.Steam.jpg",
-                    "name": "Steam",
-                    "url": "https://www.facebook.com/CefacFcpnSteam/"
-                },
-                {
-                    "order": 9,
-                    "logoUrl": "../images/sponsors/04.GitKraken.png",
-                    "name": "GitKraken",
-                    "url": "https://www.gitkraken.com/invite/jzUntqzm"
-                }
-            ],
-            "order": 1,
-            "title": "Sponsors"
         }
     ],
     "schedule": {
