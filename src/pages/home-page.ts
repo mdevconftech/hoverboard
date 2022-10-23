@@ -148,7 +148,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             </paper-button>
           </div>
           </div>
-          
+
           <div class="scroll-down" on-click="_scrollNextBlock">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -217,7 +217,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <fork-me-block></fork-me-block>
       {% endif %}
       <about-block></about-block>
-      <speakers-block></speakers-block>
+      <!--speakers-block></speakers-block-->
       <previous-speakers-block></previous-speakers-block>
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
