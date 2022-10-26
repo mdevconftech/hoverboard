@@ -127,7 +127,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <div class="home-content" layout vertical center>
           <plastic-image
             class="hero-logo"
-            srcset="/images/logo.svg"
+            srcset="/images/logo-2022.png"
             alt="{$ title $}"
           ></plastic-image>
           <div class="info-items">
