@@ -40,6 +40,11 @@
       "title": "Acerca de",
       "links": [
         {
+          "name": "mDevConf 2021",
+          "url": "https://2021.mdevconf.tech/",
+          "newTab": true
+        },
+        {
           "name": "mDevConf 2020",
           "url": "https://2020.mdevconf.tech/",
           "newTab": true
@@ -64,6 +69,11 @@
     {
       "title": "Explore eventos anteriores",
       "links": [
+        {
+          "name": "mDevConf 2021",
+          "url": "https://2021.mdevconf.tech",
+          "newTab": true
+        },
         {
           "name": "mDevConf 2020",
           "url": "https://2020.mdevconf.tech",
