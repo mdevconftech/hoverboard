@@ -67,37 +67,10 @@ export class AboutBlock extends ThemedElement {
             <h1 class="container-title">{$ aboutBlock.title $}</h1>
             <p>{$ aboutBlock.callToAction.featuredSessions.description $}</p>
 
-            <a
-              href="{$ aboutBlock.callToAction.featuredSessions.link $}"
-              ga-on="click"
-              ga-event-category="video"
-              ga-event-action="watch"
-              ga-event-label="about block - {$ aboutBlock.callToAction.featuredSessions.label $}"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <paper-button class="animated icon-right">
-                <span class="cta-label">{$ aboutBlock.callToAction.featuredSessions.label $}</span>
-                <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-              </paper-button>
-            </a>
+            
 
             <p>{$ aboutBlock.callToAction.howItWas.description $}</p>
 
-            <a
-              href="{$ aboutBlock.callToAction.howItWas.link $}"
-              ga-on="click"
-              ga-event-category="video"
-              ga-event-action="watch"
-              ga-event-label="about block - {$ aboutBlock.callToAction.howItWas.label $}"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <paper-button class="animated icon-right">
-                <span class="cta-label">{$ aboutBlock.callToAction.howItWas.label $}</span>
-                <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-              </paper-button>
-            </a>
 
           </div>
         </div>
