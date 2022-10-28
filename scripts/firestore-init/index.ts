@@ -3,6 +3,7 @@ import {
   importGallery,
   importNotificationsConfig,
   importPartners,
+  importPastEvents,
   importPreviousSpeakers,
   importSchedule,
   importSessions,
@@ -16,6 +17,7 @@ importBlog()
   .then(() => importGallery())
   .then(() => importNotificationsConfig())
   .then(() => importPartners())
+  .then(() => importPastEvents())
   .then(() => importPreviousSpeakers())
   .then(() => importSchedule())
   .then(() => importSessions())

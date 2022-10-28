@@ -2,6 +2,7 @@ import { customElement, property } from '@polymer/decorators';
 import '@polymer/iron-icon';
 import { html, PolymerElement } from '@polymer/polymer';
 import '../components/about-block';
+import '../elements/past-events-block';
 import '../elements/about-organizer-block';
 import '../elements/featured-videos';
 import '../elements/fork-me-block';
@@ -217,6 +218,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <fork-me-block></fork-me-block>
       {% endif %}
       <about-block></about-block>
+      <past-events-block></past-events-block>
       <!--speakers-block></speakers-block-->
       <!--previous-speakers-block></previous-speakers-block-->
       <gallery-block></gallery-block>

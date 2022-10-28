@@ -1,298 +1,298 @@
 {
-  "title": "Mobile Developers Conference 2022",
-  "description": "¡Sé parte del evento, aprende cosas nuevas!",
-  "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
-  "dates": "Diciembre 3 y 4 , 2022",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Compartir",
-  "followOur": "Sigue nuestro",
-  "followUs": "Síguenos",
-  "emailUs": "Envíanos un correo electrónico",
-  "partnershipResources": "Recursos de asociación",
-  "eventResources": "Recursos del Evento",
-  "buyTicket": "INSCRÍBETE",
-  "buyTicketUrl": "https://forms.gle/DbkhvNiNxFhBHg7Q8",
-  "donation": "Donaciones",
-  "donationUrl": "https://www.patreon.com/lizarragadev",
-  "signIn": "Registrarse",
-  "signOut": "Cerrar Sesión",
-  "viewHighlights": "Ver destacados",
-  "offlineMessage": "Aún puedes trabajar sin conexión.",
-  "cachingComplete": "¡Almacenamiento en caché completo! Las visitas futuras funcionarán sin conexión.",
-  "newVersionAvailable": "Hay disponible una nueva versión de esta aplicación.",
-  "refresh": "Actualizar",
-  "position": "Posición",
-  "country": "Pais",
-  "time": "Hora",
-  "faq": "/data/faq.md",
-  "coc": "/data/coc.md",
-  "timezoneOffset": "-180",
-  "footer": {
-    "blog": "Blog"
-  },
-  "mySchedule": {
-    "title": "Mi Programa",
-    "browseSession": "Examinar sesiones"
-  },
-  "footerRelBlock": [
-    {
-      "title": "Acerca de",
-      "links": [
-        {
-          "name": "mDevConf 2021",
-          "url": "https://2021.mdevconf.tech/",
-          "newTab": true
+    "title": "Mobile Developers Conference 2022",
+    "description": "¡Sé parte del evento, aprende cosas nuevas!",
+    "image": "images/social-share.jpg",
+    "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
+    "dates": "Diciembre 3 y 4 , 2022",
+    "partnershipProposition": "https://bit.ly/dfua17-partners",
+    "share": "Compartir",
+    "followOur": "Sigue nuestro",
+    "followUs": "Síguenos",
+    "emailUs": "Envíanos un correo electrónico",
+    "partnershipResources": "Recursos de asociación",
+    "eventResources": "Recursos del Evento",
+    "buyTicket": "INSCRÍBETE",
+    "buyTicketUrl": "https://forms.gle/DbkhvNiNxFhBHg7Q8",
+    "donation": "Donaciones",
+    "donationUrl": "https://www.patreon.com/lizarragadev",
+    "signIn": "Registrarse",
+    "signOut": "Cerrar Sesión",
+    "viewHighlights": "Ver destacados",
+    "offlineMessage": "Aún puedes trabajar sin conexión.",
+    "cachingComplete": "¡Almacenamiento en caché completo! Las visitas futuras funcionarán sin conexión.",
+    "newVersionAvailable": "Hay disponible una nueva versión de esta aplicación.",
+    "refresh": "Actualizar",
+    "position": "Posición",
+    "country": "Pais",
+    "time": "Hora",
+    "faq": "/data/faq.md",
+    "coc": "/data/coc.md",
+    "timezoneOffset": "-180",
+    "footer": {
+        "blog": "Blog"
+    },
+    "mySchedule": {
+        "title": "Mi Programa",
+        "browseSession": "Examinar sesiones"
+    },
+    "footerRelBlock": [{
+            "title": "Acerca de",
+            "links": [{
+                    "name": "mDevConf 2021",
+                    "url": "https://2021.mdevconf.tech/",
+                    "newTab": true
+                },
+                {
+                    "name": "mDevConf 2020",
+                    "url": "https://2020.mdevconf.tech/",
+                    "newTab": true
+                },
+                {
+                    "name": "Kotlin La Paz",
+                    "url": "https://www.facebook.com/KotlinLaPaz",
+                    "newTab": true
+                },
+                {
+                    "name": "GDG Sucre",
+                    "url": "https://www.facebook.com/gdgsucre",
+                    "newTab": true
+                },
+                {
+                    "name": "Conoce al equipo",
+                    "url": "https://mdevconf.tech/team/",
+                    "newTab": true
+                }
+            ]
         },
         {
-          "name": "mDevConf 2020",
-          "url": "https://2020.mdevconf.tech/",
-          "newTab": true
-        },
-        {
-          "name": "Kotlin La Paz",
-          "url": "https://www.facebook.com/KotlinLaPaz",
-          "newTab": true
-        },
-        {
-          "name": "GDG Sucre",
-          "url": "https://www.facebook.com/gdgsucre",
-          "newTab": true
-        },
-        {
-          "name": "Conoce al equipo",
-          "url": "https://mdevconf.tech/team/",
-          "newTab": true
+            "title": "Explore eventos anteriores",
+            "links": [{
+                    "name": "mDevConf 2021",
+                    "url": "https://2021.mdevconf.tech",
+                    "newTab": true
+                },
+                {
+                    "name": "mDevConf 2020",
+                    "url": "https://2020.mdevconf.tech",
+                    "newTab": true
+                },
+                {
+                    "name": "Kotlin Everywhere La Paz",
+                    "url": "https://everywhere.kotlinlapaz.dev/",
+                    "newTab": true
+                }
+            ]
         }
-      ]
+    ],
+    "codeOfConduct": "Código de Conducta",
+    "codeOfConductBlock": {
+        "organization": "Kotlin La Paz",
+        "form": "https://bit.ly/2RstTJ8",
+        "contacts": [
+            "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
+            "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
+        ]
     },
-    {
-      "title": "Explore eventos anteriores",
-      "links": [
-        {
-          "name": "mDevConf 2021",
-          "url": "https://2021.mdevconf.tech",
-          "newTab": true
-        },
-        {
-          "name": "mDevConf 2020",
-          "url": "https://2020.mdevconf.tech",
-          "newTab": true
-        },
-        {
-          "name": "Kotlin Everywhere La Paz",
-          "url": "https://everywhere.kotlinlapaz.dev/",
-          "newTab": true
-        }
-      ]
-    }
-  ],
-  "codeOfConduct": "Código de Conducta",
-  "codeOfConductBlock": {
-    "organization": "Kotlin La Paz",
-    "form": "https://bit.ly/2RstTJ8",
-    "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
-    ]
-  },
-  "aboutBlock": {
-    "title": "Acerca de",
-    "callToAction": {
-      "featuredSessions": {
-        "description": "El mDevConf 2022 es una iniciativa de distintos miembros de comunidades Bolivianas y aficionados al desarrollo móvil que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos del exterior en tecnologías móviles durante 2 días de sesiones y talleres online donde podrás aprender de su experiencia y conocimientos en el área.",
-        "label": "CONFIRMA TU ASISTENCIA",
-        "link": "https://forms.gle/DbkhvNiNxFhBHg7Q8"
-      },
-      "howItWas": {
-        "description": "Un evento espectacular que junto al trabajo de diferentes comunidades buscamos brindar a toda la gente de Latinoamérica una gran experiencia.",
-        "label": "VER EVENTOS PASADOS",
-        "link": "https://2020.mdevconf.tech/"
-      }
-    },
-    "statisticsBlock": {
-      "attendees": {
-        "label": "Dias",
-        "number": "5"
-      },
-      "days": {
-        "label": "Taller",
-        "number": "1"
-      },
-      "sessions": {
-        "label": "Sesiones",
-        "number": "24"
-      },
-      "tracks": {
-        "label": "Premios",
-        "number": "1K"
-      }
-    }
-  },
-  "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
-  },
-  "partnersBlock": {
-    "title": "Sponsors y Partners",
-    "button": "Se nuestro Sponsor",
-    "form": {
-      "title": "Se nuestro Sponsor!",
-      "submitLabel": "Enviar",
-      "fullName": "Nombre completo",
-      "companyName": "Nombre de Empresa"
-    },
-    "toast": "Te contactaremos pronto!"
-  },
-  "featuredVideos": {
-    "title": "mDevConf 2020 Vídeos destacados",
-    "callToAction": {
-      "label": "Mira todos los videos",
-      "link": "https://www.youtube.com/c/mDevConf"
-    }
-  },
-  "blog": {
-    "published": "Publicado",
-    "suggested": ""
-  },
-  "latestPostsBlock": {
-    "title": "Las últimas noticias",
-    "callToAction": {
-      "label": "Ver todas las historias",
-      "link": "/blog/"
-    }
-  },
-  "speakers": {
-    "skills": "Skills",
-    "previousYears": "",
-    "previousYear": "año"
-  },
-  "speakersBlock": {
-    "title": "Speakers",
-    "callToAction": {
-      "label": "Ver todos los speakers",
-      "link": "/speakers/"
-    }
-  },
-  "previousSpeakersBlock": {
-    "title": "Speakers mDevConf 2020",
-    "callToAction": {
-      "label": "Ver todos",
-      "link": "/previous-speakers/"
-    }
-  },
-  "cFvFz": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
-    "callToAction": {
-      "label": "Mira todas las fotos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
-    }
-  },
-  "mapBlock": {
-    "title": "Ubicación"
-  },
-  "galleryBlock": {
-    "title": "#mDevConf2022 highlights",
-    "description": "En los eventos anteriores se generó mucha emoción entre todos los expositores y participantes. Vea las fotos de charlas, premios otorgados, participantes y todas las experiencias...",
-    "callToAction": {
-      "label": "Ver Todas las fotos",
-      "link": "https://photos.google.com/share/AF1QipOEteEBRGoUXFaF9BNPoHc9oHrtCebdJTlhwDRWWGJ99qaSGtvbVd9saikamurEhg?key=eGtDU1lvbjJFaVRJS0VXZ0tfelBsbmFwZVY5ZUVR"
-    }
-  },
-  "team": {
-    "description": "El mDevConf es una iniciativa comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, ver los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 5 días de sesiones y talleres online.<br><br>Kotlin La Paz: O también llamada: Kotlin User Group La Paz, es una comunidad enfocada en compartir y realizar actividades en la ciudad de La Paz fomentando el uso y desarrollo del lenguaje de programación número 1 para desarrollar aplicaciones Android, Web y Multiplataforma como lo es Kotlin.<br><br>GDG Sucre: Somos una comunidad en la que nuestra visión es ayudar a que los desarrolladores tengan acceso a talleres, hackatones, charlas y todo las actividades que se puedan hacer para poder ayudar, incentivar y enseñar."
-  },
-  "schedule": {
-    "saveSessionsSignedOut": "Iniciar sesión para guardar sesiones"
-  },
-  "feedback": {
-    "save": "Guardar",
-    "headline": "Sesión de revisión",
-    "leaveFeedback": "dejar comentarios",
-    "sendFeedbackSignedOut": "Iniciar sesión para dejar comentarios",
-    "feedbackRecorded": "Guardado",
-    "feedbackDeleted": "Comentarios eliminados",
-    "helperText": "Los comentarios serán proporcionados de forma anónima a los speakers",
-    "somethingWentWrong": "Algo salió mal",
-    "contentCaption": "Calidad del contenido",
-    "styleCaption": "Estilo de presentación",
-    "deleteFeedback": "Eliminar",
-    "sessionClosed": "Las revisiones de sesiones no están abiertas"
-  },
-  "sessionDetails": {
-    "contentLevel": "Nivel de contenido",
-    "viewPresentation": "Ver presentación",
-    "viewVideo": "Ver video",
-    "speakers": "Speakers"
-  },
-  "speakerDetails": {
-    "sessions": "Sesiones"
-  },
-  "notifications": {
-    "default": "Permitir notificaciones",
-    "enabled": "Te extrañaremos  pero puedes  darte  de baja en cualquier momento",
-    "blocked": "No podemos enviarle notificaciones en este momento. Habilite las notificaciones en su navegador",
-    "subscribe": "Suscribir",
-    "unsubscribe": "Darse de baja",
-    "enable": {
-      "label": "Habilitar",
-      "link": "https://support.google.com/chrome/answer/3220226"
-    },
-    "toast": {
-      "title": "Abrir"
-    }
-  },
-  "aboutOrganizerBlock": {
-    "image": "/images/team.jpeg",
-    "blocks": [
-      {
-        "title": "Organizadores",
-        "description": "Somos un equipo de dos comunidades tecnológicas de Bolivia: Kotlin La Paz y GDG Sucre. En esta ocasión nos reunimos para desarrollar este grandioso evento.",
+    "aboutBlock": {
+        "title": "Acerca de",
         "callToAction": {
-          "label": "Abrir página de equipo",
-          "link": "/team"
+            "featuredSessions": {
+                "description": "El mDevConf 2022 es una iniciativa de distintos miembros de comunidades Bolivianas y aficionados al desarrollo móvil que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos del exterior en tecnologías móviles durante 2 días de sesiones y talleres online donde podrás aprender de su experiencia y conocimientos en el área.",
+                "label": "CONFIRMA TU ASISTENCIA",
+                "link": "https://forms.gle/DbkhvNiNxFhBHg7Q8"
+            },
+            "howItWas": {
+                "description": "Un evento espectacular que junto al trabajo de diferentes comunidades buscamos brindar a toda la gente de Latinoamérica una gran experiencia.",
+                "label": "VER EVENTOS PASADOS",
+                "link": "https://2020.mdevconf.tech/"
+            }
+        },
+        "statisticsBlock": {
+            "attendees": {
+                "label": "Dias",
+                "number": "5"
+            },
+            "days": {
+                "label": "Taller",
+                "number": "1"
+            },
+            "sessions": {
+                "label": "Sesiones",
+                "number": "24"
+            },
+            "tracks": {
+                "label": "Premios",
+                "number": "1K"
+            }
         }
-      },
-      {
-        "title": "¿Qué es un GDG?",
-        "description": "Un grupo de desarrolladores de Google es una comunidad de voluntarios que crean proyectos interesantes y comparten experiencias sobre las tecnologías de Google.",
+    },
+    "ticketsBlock": {
+        "title": "Tickets",
+        "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+        "soldOut": "You missed it!",
+        "notAvailableYet": "Not available yet",
+        "save": "Save ${discount}% today"
+    },
+    "pastEventsBlock": {
+        "title": "Eventos pasados",
+        "description": "Visita la página de nuestros eventos."
+    },
+    "partnersBlock": {
+        "title": "Sponsors y Partners",
+        "button": "Se nuestro Sponsor",
+        "form": {
+            "title": "Se nuestro Sponsor!",
+            "submitLabel": "Enviar",
+            "fullName": "Nombre completo",
+            "companyName": "Nombre de Empresa"
+        },
+        "toast": "Te contactaremos pronto!"
+    },
+    "featuredVideos": {
+        "title": "mDevConf 2020 Vídeos destacados",
         "callToAction": {
-          "label": "Leer mas",
-          "link": "https://developers.google.com/groups/",
-          "newTab": true
+            "label": "Mira todos los videos",
+            "link": "https://www.youtube.com/c/mDevConf"
         }
-      },
-      {
-        "title": "¿Qué es un Kotlin User Group?",
-        "description": "El Kotlin Users Group o KUG es una comunidad de personas y un lugar para compartir su experiencia de programación con Kotlin y su ecosistema.",
+    },
+    "blog": {
+        "published": "Publicado",
+        "suggested": ""
+    },
+    "latestPostsBlock": {
+        "title": "Las últimas noticias",
         "callToAction": {
-          "label": "Leer mas",
-          "link": "https://kotlinlang.org/user-groups/user-group-list.html",
-          "newTab": true
+            "label": "Ver todas las historias",
+            "link": "/blog/"
         }
-      }
-    ]
-  },
-  "signInDialog": {
-    "alreadyHaveAccount": "Ya tienes una cuenta",
-    "alreadyUsed": "Ya has usado",
-    "signInToContinue": {
-      "part1": "Inicia sesión con",
-      "part2": "continuar."
+    },
+    "speakers": {
+        "skills": "Skills",
+        "previousYears": "",
+        "previousYear": "año"
+    },
+    "speakersBlock": {
+        "title": "Speakers",
+        "callToAction": {
+            "label": "Ver todos los speakers",
+            "link": "/speakers/"
+        }
+    },
+    "previousSpeakersBlock": {
+        "title": "Speakers mDevConf 2020",
+        "callToAction": {
+            "label": "Ver todos",
+            "link": "/previous-speakers/"
+        }
+    },
+    "cFvFz": {
+        "title": "#dfua16 highlights",
+        "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+        "callToAction": {
+            "label": "Mira todas las fotos",
+            "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+        }
+    },
+    "mapBlock": {
+        "title": "Ubicación"
+    },
+    "galleryBlock": {
+        "title": "#mDevConf2022 highlights",
+        "description": "En los eventos anteriores se generó mucha emoción entre todos los expositores y participantes. Vea las fotos de charlas, premios otorgados, participantes y todas las experiencias...",
+        "callToAction": {
+            "label": "Ver Todas las fotos",
+            "link": "https://photos.google.com/share/AF1QipOEteEBRGoUXFaF9BNPoHc9oHrtCebdJTlhwDRWWGJ99qaSGtvbVd9saikamurEhg?key=eGtDU1lvbjJFaVRJS0VXZ0tfelBsbmFwZVY5ZUVR"
+        }
+    },
+    "team": {
+        "description": "El mDevConf es una iniciativa comunidades Bolivianas que tiene como objetivo reunir y dar a conocer todas las opciones tecnológicas que tienen los recién ingresados a este mundo para poder desarrollar aplicaciones móviles, ver los beneficios o ventajas y las desventajas de cada una, además de reunir a expertos de todo el mundo en tecnologías móviles durante 5 días de sesiones y talleres online.<br><br>Kotlin La Paz: O también llamada: Kotlin User Group La Paz, es una comunidad enfocada en compartir y realizar actividades en la ciudad de La Paz fomentando el uso y desarrollo del lenguaje de programación número 1 para desarrollar aplicaciones Android, Web y Multiplataforma como lo es Kotlin.<br><br>GDG Sucre: Somos una comunidad en la que nuestra visión es ayudar a que los desarrolladores tengan acceso a talleres, hackatones, charlas y todo las actividades que se puedan hacer para poder ayudar, incentivar y enseñar."
+    },
+    "schedule": {
+        "saveSessionsSignedOut": "Iniciar sesión para guardar sesiones"
+    },
+    "feedback": {
+        "save": "Guardar",
+        "headline": "Sesión de revisión",
+        "leaveFeedback": "dejar comentarios",
+        "sendFeedbackSignedOut": "Iniciar sesión para dejar comentarios",
+        "feedbackRecorded": "Guardado",
+        "feedbackDeleted": "Comentarios eliminados",
+        "helperText": "Los comentarios serán proporcionados de forma anónima a los speakers",
+        "somethingWentWrong": "Algo salió mal",
+        "contentCaption": "Calidad del contenido",
+        "styleCaption": "Estilo de presentación",
+        "deleteFeedback": "Eliminar",
+        "sessionClosed": "Las revisiones de sesiones no están abiertas"
+    },
+    "sessionDetails": {
+        "contentLevel": "Nivel de contenido",
+        "viewPresentation": "Ver presentación",
+        "viewVideo": "Ver video",
+        "speakers": "Speakers"
+    },
+    "speakerDetails": {
+        "sessions": "Sesiones"
+    },
+    "notifications": {
+        "default": "Permitir notificaciones",
+        "enabled": "Te extrañaremos  pero puedes  darte  de baja en cualquier momento",
+        "blocked": "No podemos enviarle notificaciones en este momento. Habilite las notificaciones en su navegador",
+        "subscribe": "Suscribir",
+        "unsubscribe": "Darse de baja",
+        "enable": {
+            "label": "Habilitar",
+            "link": "https://support.google.com/chrome/answer/3220226"
+        },
+        "toast": {
+            "title": "Abrir"
+        }
+    },
+    "aboutOrganizerBlock": {
+        "image": "/images/team.jpeg",
+        "blocks": [{
+                "title": "Organizadores",
+                "description": "Somos un equipo de dos comunidades tecnológicas de Bolivia: Kotlin La Paz y GDG Sucre. En esta ocasión nos reunimos para desarrollar este grandioso evento.",
+                "callToAction": {
+                    "label": "Abrir página de equipo",
+                    "link": "/team"
+                }
+            },
+            {
+                "title": "¿Qué es un GDG?",
+                "description": "Un grupo de desarrolladores de Google es una comunidad de voluntarios que crean proyectos interesantes y comparten experiencias sobre las tecnologías de Google.",
+                "callToAction": {
+                    "label": "Leer mas",
+                    "link": "https://developers.google.com/groups/",
+                    "newTab": true
+                }
+            },
+            {
+                "title": "¿Qué es un Kotlin User Group?",
+                "description": "El Kotlin Users Group o KUG es una comunidad de personas y un lugar para compartir su experiencia de programación con Kotlin y su ecosistema.",
+                "callToAction": {
+                    "label": "Leer mas",
+                    "link": "https://kotlinlang.org/user-groups/user-group-list.html",
+                    "newTab": true
+                }
+            }
+        ]
+    },
+    "signInDialog": {
+        "alreadyHaveAccount": "Ya tienes una cuenta",
+        "alreadyUsed": "Ya has usado",
+        "signInToContinue": {
+            "part1": "Inicia sesión con",
+            "part2": "continuar."
+        }
+    },
+    "filters": {
+        "title": "Filtros",
+        "results": "Resultados",
+        "tags": "Tags",
+        "complexity": "Complejidad",
+        "clear": "Limpiar todo"
+    },
+    "addToHomeScreen": {
+        "cta": "Añadir a la pantalla principal"
     }
-  },
-  "filters": {
-    "title": "Filtros",
-    "results": "Resultados",
-    "tags": "Tags",
-    "complexity": "Complejidad",
-    "clear": "Limpiar todo"
-  },
-  "addToHomeScreen": {
-    "cta": "Añadir a la pantalla principal"
-  }
 }
