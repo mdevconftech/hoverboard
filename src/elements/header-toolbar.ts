@@ -168,7 +168,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           {% endfor %}
         </paper-tabs>
 
-        <a
+        <!--a
             href="{$ buyTicketUrl $}"
             target="_blank"
             rel="noopener noreferrer"
@@ -177,7 +177,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             ga-event-action="buy_click"
           >
             <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
-          </a>
+          </a-->
 
       </app-toolbar>
     `;

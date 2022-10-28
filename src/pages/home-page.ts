@@ -134,7 +134,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             <div class="info-item">{$ location.city $} {$ dates $}</div>
             <marked-element class="info-item" markdown="{$ heroSettings.home.description $}"></marked-element>
             <div class="action-buttons" layout horizontal center-justified wrap>
-            <paper-button
+            <!--paper-button
               on-click="_buyTicketUrl"
               ga-on="click"
               ga-event-category="ticket button"
@@ -145,7 +145,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             >
               <iron-icon icon="hoverboard:ticket"></iron-icon>
               {$ buyTicket $}
-            </paper-button>
+            </paper-button-->
           </div>
           </div>
 
