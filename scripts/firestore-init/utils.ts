@@ -102,6 +102,37 @@ export const importPartners = () => {
   });
 };
 
+export const importPastEvents = () => {
+  const pastEvents = data.pastEvents;
+  if (!Object.keys(pastEvents).length) {
+    return Promise.resolve();
+  }
+  console.log('Importing pastEvents...');
+
+  const batch = firestore.batch();
+
+  Object.keys(pastEvents).forEach((docId) => {
+    batch.set(firestore.collection('pastEvents').doc(docId), {
+      title: pastEvents[Number(docId)].title,
+    });
+
+    pastEvents[Number(docId)].events.forEach((item, id) => {
+      batch.set(
+        firestore
+          .collection('pastEvents')
+          .doc(`${docId}`)
+          .collection('items')
+          .doc(`${id}`.padStart(3, '0')),
+        item
+      );
+    });
+  });
+
+  return batch.commit().then((results) => {
+    console.log('Imported data for', results.length, 'documents');
+  });
+};
+
 export const importGallery = () => {
   const gallery: string[] = data.gallery;
   if (!Object.keys(gallery).length) {
