@@ -107,7 +107,7 @@ export const importPastEvents = () => {
   if (!Object.keys(pastEvents).length) {
     return Promise.resolve();
   }
-  console.log('Importing pastEvents...');
+  console.log('Importing past events...');
 
   const batch = firestore.batch();
 

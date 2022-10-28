@@ -49,15 +49,15 @@
     "pastEvents": [{
         "events": [{
                 "order": 0,
-                "logoUrl": "../images/events/mdevconf2020.png",
-                "name": "mDevConf 2020",
-                "url": "https://2020.mdevconf.tech/"
-            },
-            {
-                "order": 1,
                 "logoUrl": "../images/events/mdevconf2021.png",
                 "name": "mDevConf 2021",
                 "url": "https://2021.mdevconf.tech/"
+            },
+            {
+                "order": 1,
+                "logoUrl": "../images/events/mdevconf2020.png",
+                "name": "mDevConf 2020",
+                "url": "https://2020.mdevconf.tech/"
             }
         ],
         "title": "Eventos Pasados"

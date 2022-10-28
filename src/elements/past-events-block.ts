@@ -22,19 +22,16 @@ export class PastEventsBlock extends ReduxMixin(PolymerElement) {
           margin: 24px 0 8px;
         }
 
-        .logos-wrapper {
+        .events-wrapper {
           display: grid;
           grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
           grid-gap: 8px;
         }
 
-        .logo-item {
-          padding: 12px;
-        }
-
-        .logo-img {
-          height: 84px;
+        .event-img {
+          height: 210px;
           width: 100%;
+          border-radius: 10px;
         }
 
         .cta-button {
@@ -43,25 +40,26 @@ export class PastEventsBlock extends ReduxMixin(PolymerElement) {
         }
 
         @media (min-width: 640px) {
-          .logos-wrapper {
-            grid-template-columns: repeat(4, 1fr);
+          .events-wrapper {
+            grid-template-columns: repeat(2, 1fr);
           }
         }
 
         @media (min-width: 812px) {
-          .logos-wrapper {
-            grid-template-columns: repeat(5, 1fr);
+          .events-wrapper {
+            grid-template-columns: repeat(4, 1fr);
           }
         }
       </style>
 
       <div class="container">
         <h1 class="container-title">{$ pastEventsBlock.title $}</h1>
+        <p>{$ pastEventsBlock.description $}</p>
         <template is="dom-repeat" items="[[pastEvents]]" as="block">
-          <div class="logos-wrapper">
+          <div class="events-wrapper">
             <template is="dom-repeat" items="[[block.items]]" as="event">
               <a
-                class="logo-item"
+                class="event-item"
                 href$="[[event.url]]"
                 title$="[[event.name]]"
                 target="_blank"
@@ -70,14 +68,14 @@ export class PastEventsBlock extends ReduxMixin(PolymerElement) {
                 horizontal
                 center-center
               >
-                <plastic-image
-                  class="logo-img"
-                  srcset="[[event.logoUrl]]"
-                  sizing="contain"
-                  lazy-load
-                  preload
-                  fade
-                ></plastic-image>
+              <plastic-image
+                class="event-img"
+                srcset="[[event.logoUrl]]"
+                sizing="cover"
+                lazy-load
+                preload
+                fade
+              ></plastic-image>
               </a>
             </template>
           </div>

@@ -134,7 +134,8 @@
         "save": "Save ${discount}% today"
     },
     "pastEventsBlock": {
-        "title": "Eventos pasados"
+        "title": "Eventos pasados",
+        "description": "Visita la página de nuestros eventos."
     },
     "partnersBlock": {
         "title": "Sponsors y Partners",
