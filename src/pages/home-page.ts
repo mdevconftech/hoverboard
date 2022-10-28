@@ -128,14 +128,14 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <div class="home-content" layout vertical center>
           <plastic-image
             class="hero-logo"
-            srcset="/images/logo.svg"
+            srcset="/images/logo-2022.png"
             alt="{$ title $}"
           ></plastic-image>
           <div class="info-items">
             <div class="info-item">{$ location.city $} {$ dates $}</div>
             <marked-element class="info-item" markdown="{$ heroSettings.home.description $}"></marked-element>
             <div class="action-buttons" layout horizontal center-justified wrap>
-            <paper-button
+            <!--paper-button
               on-click="_buyTicketUrl"
               ga-on="click"
               ga-event-category="ticket button"
@@ -146,7 +146,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
             >
               <iron-icon icon="hoverboard:ticket"></iron-icon>
               {$ buyTicket $}
-            </paper-button>
+            </paper-button-->
           </div>
           </div>
 
@@ -220,7 +220,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <about-block></about-block>
       <past-events-block></past-events-block>
       <!--speakers-block></speakers-block-->
-      <previous-speakers-block></previous-speakers-block>
+      <!--previous-speakers-block></previous-speakers-block-->
       <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>

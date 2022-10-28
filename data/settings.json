@@ -27,16 +27,11 @@
       "route": "equipo",
       "permalink": "/team/",
       "label": "Equipo"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Es hora de iniciar el juego...<br><br><b> ● ▴ ■ </b>",
+      "description": "Es hora de rockear...! 🤘",
       "background": {
         "color": "#006666",
         "image": "/images/backgrounds/home.png"

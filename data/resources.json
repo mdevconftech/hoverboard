@@ -3,7 +3,7 @@
     "description": "¡Sé parte del evento, aprende cosas nuevas!",
     "image": "images/social-share.jpg",
     "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
-    "dates": "Noviembre 16-20, 2022",
+    "dates": "Diciembre 3 y 4 , 2022",
     "partnershipProposition": "https://bit.ly/dfua17-partners",
     "share": "Compartir",
     "followOur": "Sigue nuestro",
@@ -38,6 +38,11 @@
     "footerRelBlock": [{
             "title": "Acerca de",
             "links": [{
+                    "name": "mDevConf 2021",
+                    "url": "https://2021.mdevconf.tech/",
+                    "newTab": true
+                },
+                {
                     "name": "mDevConf 2020",
                     "url": "https://2020.mdevconf.tech/",
                     "newTab": true
@@ -62,18 +67,21 @@
         {
             "title": "Explore eventos anteriores",
             "links": [{
-                "name": "mDevConf 2020",
-                "url": "https://2020.mdevconf.tech",
-                "newTab": true
-            }]
-        },
-        {
-            "title": "Recursos del evento",
-            "links": [{
-                "name": "FAQs",
-                "url": "/faq/",
-                "newTab": false
-            }]
+                    "name": "mDevConf 2021",
+                    "url": "https://2021.mdevconf.tech",
+                    "newTab": true
+                },
+                {
+                    "name": "mDevConf 2020",
+                    "url": "https://2020.mdevconf.tech",
+                    "newTab": true
+                },
+                {
+                    "name": "Kotlin Everywhere La Paz",
+                    "url": "https://everywhere.kotlinlapaz.dev/",
+                    "newTab": true
+                }
+            ]
         }
     ],
     "codeOfConduct": "Código de Conducta",
@@ -118,15 +126,15 @@
             }
         }
     },
-    "pastEventsBlock": {
-        "title": "Eventos pasados"
-    },
     "ticketsBlock": {
         "title": "Tickets",
         "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
         "soldOut": "You missed it!",
         "notAvailableYet": "Not available yet",
         "save": "Save ${discount}% today"
+    },
+    "pastEventsBlock": {
+        "title": "Eventos pasados"
     },
     "partnersBlock": {
         "title": "Sponsors y Partners",
