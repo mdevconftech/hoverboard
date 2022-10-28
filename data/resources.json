@@ -3,7 +3,7 @@
   "description": "¡Sé parte del evento, aprende cosas nuevas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, mobile, developers, web, cloud, androiddev, ios, flutter",
-  "dates": "Noviembre 16-20, 2022",
+  "dates": "Diciembre 3 y 4 , 2022",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Compartir",
   "followOur": "Sigue nuestro",
@@ -83,16 +83,6 @@
           "name": "Kotlin Everywhere La Paz",
           "url": "https://everywhere.kotlinlapaz.dev/",
           "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Recursos del evento",
-      "links": [
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }

@@ -27,11 +27,6 @@
       "route": "equipo",
       "permalink": "/team/",
       "label": "Equipo"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
     }
   ],
   "heroSettings": {
