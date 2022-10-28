@@ -85,16 +85,6 @@
           "newTab": true
         }
       ]
-    },
-    {
-      "title": "Recursos del evento",
-      "links": [
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
-        }
-      ]
     }
   ],
   "codeOfConduct": "Código de Conducta",
