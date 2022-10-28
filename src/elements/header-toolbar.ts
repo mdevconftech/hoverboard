@@ -35,7 +35,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
         }
 
         :host([transparent]) .toolbar-logo {
-          background-color: var(--hero-logo-color);
+          background-color: #fff;
           opacity: var(--hero-logo-opacity, 1);
         }
 
