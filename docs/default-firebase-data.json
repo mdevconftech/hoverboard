@@ -1520,7 +1520,7 @@
                     "link": "https://www.facebook.com/alisonluna.marcaconde",
                     "name": "Facebook"
                 }],
-                "order": 0,
+                "order": 3,
                 "title": "Merchandise"
             },
             {
@@ -1538,8 +1538,20 @@
                         "name": "Twitter"
                     }
                 ],
-                "order": 1,
+                "order": 4,
                 "title": "Social media, Sponsors"
+            },
+            {
+                "name": "Corali Diana Almanza Patzi",
+                "photo": "/images/people/Corali Diana Almanza Patzi.jpg",
+                "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/people%2FCorali%20Diana%20Almanza%20Patzi.jpg?alt=media&token=90241013-7b7c-46be-8d49-dd580348813a",
+                "socials": [{
+                    "icon": "twitter",
+                    "link": "https://twitter.com/coralidiana1",
+                    "name": "Twitter"
+                }],
+                "order": 2,
+                "title": "Social media, merchandise, speakers and sponsor"
             },
             {
                 "name": "Erwin Mendez",
@@ -1550,9 +1562,10 @@
                     "link": "https://www.linkedin.com/in/erwin-m%C3%A9ndez-534902152",
                     "name": "Linkedin"
                 }],
-                "order": 2,
+                "order": 5,
                 "title": "Website"
             },
+            
             {
                 "name": "Felix Alejandro Zelaya Orellana",
                 "photo": "/images/people/felix-zelaya.jpg",
@@ -1568,7 +1581,7 @@
                         "name": "Github"
                     }
                 ],
-                "order": 3,
+                "order": 0,
                 "title": "Lead Organizer"
             },
             {
@@ -1591,7 +1604,7 @@
                         "name": "Twitter"
                     }
                 ],
-                "order": 4,
+                "order": 1,
                 "title": "Videomedia, Speakers/Sponsors/Schedule"
             },
             {
@@ -1619,7 +1632,7 @@
                         "name": "Twitter"
                     }
                 ],
-                "order": 5,
+                "order": 6,
                 "title": "Website, Videomedia"
             },
             {
@@ -1631,7 +1644,7 @@
                     "link": "https://www.linkedin.com/in/marina-vega-santos-75a77a218",
                     "name": "Linkedin"
                 }],
-                "order": 6,
+                "order": 7,
                 "title": "Design, Social Media"
             },
             {
@@ -1643,7 +1656,7 @@
                     "link": "https://www.facebook.com/marosalesrodriguez",
                     "name": "Facebook"
                 }],
-                "order": 7,
+                "order": 8,
                 "title": "Marketing"
             },
             {
@@ -1655,7 +1668,7 @@
                     "link": "https://www.facebook.com/nicolas.zelaya.125",
                     "name": "Facebook"
                 }],
-                "order": 8,
+                "order": 9,
                 "title": "Website, Design"
             },
             {
@@ -1678,8 +1691,49 @@
                         "name": "Facebook"
                     }
                 ],
-                "order": 8,
+                "order": 10,
                 "title": "Website, Design"
+            },
+            {
+                "name": "Soledad Nina",
+                "photo": "/images/people/Sole Nina.jpg",
+                "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/people%2FSole%20Nina.jpg?alt=media&token=38522ac4-2ebc-45c7-b04f-2833c124dab5",
+                "socials": [{
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/sole-nina-83659b1a4/",
+                    "name": "Linkedin"
+                },
+                {
+                    "icon": "instagram",
+                    "link": "https://www.instagram.com/soleni13/",
+                    "name": "Instagram"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/sole.nina.35",
+                    "name": "Facebook"
+                }
+            ],
+                "order": 11,
+                "title": "Social media"
+            },
+            {
+                "name": "Carmen Sarahí Martínez Aviza",
+                "photo": "/images/people/Sarahí Martínez.jpg",
+                "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/people%2FSarah%C3%AD%20Mart%C3%ADnez.jpg?alt=media&token=6e73cb0f-2aa8-4404-bbb9-b384100151d1",
+                "socials": [{
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/carmen-sarah%C3%AD-mart%C3%ADnez-aviza-5b198b218/",
+                    "name": "Linkedin"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/sari.m.martinez.710",
+                    "name": "Facebook"
+                }
+            ],
+                "order": 12,
+                "title": "Social media"
             },
             {
                 "name": "Sergio Antonio Ochoa Martinez",
@@ -1701,7 +1755,7 @@
                         "name": "Facebook"
                     }
                 ],
-                "order": 10,
+                "order": 13,
                 "title": "Website, Speakers"
             },
             {
@@ -1719,7 +1773,7 @@
                         "name": "Facebook"
                     }
                 ],
-                "order": 11,
+                "order": 14,
                 "title": "Merchandise"
             },
             {
@@ -1731,7 +1785,7 @@
                     "link": "https://www.facebook.com/yeison.feza",
                     "name": "Facebook"
                 }],
-                "order": 12,
+                "order": 15,
                 "title": "Website"
             }
         ],
