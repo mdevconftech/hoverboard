@@ -27,6 +27,11 @@
       "route": "equipo",
       "permalink": "/team/",
       "label": "Equipo"
+    },
+    {
+      "route": "inscribete",
+      "permalink": "https://docs.google.com/forms/d/e/1FAIpQLSdiEnJrtsdfdGIOuxeZmWBdX7tZ73TUoocHBoaDrKovpENJpg/viewform",
+      "label": "INSCRIBETE"
     }
   ],
   "heroSettings": {
