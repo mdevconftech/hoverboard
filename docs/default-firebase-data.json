@@ -46,7 +46,7 @@
                 "order": 2,
                 "logoUrl": "../images/logos/devtalles-black.png",
                 "name": "DevTalles",
-                "url": "https://cursos.devtalles.com"
+                "": "https://cursos.devtalles.com"
             }
         ],
         "order": 0,
