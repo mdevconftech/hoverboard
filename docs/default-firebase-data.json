@@ -41,6 +41,12 @@
                 "logoUrl": "../images/logos/gdg-sucre.png",
                 "name": "GDG Sucre",
                 "url": "https://www.facebook.com/gdgsucre"
+            },
+            {
+                "order": 2,
+                "logoUrl": "../images/logos/devtalles-black.png",
+                "name": "DevTalles",
+                "url": "https://cursos.devtalles.com"
             }
         ],
         "order": 0,
