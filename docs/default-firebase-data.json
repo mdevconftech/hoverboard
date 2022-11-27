@@ -41,6 +41,24 @@
                 "logoUrl": "../images/logos/gdg-sucre.png",
                 "name": "GDG Sucre",
                 "url": "https://www.facebook.com/gdgsucre"
+            },
+            {
+                "order": 2,
+                "logoUrl": "../images/logos/devtalles-black.png",
+                "name": "DevTalles",
+                "": "https://cursos.devtalles.com"
+            },
+            {
+                "order": 3,
+                "logoUrl": "../images/logos/nice_cxone.png",
+                "name": "Nice CXOne",
+                "url": "https://www.nice.com"
+            },
+            {
+                "order": 4,
+                "logoUrl": "../images/logos/90hrswk.png",
+                "name": "90 HRS/WK",
+                "url": "https://90horasporsemana.com"
             }
         ],
         "order": 0,
