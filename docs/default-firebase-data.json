@@ -16,7 +16,8 @@
         "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F4.jpg?alt=media&token=4cce0528-9cc8-4bef-a8bb-9fa2c1678946",
         "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F5.jpg?alt=media&token=aa597fec-4c4f-4108-af22-43aecbbeb352",
         "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F6.jpg?alt=media&token=7e6d8767-1bcd-447a-8cc3-92e4a77ecb16",
-        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F7.jpg?alt=media&token=c3a3cc85-8304-4be3-8585-9f775e16019d"
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F7.jpg?alt=media&token=c3a3cc85-8304-4be3-8585-9f775e16019d",
+        "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/mdevconf-2021%2F8.jpg?alt=media&token=5fd4230c-4490-456e-860e-c6cb47a67953"
     ],
     "notifications": {
         "config": {
@@ -29,82 +30,56 @@
         "users": {}
     },
     "partners": [{
-            "logos": [{
-                    "order": 0,
-                    "logoUrl": "../images/logos/kotlin-la-paz.png",
-                    "name": "Kotlin La Paz",
-                    "url": "https://www.facebook.com/KotlinLaPaz/"
-                },
-                {
-                    "order": 1,
-                    "logoUrl": "../images/logos/gdg-sucre.png",
-                    "name": "GDG Sucre",
-                    "url": "https://www.facebook.com/gdgsucre"
-                }
-            ],
-            "order": 0,
-            "title": "Partners"
-        },
-        {
-            "logos": [{
-                    "order": 1,
-                    "logoUrl": "../images/sponsors/01.Auth0.png",
-                    "name": "Auth0",
-                    "url": "https://a0.to/mDevConf"
-                },
-                {
-                    "order": 2,
-                    "logoUrl": "../images/sponsors/02.LOGO-DE-COGNOS-CAPACITACIÓN.png",
-                    "name": "Cognos",
-                    "url": "https://cognos-capacitacion.com/"
-                },
-                {
-                    "order": 3,
-                    "logoUrl": "../images/sponsors/03.GitHub_Logo.png",
-                    "name": "Github",
-                    "url": "https://github.com/"
-                },
-                {
-                    "order": 4,
-                    "logoUrl": "../images/sponsors/06.jetbrains.png",
-                    "name": "Jetbrains",
-                    "url": "https://www.jetbrains.com/es-es/"
-                },
-                {
-                    "order": 5,
-                    "logoUrl": "../images/sponsors/04.FCPN.png",
-                    "name": "FCPN",
-                    "url": "http://www.fcpn.edu.bo"
-                },
-                {
-                    "order": 6,
-                    "logoUrl": "../images/sponsors/07.OReilly_logo_rgb.png",
-                    "name": "O'Reilly",
-                    "url": "https://www.oreilly.com"
-                },
-                {
-                    "order": 7,
-                    "logoUrl": "../images/sponsors/08.Codear.png",
-                    "name": "Codear",
-                    "url": "https://codear.org"
-                },
-                {
-                    "order": 8,
-                    "logoUrl": "../images/sponsors/05.Steam.jpg",
-                    "name": "Steam",
-                    "url": "https://www.facebook.com/CefacFcpnSteam/"
-                },
-                {
-                    "order": 9,
-                    "logoUrl": "../images/sponsors/04.GitKraken.png",
-                    "name": "GitKraken",
-                    "url": "https://www.gitkraken.com/invite/jzUntqzm"
-                }
-            ],
-            "order": 1,
-            "title": "Sponsors"
-        }
-    ],
+        "logos": [{
+                "order": 0,
+                "logoUrl": "../images/logos/kotlin-la-paz.png",
+                "name": "Kotlin La Paz",
+                "url": "https://www.facebook.com/KotlinLaPaz/"
+            },
+            {
+                "order": 1,
+                "logoUrl": "../images/logos/gdg-sucre.png",
+                "name": "GDG Sucre",
+                "url": "https://www.facebook.com/gdgsucre"
+            },
+            {
+                "order": 2,
+                "logoUrl": "../images/logos/devtalles-black.png",
+                "name": "DevTalles",
+                "": "https://cursos.devtalles.com"
+            },
+            {
+                "order": 3,
+                "logoUrl": "../images/logos/nice_cxone.png",
+                "name": "Nice CXOne",
+                "url": "https://www.nice.com"
+            },
+            {
+                "order": 4,
+                "logoUrl": "../images/logos/90hrswk.png",
+                "name": "90 HRS/WK",
+                "url": "https://90horasporsemana.com"
+            }
+        ],
+        "order": 0,
+        "title": "Partners"
+    }],
+    "pastEvents": [{
+        "events": [{
+                "order": 0,
+                "logoUrl": "../images/events/mdevconf2021.png",
+                "name": "mDevConf 2021",
+                "url": "https://2021.mdevconf.tech/"
+            },
+            {
+                "order": 1,
+                "logoUrl": "../images/events/mdevconf2020.png",
+                "name": "mDevConf 2020",
+                "url": "https://2020.mdevconf.tech/"
+            }
+        ],
+        "title": "Eventos Pasados"
+    }],
     "schedule": {
         "2021-11-16": {
             "date": "2021-11-16",
@@ -750,292 +725,83 @@
         }
     },
     "speakers": {
-        "adrian_catalan": {
-            "bio": "Adrián has been involved in software industry for 17+ years as full stack, mobile and machine learning engineer. He started and organized several tech meetup in Guatemala City including GDG Cloud, GDG, Facebook DevC, GuatemalaJS and Nodebots. TensorFlow certified Developer, Google For Startups Mentor, Google Design Sprint Master and Google Developer Expert(GDE) for Android, IoT and Firebase. Co-Active coach, sommelier, mountaineer, clown, improviser. Consultant and speaker for a range of topics including innovation, entrepreneurship, creativity, business models, mobile and machine learning, in LATAM, US, Europe and Asia. Currently he  is the Program Director of the Master on Tech Entrepreneurship and Innovation and the Innovation Lab Director at Galileo University in Guatemala City.",
-            "company": "Universidad Galileo",
+        "alvaro_martinez": {
+            "bio": "Actualmente soy técnico en automatización y gestión de calidad de software en Agetic Bolivia, desarrollador full stack, trabajo en desarrollo movil, frontend y backend, me gusta el aprender de tecnología, así como también compartir mis conocimientos y experiencia, también soy co-propietario y fundador de la empresa Eleventech especializada en software de gestión administrativa",
+            "company": "Agetic Bolivia",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Ciudad de Guatemala, Guatemala",
+            "country": "La Paz, Bolivia",
             "featured": false,
-            "name": "Adrian Catalan",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F1.%20Adria%CC%81n%20Catalan%20-%20Adrian%20Catalan-min.jpg?alt=media&token=84fe3730-dba2-4a03-a8a9-1e74f45ef608",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F1.%20Adria%CC%81n%20Catalan%20-%20Adrian%20Catalan-min.jpg?alt=media&token=84fe3730-dba2-4a03-a8a9-1e74f45ef608",
+            "name": "Alvaro Martinez Mancilla",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Falvaro_martinez.jpeg?alt=media&token=bd4df019-b1aa-488b-bd14-8dfc9aea47c3",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Falvaro_martinez.jpeg?alt=media&token=bd4df019-b1aa-488b-bd14-8dfc9aea47c3",
             "pronouns": "",
-            "shortBio": "Adrián has been involved in software industry for 17+ years as full stack, mobile and machine learning engineer. He started ...",
+            "shortBio": "Actualmente soy técnico en automatización y gestión de calidad de software en Agetic Bolivia, desarrollador full stack...",
             "socials": [{
                     "icon": "linkedin",
-                    "link": "https://linkedin.com/in/adriancatalan",
+                    "link": "https://linkedin.com/in/alvardud/",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "http://github.com/ykro",
+                    "link": "https://github.com/alvardud",
                     "name": "GitHub"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/Alvardud",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/Alvardud",
+                    "name": "Twitter"
                 }
             ],
             "order": 0,
             "title": ""
         },
-        "jose_lujan": {
-            "bio": "Desarrollador, docente y escritor.",
-            "company": "Diplus",
+        "anahi_salgado": {
+            "bio": "Android Senior Developer y Creadora de Contenido",
+            "company": "Globant",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Cancun México",
+            "country": "México",
             "featured": false,
-            "name": "José Luján",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fjose%20-%20Jos%C3%A9%20Dimas%20Luj%C3%A1n%20Castillo-min.jpeg?alt=media&token=7e2a9959-d93d-44ec-94c8-472e83575b5b",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fjose%20-%20Jos%C3%A9%20Dimas%20Luj%C3%A1n%20Castillo-min.jpeg?alt=media&token=7e2a9959-d93d-44ec-94c8-472e83575b5b",
+            "name": "Anahí Salgado",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fanahi-salgado.jpeg?alt=media&token=4a8681b7-8c55-4808-8720-9eb58568d98e",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fanahi-salgado.jpeg?alt=media&token=4a8681b7-8c55-4808-8720-9eb58568d98e",
             "pronouns": "",
-            "shortBio": "Desarrollador, docente y escritor.",
+            "shortBio": "Android Senior Developer y Creadora de Contenido",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "https://www.linkedin.com/in/josedlujan/",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/josedlujan",
-                    "name": "Facebook"
-                },
-                {
                     "icon": "github",
-                    "link": "https://github.com/josedlujan",
+                    "link": "https://github.com/anncode",
                     "name": "GitHub"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/anncode",
+                    "name": "Twitter"
                 }
             ],
             "order": 1,
             "title": ""
         },
-        "brais_moure": {
-            "bio": "Soy ingeniero de software desde hace más de 11 años. En 2015 fundé MoureDev para dedicarme profesionalmente al desarrollo de apps iOS/Android. Actualmente colaboro con empresas de distintas partes del mundo y comparto contenido formativo sobre programación mobile como @mouredev.",
-            "company": "MoureDev",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Galicia, España",
-            "featured": true,
-            "name": "Brais Moure",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fmouredev_v3%20-%20Brais%20Moure-min.jpg?alt=media&token=5ee155e4-c91e-4718-838e-13b81637b390",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fmouredev_v3%20-%20Brais%20Moure-min.jpg?alt=media&token=5ee155e4-c91e-4718-838e-13b81637b390",
-            "shortBio": "Soy ingeniero de software desde hace más de 11 años. En 2015 fundé MoureDev para dedicarme profesionalmente al desarrollo de apps iOS/Android...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/mouredev",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/braismoure/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/mouredev",
-                    "name": "GitHub"
-                },
-                {
-                    "icon": "website",
-                    "link": "https://moure.dev",
-                    "name": "Personal Website"
-                }
-            ],
-            "order": 2,
-            "title": ""
-        },
-        "frank_andre": {
-            "bio": "Estudió Ing. Electrónica y desarrolló proyectos de robótica y de Internet de las Cosas (IoT) durante varios. Cuenta con una maestría en Ing. de Control y Automatización. Actualmente lleva 4 años como Flutter Developer en diversos proyectos y se centra en el estudio de arquitecturas de software para super apps.",
-            "company": "",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Perú",
-            "featured": false,
-            "name": "Frank Andre Moreno Vera",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffrank_uyuni%20-%20Frank%20Moreno-min.jpeg?alt=media&token=8202bb1b-7665-4033-8c3f-7bf0e1a0e969",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffrank_uyuni%20-%20Frank%20Moreno-min.jpeg?alt=media&token=8202bb1b-7665-4033-8c3f-7bf0e1a0e969",
-            "shortBio": "Estudió Ing. Electrónica y desarrolló proyectos de robótica y de Internet de las Cosas (IoT) durante varios. Cuenta con una maestría en Ing. de Control y Automatización...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/kranfix",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/kranfix",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/kranfix/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/kranfix/",
-                    "name": "GitHub"
-                },
-                {
-                    "icon": "website",
-                    "link": "https://kranfix.medium.com/",
-                    "name": "Personal Website"
-                }
-            ],
-            "order": 3,
-            "title": ""
-        },
-        "antonio_leiva": {
-            "bio": "Desarrollador Android durante más de 12 años en empresas y startups de todo el mundo, actualmente se dedica a formar a otros desarrolladores Android para alcanzar su máximo potencial y el de sus empresas. Antonio es GDE en Android, Kotlin y Partner de formación de JetBrains.",
-            "company": "DevExperto",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Madrid, España",
-            "featured": true,
-            "name": "Antonio Leiva",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20211019_125831%20-%20Antonio%20Leiva-min.jpg?alt=media&token=37e72cb1-e27f-4d3f-9e91-a5ba7eaf76d0",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20211019_125831%20-%20Antonio%20Leiva-min.jpg?alt=media&token=37e72cb1-e27f-4d3f-9e91-a5ba7eaf76d0",
-            "shortBio": "Desarrollador Android durante más de 12 años en empresas y startups de todo el mundo, actualmente se dedica a formar a otros desarrolladores Android...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "twitter.com/devexperto1",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "linkedin.com/in/antoniolg",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "github.com/antoniolg",
-                    "name": "GitHub"
-                },
-                {
-                    "icon": "website",
-                    "link": "https://devexperto.com",
-                    "name": "Personal Website"
-                }
-            ],
-            "order": 4,
-            "title": ""
-        },
-        "ana_cecilia": {
-            "bio": "Soy una ingeniera apasionada y curiosa por el desarrollo de software Actualmente trabajo desarrollando para móviles en PayPal. Organizadora del GDG Guatemala, Women Tech maker Ambassador.",
-            "company": "Wordbox",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Guatemala",
-            "featured": false,
-            "name": "Ana Cecilia Castillo",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FUntitled%20Capture2049%20-%20Ana%20Cecilia%20Castillo-min.jpg?alt=media&token=d779d189-f8c6-4dec-9071-197221e9ce59",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FUntitled%20Capture2049%20-%20Ana%20Cecilia%20Castillo-min.jpg?alt=media&token=d779d189-f8c6-4dec-9071-197221e9ce59",
-            "shortBio": "Soy una ingeniera apasionada y curiosa por el desarrollo de software Actualmente trabajo desarrollando para móviles en PayPal...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/zezzi",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/cecicastillo/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/zezzi",
-                    "name": "GitHub"
-                }
-            ],
-            "order": 5,
-            "title": ""
-        },
-        "dinorah_tovar": {
-            "bio": "Dinorah is Platform Mobile Engineer at Konfio, In the past, she led the mobile engineering teams of Lonely Planet and the Boston Consulting Group. She’s also a speaker in many tech conferences for the community, like Women Who Code, Droidcon and Kotlin Everywhere. Twitter: @ddinorahtovar",
-            "company": "Konfio.mx",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Ciudad de Mexico, Mexico",
-            "featured": false,
-            "name": "Dinorah Tovar",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FProfile-Overlay2%20-%20Dinorah%20Tovar-min.png?alt=media&token=370d9778-1b98-4ac4-ad74-705d61143eef",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FProfile-Overlay2%20-%20Dinorah%20Tovar-min.png?alt=media&token=370d9778-1b98-4ac4-ad74-705d61143eef",
-            "shortBio": "Dinorah is Platform Mobile Engineer at Konfio, In the past, she led the mobile engineering teams of Lonely Planet and the Boston Consulting Group...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/DDinorahtovar",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/dinorah-tovar/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/giannyalfaro",
-                    "name": "GitHub"
-                },
-                {
-                    "icon": "website",
-                    "link": "https://medium.com/@ddinorahtovar",
-                    "name": "Personal Website"
-                }
-            ],
-            "order": 6,
-            "title": ""
-        },
-        "facundo_rodriguez": {
-            "bio": "Ingeniero en Computación por la Universidad Nacional de Tres De Febrero. Actualmente me desempeño como Senior Android Engineer, plataforma para la cual desarrollo profesionalmente hace 10 años.",
-            "company": "",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Buenos Aires, Argentina",
-            "featured": false,
-            "name": "Facundo Rodríguez Arceri",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffacu%20-%20Facundo%20Rodr%C3%ADguez%20Arceri-min.jpg?alt=media&token=197e8129-95a4-4ac6-ba16-57438e8385d0",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffacu%20-%20Facundo%20Rodr%C3%ADguez%20Arceri-min.jpg?alt=media&token=197e8129-95a4-4ac6-ba16-57438e8385d0",
-            "shortBio": "Ingeniero en Computación por la Universidad Nacional de Tres De Febrero. Actualmente me desempeño como Senior Android Engineer, plataforma para la...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "twitter.com/facundomr",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "linkedin.com/in/facundomr",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "github.com/facundomr",
-                    "name": "GitHub"
-                }
-            ],
-            "order": 6,
-            "title": ""
-        },
         "brian_castillo": {
-            "bio": "Brian es CTO en Wibo. Wibo es una startup con presencia en Chile, Perú y Uruguay, es una plataforma de comercio digital en el sitio. Es Google Developer Expert en Firebase y tiene más de 8 años como developer mobile. Anteriormente ha sido CTO de una fábrica de software. A él le gusta mucho el café, por sus venas corre más café que sangre.",
+            "bio": "Brian es CTO en Wibo. Wibo es una startup con presencia en Chile, Perú y Uruguay, es una plataforma de comercio digital en el sitio. Es Google Developer Expert en Firebase y tiene más de 8 años como developer mobile. Anteriormente ha sido CTO de una fábrica de software. \n A él le gusta mucho el café, por sus venas corre más café que sangre.",
             "company": "Wibo",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Lima, Perú",
+            "country": "Santiago de Chile, Chile",
             "featured": false,
             "name": "Brian Castillo",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fbrian_dev%20-%20Brian%20Castillo-min.png?alt=media&token=9aad28d3-e5a7-4648-95f6-28bde99f33be",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fbrian_dev%20-%20Brian%20Castillo-min.png?alt=media&token=9aad28d3-e5a7-4648-95f6-28bde99f33be",
-            "shortBio": "Brian es CTO en Wibo. Wibo es una startup con presencia en Chile, Perú y Uruguay, es una plataforma de comercio digital en el sitio...",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fbrian-castillo.png?alt=media&token=17ddcad0-c9f2-484f-9301-5b42625934a0",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fbrian-castillo.png?alt=media&token=17ddcad0-c9f2-484f-9301-5b42625934a0",
+            "pronouns": "",
+            "shortBio": "Brian es CTO en Wibo. Wibo es una startup con presencia en Chile, Perú y Uruguay, es una plataforma de comercio digital...",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/briansalvattore",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://fb.me/briansalvattore",
-                    "name": "Facebook"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "https://linkedin.com/in/briansalvattore/",
+                    "link": "https://linkedin.com/in/briansalvattore",
                     "name": "LinkedIn"
                 },
                 {
@@ -1044,512 +810,629 @@
                     "name": "GitHub"
                 },
                 {
-                    "icon": "youtube",
-                    "link": "https://www.youtube.com/c/grinchcode",
-                    "name": "Youtube Channel"
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/briansalvattore",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/briansalvattore",
+                    "name": "Twitter"
+                }
+            ],
+            "order": 2,
+            "title": ""
+        },
+        "carlos_collazos": {
+            "bio": "Soy UI/UX Designer, llevo trabajando en tecnología y diseño productos digitales hace más de 9 años, mi posición más reciente fue como diseñador UI/UX en Square Enix Montreal. \n También soy activo en comunidades de diseño, emprendimiento y tecnología, participando como mentor, jurado y speaker, compartiendo mi experiencia y conocimiento. ",
+            "company": "Square Enix Montreal",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "Cochabamba, Bolivia",
+            "featured": false,
+            "name": "Carlos Collazos",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fcarlos_collazos.jpeg?alt=media&token=f59890fc-0f56-4519-b846-6dad2d993a90",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fcarlos_collazos.jpeg?alt=media&token=f59890fc-0f56-4519-b846-6dad2d993a90",
+            "pronouns": "",
+            "shortBio": "Soy UI/UX Designer, llevo trabajando en tecnología y diseño productos digitales hace más de 9 años, mi posición más reciente fue como diseñador UI/UX...",
+            "socials": [{
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/uxcarlos",
+                    "name": "LinkedIn"
+                },
+                {
+                    "icon": "website",
+                    "link": "https://www.behance.net/carlosuxd",
+                    "name": "Behance"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/carlosuxd",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/uxcarlitos",
+                    "name": "Twitter"
+                }
+            ],
+            "order": 3,
+            "title": ""
+        },
+        "carlos_munoz": {
+            "bio": "Soy ingeniero de sistemas según mi carrera universitaria, y he tenido la oportunidad de trabajar en diferentes ámbitos dentro del mundo de desarrollo, pero hace unos 10 años decidí enfocarme en el mundo mobile, en particular Android. Por mi experiencia en el tema y mi trabajo en comunidades en mi país, fui nominado por Google como Google Developer Expert en Android, aunque actualmente debido a temas laborales, tengo un enfoque 100% en el desarrollo multi-plataforma con Flutter & Dart.",
+            "company": "La Haus",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "Medellin, Colombia",
+            "featured": false,
+            "name": "Carlos Muñoz",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fcarlos-munoz.png?alt=media&token=da9681a3-dc1d-4fc5-bd2b-e909eefacea0",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fcarlos-munoz.png?alt=media&token=da9681a3-dc1d-4fc5-bd2b-e909eefacea0",
+            "pronouns": "",
+            "shortBio": "Soy ingeniero de sistemas según mi carrera universitaria, y he tenido la oportunidad de trabajar en diferentes ámbitos...",
+            "socials": [{
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/carlosdanielmunozidarraga",
+                    "name": "LinkedIn"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/cdmunoz",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "website",
+                    "link": "https://medium.com/@cdmunoz",
+                    "name": "Medium"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/cdmunozi",
+                    "name": "Twitter"
+                }
+            ],
+            "order": 4,
+            "title": ""
+        },
+        "cecilia_castillo": {
+            "bio": "Ingeniera en Sistemas con Maestría en Tecnologías de Información especialidad en Redes de Computadoras y Seguridad Informática Desarrolladora de software, amante de la tecnología y deportista de corazón. Co-Organizadora del Google Developer Group Guatemala desarrolla aplicaciones móviles para Paypal. Speaker en múltiples conferencias . En sus tiempos libres le gusta correr, leer y promover la participación de mujeres en el área de tecnología.",
+            "company": "PayPal",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "Guatemala, Guatemala",
+            "featured": false,
+            "name": "Cecilia Castillo",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fcecilia-castillo.jpeg?alt=media&token=b3b011e9-9f97-4f5d-b481-a87ce9c95c06",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fcecilia-castillo.jpeg?alt=media&token=b3b011e9-9f97-4f5d-b481-a87ce9c95c06",
+            "pronouns": "",
+            "shortBio": "Ingeniera en Sistemas con Maestría en Tecnologías de Información especialidad en Redes de Computadoras y Seguridad Info...",
+            "socials": [{
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/cecicastillo",
+                    "name": "LinkedIn"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/zezzi",
+                    "name": "Twitter"
+                }
+            ],
+            "order": 5,
+            "title": ""
+        },
+        "david_rios": {
+            "bio": "Senior Mobile Developer, en TUL (Colombia) y GAP (Costa Rica), me encanta trabajar con tecnologías como Kotlin, Swift y Flutter, Organizer comunidad Flutter Devs Bolivia y Lead GDG La Paz",
+            "company": "TUL (Colombia) y GAP (Costa Rica)",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "La Paz, Bolivia",
+            "featured": false,
+            "name": "David Samuel Ríos Nuñez",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fdavid_rios.jpeg?alt=media&token=a9b52635-bdfd-499f-8ee6-2885cd124e4f",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fdavid_rios.jpeg?alt=media&token=a9b52635-bdfd-499f-8ee6-2885cd124e4f",
+            "pronouns": "",
+            "shortBio": "Senior Mobile Developer, en TUL (Colombia) y GAP (Costa Rica), me encanta trabajar con tecnologías...",
+            "socials": [{
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/david-rios-dev",
+                    "name": "LinkedIn"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/driosn",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/davidriosdev?mibextid=LQQJ4d",
+                    "name": "Facebook"
+                }
+            ],
+            "order": 6,
+            "title": ""
+        },
+        "fernando_herrera": {
+            "bio": "Soy FullStack developer, profesor en línea en Udemy y fundador de DevTalles, mi propia plataforma de enseñanza en línea. Me encanta poder compartir mi conocimiento y pasar mis días creando material que impulse las habilidades de los desarrolladores del mañana.",
+            "company": "DevTalles",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "Ottawa, Canada",
+            "featured": false,
+            "name": "Fernando Herrera",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Ffernando-herrera.jpeg?alt=media&token=e4c9ed6e-9d56-4243-80d4-edd0e5550327",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Ffernando-herrera.jpeg?alt=media&token=e4c9ed6e-9d56-4243-80d4-edd0e5550327",
+            "pronouns": "",
+            "shortBio": "Soy FullStack developer, profesor en línea en Udemy y fundador de DevTalles, mi propia plataforma de enseñanza en línea...",
+            "socials": [{
+                    "icon": "github",
+                    "link": "https://github.com/Klerith",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "website",
+                    "link": "http://fernando-herrera.com/",
+                    "name": "Website"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/Fernando_Her85",
+                    "name": "Twitter"
                 }
             ],
             "order": 7,
             "title": ""
         },
-        "argel_bejarano": {
-            "bio": "Flutter & Dart GDE, Founder Flutter y Dart en Español, Lead Software Engineer en Nubank.",
-            "company": "Nubank",
+        "frank_moreno": {
+            "bio": "Software engineer con más de 10 años de experiencia en backend, frontend y mobile. Usa Flutter desde hace 5 años (cuando este aún estaba en su versión alpha) tanto para aplicaciones móviles como web. \n Ha desarrollado tanto aplicaciones como SDKs y ha contribuido con diferentes paquetes importantes en el ecosistema de Flutter. \n Actualmente está desarrollando aplicaciones relacionadas a blockchain buscando que sí tengan una aplicación real sin estar asociado al trading.",
+            "company": "",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Hermosillo, Sonora, Mexico.",
+            "country": "Lima, Perú",
             "featured": false,
-            "name": "Argel Bejarano",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FSquare%20Profile%20-%20Argel%20Bejarano-min.png?alt=media&token=8881459a-3c64-4dda-abde-b88dbe9ee695",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FSquare%20Profile%20-%20Argel%20Bejarano-min.png?alt=media&token=8881459a-3c64-4dda-abde-b88dbe9ee695",
-            "shortBio": "Flutter & Dart GDE, Founder Flutter y Dart en Español, Lead Software Engineer en Nubank...",
+            "name": "Frank Moreno",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Ffrank-moreno.jpeg?alt=media&token=70b7fba1-9854-405e-b64a-b8025a121f8d",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Ffrank-moreno.jpeg?alt=media&token=70b7fba1-9854-405e-b64a-b8025a121f8d",
+            "pronouns": "",
+            "shortBio": "Software engineer con más de 10 años de experiencia en backend, frontend y mobile. Usa Flutter desde hace 5 años...",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "www.twitter.com/ArkangelB",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/ArkangelB12",
-                    "name": "Facebook"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/argelbejarano/",
+                    "link": "https://www.linkedin.com/in/kranfix",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "github.com/Arkangel12",
+                    "link": "https://github.com/kranfix",
                     "name": "GitHub"
+                },
+                {
+                    "icon": "website",
+                    "link": "https://kranfix.medium.com",
+                    "name": "Medium"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/kranfix",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/kranfix",
+                    "name": "Twitter"
                 }
             ],
             "order": 8,
             "title": ""
         },
-        "cristian_gomez": {
-            "bio": "Cristian es desarrollador de software, actualmente enfocado en el desarrollo de sistemas basados en Server Driven UI. Charlista de conferencias como Droidcon (Polonia, Santo Domingo). Cristian ha ayudado a empresas a desarrollar una cultura de apoyo y continuo crecimiento en torno a la calidad del código. En su tiempo libre disfruta de la fotografía y tocar la guitarra.",
-            "company": "Mbark",
+        "gema_socorro": {
+            "bio": "Llevo pegada al teclado más de 12 años (7 de ellos en remoto), haciendo principalmente apps para Android. Me encanta convertir ideas en realidad, recalentar mi ordenador con el Android Studio y cazar mis propios bugs. Me apasiona compartir todo lo que voy aprendiendo para aportar mi granito de arena a la comunidad de desarrollo.",
+            "company": "Cabify",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Medellin, Colombia",
+            "country": "Las Palmas, España",
             "featured": false,
-            "name": "Cristian Gomez",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190413_USA_336%20copy%202%20-%20Cristian%20Gomez-min.png?alt=media&token=96d2e2c0-5989-4da4-af14-d6d64662ba13",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190413_USA_336%20copy%202%20-%20Cristian%20Gomez-min.png?alt=media&token=96d2e2c0-5989-4da4-af14-d6d64662ba13",
-            "shortBio": "Cristian es desarrollador de software, actualmente enfocado en el desarrollo de sistemas basados en Server Driven UI. Charlista de conferencias como Droidcon (Polonia, Santo Domingo)...",
+            "name": "Gema Socorro",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fgema-socorro.png?alt=media&token=b150a103-5ba0-423b-8f69-1eeb39f8e020",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fgema-socorro.png?alt=media&token=b150a103-5ba0-423b-8f69-1eeb39f8e020",
+            "pronouns": "",
+            "shortBio": "Llevo pegada al teclado más de 12 años (7 de ellos en remoto), haciendo principalmente apps para Android...",
             "socials": [{
                     "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/go-cristian",
+                    "link": "https://www.linkedin.com/in/gemasr",
                     "name": "LinkedIn"
                 },
                 {
-                    "icon": "github",
-                    "link": "https://github.com/giannyalfaro",
-                    "name": "GitHub"
-                },
-                {
-                    "icon": "website",
-                    "link": "https://www.cgomez.dev/",
-                    "name": "Personal Website"
+                    "icon": "twitter",
+                    "link": "https://twitter.com/gemamsr",
+                    "name": "Twitter"
                 }
             ],
             "order": 9,
             "title": ""
         },
-        "bruno_aybar": {
-            "bio": "Senior Mobile Developer @ Shopify. Organizador en Android Dev Peru. 8 años haciendo Android/iOS/RN y mil otras tecnologías móviles. Amo Kotlin.",
-            "company": "Shopify",
+        "gustavo_lizarraga": {
+            "bio": "Gustavo es GitHub Campus Expert, Auth0 Ambassador y GitKraken Ambassador. Consultor en OneSignal como creador de contenido. Streamer en GitHub Education. Vol. DevRel en GitHub Presente y Octogatos. Desarrollador Freelance Android e iOS con Kotlin, Swift y Flutter. Instructor Android para ATC certificado para Cognos. Instructor especialista en OpenWebinars.  Organizador de DevHeroX y Kotlin La Paz. Fundador del GDG Android Bolivia y mDevConf.",
+            "company": "",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Lima, Peru",
+            "country": "La Paz, Bolivia",
             "featured": false,
-            "name": "Bruno Aybar",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190824055120_IMG_1669%20-%20Bruno%20Aybar-min.JPG?alt=media&token=09beee29-34b5-4650-880d-b66b1e972283",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F20190824055120_IMG_1669%20-%20Bruno%20Aybar-min.JPG?alt=media&token=09beee29-34b5-4650-880d-b66b1e972283",
-            "shortBio": "Senior Mobile Developer @ Shopify. Organizador en Android Dev Peru. 8 años haciendo Android/iOS/RN y mil otras tecnologías móviles. Amo Kotlin...",
+            "name": "Gustavo Lizárraga",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fgustavo-lizarraga.png?alt=media&token=e4f94843-623c-4ca8-a88e-c287bbbddf4c",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fgustavo-lizarraga.png?alt=media&token=e4f94843-623c-4ca8-a88e-c287bbbddf4c",
+            "pronouns": "",
+            "shortBio": "Gustavo es GitHub Campus Expert, Auth0 Ambassador y GitKraken Ambassador. Consultor en OneSignal como creador de contenido...",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "twitter.com/brunoaybarg",
-                    "name": "Twitter"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "linkedin.com/in/bruno-aybar/",
+                    "link": "https://linkedin.com/in/lizarragadev",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "github.com/bruno125",
+                    "link": "https://github.com/lizarragadev",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://fb.me/lizarragadev",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/lizarragadev",
+                    "name": "Twitter"
+                }
+            ],
+            "order": 9,
+            "title": ""
+        },
+        "irvin_cossio": {
+            "bio": "Soy una persona apasionada por la tecnología, actualmente trabajo como mobile developer con React Native en la empresa de Jalasoft. Entre algunos de mis skills están Javascript, Android, React Native y Front End Developer. \n En mi tiempo libre intento ayudar a comunidades como voluntario ayudando en  GDG Cochabamba, WGJ Bolivia, y como mentor en  SCESI (Sociedad Cientifica de estudiantes de Sistemas e Informatica).",
+            "company": "Jalasoft",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "Cochabamba, Bolivia",
+            "featured": false,
+            "name": "Irvin Cossio Chavalier",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Firvin-cossio.jpeg?alt=media&token=2125ad24-8fdf-4342-869c-ec1ea0ebd1aa",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Firvin-cossio.jpeg?alt=media&token=2125ad24-8fdf-4342-869c-ec1ea0ebd1aa",
+            "pronouns": "",
+            "shortBio": "Soy una persona apasionada por la tecnología, actualmente trabajo como mobile developer con React Native en la empresa...",
+            "socials": [{
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/irvin373",
+                    "name": "LinkedIn"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/irvin373",
                     "name": "GitHub"
                 },
                 {
                     "icon": "website",
-                    "link": "https://brunoaybar.com/",
-                    "name": "Personal Website"
+                    "link": "https://www.upwork.com/freelancers/~0182908c6407717af1",
+                    "name": "Upwork"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/irvin.chavalier",
+                    "name": "Facebook"
                 }
             ],
             "order": 10,
             "title": ""
         },
-        "santiago_carrillo": {
-            "bio": "CEO de Ada-School.org, MSc en Ingeniería de  Software de la Universidad de Amsterdam. Android GDE y Android Developer durante 10+ years. Emprendedor y fundador de la comunidad Android Meetup Bogota.",
-            "company": "Ada School",
+        "jhonny_ventiades": {
+            "bio": "Ingeniero en sistemas, trabajo como CTO en PasanaQ y TechLead en Salesforce. Tengo experiencia de casi 10 años desarrollando software, trabaje en Bolivia, India, Egipto y Uruguay en diferentes multinacionales. \n Soy Especialista en Analisis de datos del programa Nano Degree en Udacity con Google y UX Designer de la IDF. Lider de las comunidades de tecnologia GDG Santa Cruz y City AI Santa cruz. \n Tambien soy creador del Podcast de programacion Declarando Variables",
+            "company": "TeachLead at Salesforce & CTO PasanaQ",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Armenia, Colombia",
-            "featured": true,
-            "name": "Santiago Carrillo",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FGDE%20Android%20Bagde%20-%20Santiago%20Carrillo%20-%20santiago%20carrillo-min.png?alt=media&token=3420e94d-990e-4082-bc0b-b967e697e40a",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FGDE%20Android%20Bagde%20-%20Santiago%20Carrillo%20-%20santiago%20carrillo-min.png?alt=media&token=3420e94d-990e-4082-bc0b-b967e697e40a",
-            "shortBio": "Ingeniera en Sistemas, desarrolladora de software ha desarrollado aplicaciones móviles por más de 8 años...",
+            "country": "Santa Cruz, Bolivia",
+            "featured": false,
+            "name": "Jhonny Ventiades Guillen ",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fjhonny-ventiades.png?alt=media&token=f062aeba-c6a7-4287-8ba1-c2597cafba28",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fjhonny-ventiades.png?alt=media&token=f062aeba-c6a7-4287-8ba1-c2597cafba28",
+            "pronouns": "",
+            "shortBio": "Ingeniero en sistemas, trabajo como CTO en PasanaQ y TechLead en Salesforce. Tengo experiencia de casi 10 años desarrollando software, trabaje en Bolivia, India, Egipto y Uruguay en diferentes multinacionales. \n Soy Especialista en Analisis de datos del programa Nano Degree en Udacity con Google y UX Designer de la IDF. Lider de las comunidades de tecnologia GDG Santa Cruz y City AI Santa cruz. \n Tambien soy creador del Podcast de programacion Declarando Variables",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/sancarbar",
-                    "name": "Twitter"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/sancarbar/",
+                    "link": "https://www.linkedin.com/in/jhonnyventiades",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "https://github.com/sancarbar",
+                    "link": "https://github.com/jhonny-ventiades",
                     "name": "GitHub"
                 },
                 {
-                    "icon": "instagram",
-                    "link": "https://instagram.com/sancarbar",
-                    "name": "Instagram"
+                    "icon": "website",
+                    "link": "https://jhonnyventiades.com/",
+                    "name": "Website"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/jhonnyventiades",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/JhonnyVentiades",
+                    "name": "Twitter"
                 }
             ],
             "order": 11,
             "title": ""
         },
-        "diego_velasquez": {
-            "bio": "Staff Mobile Engineer en Tonal. Google Developer Expert en Dart y Flutter. Apasionado por las tecnologías Móviles.",
-            "company": "Tonal",
+        "jordy_morales": {
+            "bio": "Soy ingeniero de Sistemas egresado de la Universidad privada UCATEC en Cochabamba, trabajo como full-stack developer en Unosquare, principalmente con Javascript. Me gusta mucho el tema de arquitectura y clean code.",
+            "company": "Unosquare",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Lima, Perú",
+            "country": "Cochabamba, Bolivia",
             "featured": false,
-            "name": "Diego Velásquez",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fgoogle_io%20-%20Diego%20Vel%C3%A1squez-min.jpeg?alt=media&token=f5eb2f4b-c330-43ca-b31e-1a1a86ff132e",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fgoogle_io%20-%20Diego%20Vel%C3%A1squez-min.jpeg?alt=media&token=f5eb2f4b-c330-43ca-b31e-1a1a86ff132e",
-            "shortBio": "Staff Mobile Engineer en Tonal. Google Developer Expert en Dart y Flutter. Apasionado por las tecnologías Móviles...",
+            "name": "Jordy Morales",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fjordy-morales.png?alt=media&token=8a706b2f-92e4-479c-b7b5-3d11d4f041d0",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fjordy-morales.png?alt=media&token=8a706b2f-92e4-479c-b7b5-3d11d4f041d0",
+            "pronouns": "",
+            "shortBio": "Soy ingeniero de Sistemas egresado de la Universidad privada UCATEC en Cochabamba, trabajo como full-stack developer en Unosquare, principalmente con Javascript. Me gusta mucho el tema de arquitectura y clean code.",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "htwitter.com/diegoveloper",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "facebook.com/diegoveloper",
-                    "name": "Facebook"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/diegoveloper/",
+                    "link": "https://www.linkedin.com/in/jordymorales",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "https://github.com/diegoveloper",
+                    "link": "https://github.com/2jsdev",
                     "name": "GitHub"
                 },
                 {
-                    "icon": "website",
-                    "link": "www.diegoveloper.com",
-                    "name": "Personal Website"
+                    "icon": "twitter",
+                    "link": "https://twitter.com/2jsdev",
+                    "name": "Twitter"
                 }
             ],
             "order": 12,
             "title": ""
         },
-        "juan_villalvazo": {
-            "bio": "Juan estudió ingeniería en computación y ha llegado a especializarse como desarrollador de Aplicaciones Móviles en sistemas operativos iOS y Android. Actualmente es instructor profesional de cursos de programación y YouTuber enfocado a la motivación y apoyo de programadores y programadoras en su canal de YouTube. Por experiencia propia conoce lo difícil que puede ser aprender a programar en algunas ocasiones. Es por eso que su meta es apoyar a cualquier persona que quiera entrar al mundo del desarrollo y emprendimiento.",
-            "company": "",
+        "kenji_kawaida": {
+            "bio": "Desarrollador de aplicaciones para Bolivia y el exterior, dedicándo como especialidad a la programación móvil. \n Con más de 10 años de experiencia en desarrollo móvil y con más de 20 aplicaciones publicadas en el Play Store y aplicaciones empresariales. \n Con certificación internacional en Advanced Training Consultants (ATC): \n - Android Certified Application Developer \n - Android Certified Application Engineer \n Organizer y speakers en Google Developer Group – Santa Cruz, con más de 7 años de experiencia en la capacitación en tecnologías de Google.",
+            "company": "Kytech",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "California",
+            "country": "Santa Cruz, Bolivia",
             "featured": false,
-            "name": "Juan Villalvazo",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fchannels4_profile%20-%20Juan%20Villalvazo-min.jpg?alt=media&token=3a084faf-c400-467e-912b-7c7c77edde8c",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fchannels4_profile%20-%20Juan%20Villalvazo-min.jpg?alt=media&token=3a084faf-c400-467e-912b-7c7c77edde8c",
-            "shortBio": "KotlinersKT es una organizacion(?) formada como resultado de las colaboraciones entre el KUG CDMX y el KUG GDL...",
+            "name": "Kenji Kawaida",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fkenji-kawaida.jpeg?alt=media&token=727e5760-d130-40d4-88b8-17844347b0f2",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fkenji-kawaida.jpeg?alt=media&token=727e5760-d130-40d4-88b8-17844347b0f2",
+            "pronouns": "",
+            "shortBio": "Desarrollador de aplicaciones para Bolivia y el exterior, dedicándo como especialidad a la programación móvil. \n Con más de 10 años de experiencia en desarrollo móvil y con más de 20 aplicaciones publicadas en el Play Store y aplicaciones empresariales. \n Con certificación internacional en Advanced Training Consultants (ATC):\n• Android Certified Application Developer\n• Android Certified Application Engineer\n\nOrganizer y speakers en Google Developer Group – Santa Cruz, con más de 7 años de experiencia en la capacitación en tecnologías de Google.",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/TecMotivacional",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "youtube",
-                    "link": "https://www.youtube.com/c/JuanVillalvazoChannel",
-                    "name": "Personal Website"
-                }
-            ],
-            "order": 13,
-            "title": ""
-        },
-        "anahi_salgado": {
-            "bio": "Anahí Salgado conocida como @anncode es desarrolladora Android y Flutter desde 2011, cuenta con múltiples cursos especializados en desarrollo en plataformas reconocidas como Coursera y Platzi. Fue calificada como la mejor profesora en tecnologías móviles por los estudiantes dos años consecutivos 2018 y 2019. Ha sido speaker en conferencias de desarrollo móvil en Latinoamérica y Europa. Formada como Ingeniera en Computación evolucionó su carrera desde la programación hasta enseñar todo lo que aprende a través de sus cursos y platicas y redes sociales.",
-            "company": "Globant",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "CDMX, México",
-            "featured": true,
-            "name": "Anahí Salgado",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fanncode-ann%20-%20AnnCode%20-%20Anahi%20Salgado-min.jpg?alt=media&token=c4a0f234-f067-41c1-baa2-560cad8ab0f0",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fanncode-ann%20-%20AnnCode%20-%20Anahi%20Salgado-min.jpg?alt=media&token=c4a0f234-f067-41c1-baa2-560cad8ab0f0",
-            "shortBio": "Developer, Teacher & Writer. Android developer(10 years) and creating software a little more. Teaching on the most important online platforms...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "http://twiter.com/anncode",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/anahisalgado.anncode/",
-                    "name": "Facebook"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/anah%C3%AD-salgado-aa347570/",
+                    "link": "https://www.linkedin.com/in/kenji-kawaida/",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "https://github.com/anncode1",
+                    "link": "https://github.com/kenjikv",
                     "name": "GitHub"
                 },
                 {
                     "icon": "website",
-                    "link": "https://anahisalgado.com",
-                    "name": "Personal Website"
+                    "link": "https://medium.com/@kenjikawaida",
+                    "name": "Medium"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/kenjikv",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/kenjikawaida",
+                    "name": "Twitter"
                 }
             ],
             "order": 14,
             "title": ""
         },
-        "juan_guillermo": {
-            "bio": "Juan Guillermo is the co-organizer of several global and local events, such as GDG Cali, startup weekend Colombia and free software. He has been involved in tech and software programming for the past 20 years. He attends more than 30 events per year as a guest speaker throughout Latin America, where he speaks about mobile, android, cloud, firebase, kotlin, software architecture, entrepreneurship, and innovation. In 2016, he co-founded the first hacker school in Cali (DevHack), where he teaches programming different technologies such as front-end, mobile, and back-end. He has been a programmer, software architect, technology leader, university professor, advisor in technology companies and systems departments. Now, he is an educator at DevHack and tech lead in WordBox. Juan is GDE (Google Developer Expert) in Firebase and GCP, holds a BS in System Engineering, and an MS in Software Engineering at Universidad San Buenaventura Cali.",
-            "company": "Wordbox",
+        "marcelo_torrez": {
+            "bio": "Mobile Developer, UI/UX Designer, Lic. en Informática e Ingeniero en sistema, miembro del GDG La Paz y Flutter Devs Bolivia, apasionado por las comunidades, la tecnología y la inteligencia artificial.",
+            "company": "",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "CDMX, Mexico",
+            "country": "La Paz, Bolivia",
             "featured": false,
-            "name": "Juan Guillermo Gómez",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffoto%20-%20Juan%20Guillermo%20Gomez%20Torres-min.jpg?alt=media&token=ff82ad38-4b34-4b6f-b5fe-93ec3ac13a03",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffoto%20-%20Juan%20Guillermo%20Gomez%20Torres-min.jpg?alt=media&token=ff82ad38-4b34-4b6f-b5fe-93ec3ac13a03",
-            "shortBio": "Juan Guillermo is the co-organizer of several global and local events, such as GDG Cali, startup weekend Colombia and free software...",
+            "name": "Marcelo Torrez Azuga",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fmarcelo-torrez.jpeg?alt=media&token=8aaf7eeb-006f-4ea4-9473-145cc46e6c0a",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fmarcelo-torrez.jpeg?alt=media&token=8aaf7eeb-006f-4ea4-9473-145cc46e6c0a",
+            "pronouns": "",
+            "shortBio": "Mobile Developer, UI/UX Designer, Lic. en Informática e Ingeniero en sistema, miembro del GDG La Paz y Flutter Devs Bolivia, apasionado por las comunidades...",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/jggomezt",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/jggomez84/",
-                    "name": "Facebook"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/jggomezt/",
+                    "link": "https://www.linkedin.com/in/marcelo-torrez-azuga-49a34b135",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "https://github.com/jggomez",
+                    "link": "https://github.com/Mac3495",
                     "name": "GitHub"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/mac3495",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/mac3495",
+                    "name": "Twitter"
                 }
             ],
             "order": 15,
             "title": ""
         },
-        "uriel_pacheco": {
-            "bio": "Mi nombre es Uriel Pacheco, tengo más de 3 años de experiencia desarrollando aplicaciones móviles y actualmente trabajo en Wizeline como iOS Software Engineer. Me encanta desarrollar soluciones de software con buena arquitectura, con la mejor UI y excelente experiencia de usuario.",
-            "company": "Wizeline",
+        "nicolas_molina": {
+            "bio": "Soy Learning Engineer en Platzi con más de 10 años de experiencia en desarrollo de software enfocado a desarrollo web, liderazgo técnico, solución de problemas y mentoría. Soy un apasionado por compartir conocimiento y lo hago a través de contribuciones de código, videos, conferencias y creando contenido online, esto me ha llevado a ser reconocido por empresas como Google en el programa de Google Devs Experts, Microsoft con el premio MVP (Most Value Professional) y Ionic en el Programa de Ionic Devs Experts.",
+            "company": "Platzi",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "México",
+            "country": "Cochabamba, Bolivia",
             "featured": false,
-            "name": "Uriel Pacheco",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FDSC_0407%20-%20Uriel%20Pacheco-min.jpg?alt=media&token=d69e344b-80d5-44d3-92e2-c04845c73810",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FDSC_0407%20-%20Uriel%20Pacheco-min.jpg?alt=media&token=d69e344b-80d5-44d3-92e2-c04845c73810",
-            "shortBio": "Juan Guillermo is the co-organizer of several global and local events, such as GDG Cali, startup weekend Colombia and free software...",
+            "name": "Nicolas Molina",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fnico-molina.jpeg?alt=media&token=a27f3e71-cf3f-4293-85a5-1e2bba8c029f",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fnico-molina.jpeg?alt=media&token=a27f3e71-cf3f-4293-85a5-1e2bba8c029f",
+            "pronouns": "",
+            "shortBio": "Soy Learning Engineer en Platzi con más de 10 años de experiencia en desarrollo de software enfocado a desarrollo web, liderazgo técnico...",
             "socials": [{
                     "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/victorurielp/",
+                    "link": "https://co.linkedin.com/in/nicobytes",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "https://github.com/VictorUrielP",
+                    "link": "https://github.com/nicobytes",
                     "name": "GitHub"
+                },
+                {
+                    "icon": "website",
+                    "link": "https://nicobytes.com/",
+                    "name": "Website"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/nicobytes",
+                    "name": "Twitter"
                 }
             ],
             "order": 16,
             "title": ""
         },
-        "sinuhe_jaime": {
-            "bio": "KotlinersKT nacio como una manera de hacer un 'mashup' entre KUG Guadalajara y KUG Ciudad de Mexico... pero terminamos haciendo tonterias y mezclando kotlin en el proceso. Actualmente KotlinersKT es presentado por Sebastian Tellez (@gorrotowi), Sinuhe Jaime (@sierisimo) y el Fantasma de Chuby (@ChubyAvodroc).",
-            "company": "KotlinersKT",
+        "nicolas_patarino": {
+            "bio": "Soy un porteño 'barrabrava' de Android y Kotlin. Soñador. Aprendí muchísimo en empresas como Sun Microsystems, Qualcomm, Idealista o Tuenti, ahora sigo haciéndolo de mis compañeros en Eventbrite. \n A veces hablo en conferencias como T3chFest, Codemotion, CommitConf o DevFests y meetups, ¡ah! y también desorganizo la comunidad de Android en Madrid y montón de saraos, entre ellos, droidcon Spain y un podcast de desarrollo. Empecé en el desarrollo hace como unos 10 kilos atrás 😁.",
+            "company": "Nicolás Patarino",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Ciudad de Mexico, Mexico Y Guadalajara, Mexico",
+            "country": "Madrid, España",
             "featured": false,
-            "name": "Sinuhe Jaime Valencia",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FUntitled%20drawing%20-%20Sinuhe%20Jaime-min.png?alt=media&token=0bec1cbc-c439-4996-8bf0-032f6bd909cc",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FUntitled%20drawing%20-%20Sinuhe%20Jaime-min.png?alt=media&token=0bec1cbc-c439-4996-8bf0-032f6bd909cc",
-            "shortBio": "KotlinersKT nacio como una manera de hacer un 'mashup' entre KUG Guadalajara y KUG Ciudad de Mexico...",
+            "name": "Nicolás Patarino",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fnicolas-patarino.jpeg?alt=media&token=9ec2f579-c3dc-465b-b252-d0f8f0a0a27a",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fnicolas-patarino.jpeg?alt=media&token=9ec2f579-c3dc-465b-b252-d0f8f0a0a27a",
+            "pronouns": "",
+            "shortBio": "Soy un porteño 'barrabrava' de Android y Kotlin. Soñador. Aprendí muchísimo en empresas como Sun Microsystems, Qualcomm, Idealista o Tuenti...",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/kotlinerskt",
-                    "name": "Twitter"
+                    "icon": "linkedin",
+                    "link": "http://linkedin.com/in/npatarino",
+                    "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "github.com/kotlinersKt/",
+                    "link": "http://github.com/npatarino",
                     "name": "GitHub"
+                },
+                {
+                    "icon": "website",
+                    "link": "http://chimichurrico.de",
+                    "name": "Website"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "http://twitter.com/npatarino",
+                    "name": "Twitter"
                 }
             ],
             "order": 17,
             "title": ""
         },
-        "facundo_rodriguez": {
-            "bio": "Ingeniero en Computación por la Universidad Nacional de Tres De Febrero. Actualmente me desempeño como Senior Android Engineer, plataforma para la cual desarrollo profesionalmente hace 10 años.",
-            "company": "",
+        "sergio_ochoa": {
+            "bio": "Desarrollador Freelancer, desarrollador en OpenKM, Cofundador de GDG Sucre, desarrollador full stack, encargado de la comunidad de OpenKM, experiencia laboral como Freelancer con el desarrollo de aplicaciones para empresas públicas y privadas, nacionales y extranjeras, interesado en el aprendizaje y enseñanza de nuevas tecnologías.",
+            "company": "OpenKM",
             "companyLogo": "",
             "companyLogoUrl": "",
-            "country": "Buenos Aires, Argentina",
+            "country": "Villazon, Bolivia",
             "featured": false,
-            "name": "Facundo Rodríguez Arceri",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffacu%20-%20Facundo%20Rodr%C3%ADguez%20Arceri-min.jpg?alt=media&token=197e8129-95a4-4ac6-ba16-57438e8385d0",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Ffacu%20-%20Facundo%20Rodr%C3%ADguez%20Arceri-min.jpg?alt=media&token=197e8129-95a4-4ac6-ba16-57438e8385d0",
-            "shortBio": "Ingeniero en Computación por la Universidad Nacional de Tres De Febrero. Actualmente me desempeño como Senior Android Engineer...",
+            "name": "Sergio Antonio Ochoa Martinez",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fsergio-ochoa.jpeg?alt=media&token=c68aab22-b7a6-4e26-941c-da0aa32676f1",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fsergio-ochoa.jpeg?alt=media&token=c68aab22-b7a6-4e26-941c-da0aa32676f1",
+            "pronouns": "",
+            "shortBio": "Desarrollador Freelancer, desarrollador en OpenKM, Cofundador de GDG Sucre, desarrollador full stack, encargado de la comunidad de OpenKM...",
             "socials": [{
-                    "icon": "twitter",
-                    "link": "twitter.com/facundomr",
-                    "name": "Twitter"
-                },
-                {
                     "icon": "linkedin",
-                    "link": "linkedin.com/in/facundomr",
+                    "link": "https://www.linkedin.com/in/sergio-antonio-ochoa-martinez-7aaa6149/",
                     "name": "LinkedIn"
                 },
                 {
                     "icon": "github",
-                    "link": "github.com/facundomr",
+                    "link": "https://github.com/gnujavasergio",
                     "name": "GitHub"
+                },
+                {
+                    "icon": "facebook",
+                    "link": "https://www.facebook.com/sergioantonio.ochoamartinez",
+                    "name": "Facebook"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/gnujavasergio",
+                    "name": "Twitter"
                 }
             ],
+            "order": 16,
+            "title": ""
+        },
+        "veronica_clavijo": {
+            "bio": "Trabajo desde 2017 como desarrolladora, inicialmente como FrontEnd developer para aplicaciones Web y posteriormente transicioné a trabajar desarrollando aplicaciones móviles con React Native. Actualmente continúo trabajando con React Native en aplicaciones de gran escalabilidad para dispositivos Android y iOS.",
+            "company": "Baires Dev",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "La Paz, Bolivia",
+            "featured": false,
+            "name": "Veronica Clavijo",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fveronica-clavijo.jpeg?alt=media&token=4c255ca6-f0e0-4917-8320-f5c1e3303d6a",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fveronica-clavijo.jpeg?alt=media&token=4c255ca6-f0e0-4917-8320-f5c1e3303d6a",
+            "pronouns": "",
+            "shortBio": "Trabajo desde 2017 como desarrolladora, inicialmente como FrontEnd developer para aplicaciones Web y posteriormente transicioné a trabajar...",
+            "socials": [{
+                    "icon": "linkedin",
+                    "link": "http://linkedin.com/in/veronica-clavijo-altamirano",
+                    "name": "LinkedIn"
+                },
+                {
+                    "icon": "github",
+                    "link": "http://github.com/Veuge",
+                    "name": "GitHub"
+                },
+                {
+                    "icon": "website",
+                    "link": "https://veuge.github.io",
+                    "name": "Website"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "http://twitter.com/veuge_c",
+                    "name": "Twitter"
+                }
+            ],
+            "order": 17,
+            "title": ""
+        },
+        "yeison_fernandez": {
+            "bio": "Desarrollador de software desde el año 2014 y fundador de la empresa 90 HRS / Semana de la ciudad de Sucre, Bolivia. Encargado del análisis y desarrollo de tecnologías de backend para entornos web y móvil combinando lenguajes como php, python y dart.",
+            "company": "90 HRS / Semana",
+            "companyLogo": "",
+            "companyLogoUrl": "",
+            "country": "Sucre, Bolivia",
+            "featured": false,
+            "name": "Yeison Mario Fernandez Zarate",
+            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fyesion-fernandez.jpeg?alt=media&token=9c91b2ca-2e20-4750-9ca3-4135ba45f407",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/speakers%2Fyesion-fernandez.jpeg?alt=media&token=9c91b2ca-2e20-4750-9ca3-4135ba45f407",
+            "pronouns": "",
+            "shortBio": "Desarrollador de software desde el año 2014 y fundador de la empresa 90 HRS / Semana de la ciudad de Sucre...",
+            "socials": [{
+                "icon": "website",
+                "link": "https://90horasporsemana.com",
+                "name": "Website"
+            }],
             "order": 18,
-            "title": ""
-        },
-        "marco_erlwein": {
-            "bio": "Ingenierio de Sistemas, arquitecto de soluciones.",
-            "company": "Cognos",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Santa Cruz, Bolivia",
-            "featured": false,
-            "name": "Marco Erlwein",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FMarco%20-%20Marco%20Erlwein.JPG?alt=media&token=6bd0176f-c123-4994-bd9b-10430823038c",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FMarco%20-%20Marco%20Erlwein.JPG?alt=media&token=6bd0176f-c123-4994-bd9b-10430823038c",
-            "shortBio": "Ingenierio de Sistemas, arquitecto de soluciones.",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "twitter.com/MarcoErlwein",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/marco.erlwein.5",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/MarcoErlwein/",
-                    "name": "GitHub"
-                }
-            ],
-            "order": 19,
-            "title": ""
-        },
-        "mauricio_hernandez": {
-            "bio": "Soy desarrollador Android, actualmente trabajo como SRE en el equipo de arquitectura mobile de Mercado Libre donde co-creamos una de las mejores aplicaciones de Latinoamérica, democratizando el comercio y los pagos en la región.",
-            "company": "Mercado Libre",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Bogotá, Colombia",
-            "featured": false,
-            "name": "Mauricio Hernandez",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FWhatsApp%20Image%202021-11-02%20at%208.56.23%20AM%20-%20Mauricio%20Hernandez-min.jpeg?alt=media&token=856c88d3-6921-428f-820e-f9bdcf7d905c",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FWhatsApp%20Image%202021-11-02%20at%208.56.23%20AM%20-%20Mauricio%20Hernandez-min.jpeg?alt=media&token=856c88d3-6921-428f-820e-f9bdcf7d905c",
-            "shortBio": "Soy desarrollador Android, actualmente trabajo como SRE en el equipo de arquitectura mobile de Mercado Libre donde co-creamos una...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/IMAOHD",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/ivanmaohd/",
-                    "name": "LinkedIn"
-                }
-            ],
-            "order": 20,
-            "title": ""
-        },
-        "yury_camacho": {
-            "bio": "Yury Camacho es Ingeniero de Sistemas y Google Developer Expert en Android y Kotlin,  Desarrollador experimentado de aplicaciones móviles con  mas de 10 años en la industria del desarrollo de software y en especial desarrollo móvil,  trabajo en empresas como Globant, OLX y  actualmente es Staff Software Engineer  y Tech Lead del equipo de Pagos y fraude en Rappi.",
-            "company": "Rappi",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Cochabamba, Bolivia",
-            "featured": false,
-            "name": "Yury Camacho",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fbadge%20(1)%20-%20Yury%20Camacho-min.png?alt=media&token=d0882649-8e08-4429-aea1-53d69837a3b2",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2Fbadge%20(1)%20-%20Yury%20Camacho-min.png?alt=media&token=d0882649-8e08-4429-aea1-53d69837a3b2",
-            "shortBio": "Yury Camacho es Ingeniero de Sistemas y Google Developer Expert en Android y Kotlin,  Desarrollador experimentado de aplicaciones móviles...",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/camachoyury",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "facebook",
-                    "link": "https://www.facebook.com/camachoyury",
-                    "name": "Facebook"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/camachoyury/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/camachoyury",
-                    "name": "GitHub"
-                }
-            ],
-            "order": 21,
-            "title": ""
-        },
-        "carlo_huaman": {
-            "bio": "Dad, Mobile Architect, Assistant GDE | Love mangos, tangerines & chocolates.",
-            "company": "BCP",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Cochabamba, Bolivia",
-            "featured": false,
-            "name": "Carlo Huaman",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FCarlo%20Huaman%20-%20Carlo%20Huam%C3%A1n-min.png?alt=media&token=2b4d7b2e-494c-4cc5-bfb8-7ca2570e43c2",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2FCarlo%20Huaman%20-%20Carlo%20Huam%C3%A1n-min.png?alt=media&token=2b4d7b2e-494c-4cc5-bfb8-7ca2570e43c2",
-            "shortBio": "Dad, Mobile Architect, Assistant GDE | Love mangos, tangerines & chocolates.",
-            "socials": [{
-                    "icon": "twitter",
-                    "link": "https://twitter.com/Tohure_",
-                    "name": "Twitter"
-                },
-                {
-                    "icon": "linkedin",
-                    "link": "https://www.linkedin.com/in/tohure/",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "https://github.com/Tohure",
-                    "name": "GitHub"
-                }
-            ],
-            "order": 22,
-            "title": ""
-        },
-        "hansy_schmitt": {
-            "bio": "Desarrollador Mobile Flutter, Wannabe Game Developer , Hardware Hacker.",
-            "company": "BCP",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Lima, Peru",
-            "featured": false,
-            "name": "Hansy Schmitt",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F40385444_10211841558970553_6288262099109937152_n%20-%20Hansy%20Schmitt-min.jpg?alt=media&token=ff13bc76-d142-4dbb-a05b-f02ce34c1530",
-            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf-2021.appspot.com/o/Speakers%2F40385444_10211841558970553_6288262099109937152_n%20-%20Hansy%20Schmitt-min.jpg?alt=media&token=ff13bc76-d142-4dbb-a05b-f02ce34c1530",
-            "shortBio": "Desarrollador Mobile Flutter, Wannabe Game Developer , Hardware Hacker.",
-            "socials": [{
-                    "icon": "linkedin",
-                    "link": "linkedin.com/in/hansyschmitt",
-                    "name": "LinkedIn"
-                },
-                {
-                    "icon": "github",
-                    "link": "github.com/hansyschmitt",
-                    "name": "GitHub"
-                }
-            ],
-            "order": 23,
             "title": ""
         }
     },
@@ -1563,7 +1446,7 @@
                     "link": "https://www.facebook.com/alisonluna.marcaconde",
                     "name": "Facebook"
                 }],
-                "order": 0,
+                "order": 3,
                 "title": "Merchandise"
             },
             {
@@ -1581,8 +1464,20 @@
                         "name": "Twitter"
                     }
                 ],
-                "order": 1,
+                "order": 4,
                 "title": "Social media, Sponsors"
+            },
+            {
+                "name": "Corali Diana Almanza Patzi",
+                "photo": "/images/people/Corali Diana Almanza Patzi.jpg",
+                "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/people%2FCorali%20Diana%20Almanza%20Patzi.jpg?alt=media&token=90241013-7b7c-46be-8d49-dd580348813a",
+                "socials": [{
+                    "icon": "twitter",
+                    "link": "https://twitter.com/coralidiana1",
+                    "name": "Twitter"
+                }],
+                "order": 2,
+                "title": "Social media, merchandise, speakers and sponsor"
             },
             {
                 "name": "Erwin Mendez",
@@ -1593,7 +1488,7 @@
                     "link": "https://www.linkedin.com/in/erwin-m%C3%A9ndez-534902152",
                     "name": "Linkedin"
                 }],
-                "order": 2,
+                "order": 5,
                 "title": "Website"
             },
             {
@@ -1611,7 +1506,7 @@
                         "name": "Github"
                     }
                 ],
-                "order": 3,
+                "order": 0,
                 "title": "Lead Organizer"
             },
             {
@@ -1634,7 +1529,7 @@
                         "name": "Twitter"
                     }
                 ],
-                "order": 4,
+                "order": 1,
                 "title": "Videomedia, Speakers/Sponsors/Schedule"
             },
             {
@@ -1662,7 +1557,7 @@
                         "name": "Twitter"
                     }
                 ],
-                "order": 5,
+                "order": 6,
                 "title": "Website, Videomedia"
             },
             {
@@ -1674,7 +1569,7 @@
                     "link": "https://www.linkedin.com/in/marina-vega-santos-75a77a218",
                     "name": "Linkedin"
                 }],
-                "order": 6,
+                "order": 7,
                 "title": "Design, Social Media"
             },
             {
@@ -1686,7 +1581,7 @@
                     "link": "https://www.facebook.com/marosalesrodriguez",
                     "name": "Facebook"
                 }],
-                "order": 7,
+                "order": 8,
                 "title": "Marketing"
             },
             {
@@ -1698,7 +1593,7 @@
                     "link": "https://www.facebook.com/nicolas.zelaya.125",
                     "name": "Facebook"
                 }],
-                "order": 8,
+                "order": 9,
                 "title": "Website, Design"
             },
             {
@@ -1721,8 +1616,49 @@
                         "name": "Facebook"
                     }
                 ],
-                "order": 8,
+                "order": 10,
                 "title": "Website, Design"
+            },
+            {
+                "name": "Soledad Nina",
+                "photo": "/images/people/Sole Nina.jpg",
+                "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/people%2FSole%20Nina.jpg?alt=media&token=38522ac4-2ebc-45c7-b04f-2833c124dab5",
+                "socials": [{
+                        "icon": "linkedin",
+                        "link": "https://www.linkedin.com/in/sole-nina-83659b1a4/",
+                        "name": "Linkedin"
+                    },
+                    {
+                        "icon": "instagram",
+                        "link": "https://www.instagram.com/soleni13/",
+                        "name": "Instagram"
+                    },
+                    {
+                        "icon": "facebook",
+                        "link": "https://www.facebook.com/sole.nina.35",
+                        "name": "Facebook"
+                    }
+                ],
+                "order": 11,
+                "title": "Social media"
+            },
+            {
+                "name": "Carmen Sarahí Martínez Aviza",
+                "photo": "/images/people/Sarahí Martínez.jpg",
+                "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mdevconf2022.appspot.com/o/people%2FSarah%C3%AD%20Mart%C3%ADnez.jpg?alt=media&token=6e73cb0f-2aa8-4404-bbb9-b384100151d1",
+                "socials": [{
+                        "icon": "linkedin",
+                        "link": "https://www.linkedin.com/in/carmen-sarah%C3%AD-mart%C3%ADnez-aviza-5b198b218/",
+                        "name": "Linkedin"
+                    },
+                    {
+                        "icon": "facebook",
+                        "link": "https://www.facebook.com/sari.m.martinez.710",
+                        "name": "Facebook"
+                    }
+                ],
+                "order": 12,
+                "title": "Social media"
             },
             {
                 "name": "Sergio Antonio Ochoa Martinez",
@@ -1744,7 +1680,7 @@
                         "name": "Facebook"
                     }
                 ],
-                "order": 10,
+                "order": 13,
                 "title": "Website, Speakers"
             },
             {
@@ -1762,7 +1698,7 @@
                         "name": "Facebook"
                     }
                 ],
-                "order": 11,
+                "order": 14,
                 "title": "Merchandise"
             },
             {
@@ -1774,7 +1710,7 @@
                     "link": "https://www.facebook.com/yeison.feza",
                     "name": "Facebook"
                 }],
-                "order": 12,
+                "order": 15,
                 "title": "Website"
             }
         ],

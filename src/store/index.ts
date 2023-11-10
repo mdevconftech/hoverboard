@@ -6,6 +6,7 @@ import { filtersReducer } from './filters/reducers';
 import { galleryReducer } from './gallery/reducers';
 import { notificationsReducer } from './notifications/reducers';
 import { partnersReducer } from './partners/reducers';
+import { pastEventsReducer } from './past-events/reducers';
 import { previousSpeakersReducer } from './previous-speakers/reducers';
 import { routingReducer } from './routing/reducers';
 import { scheduleReducer } from './schedule/reducers';
@@ -27,6 +28,7 @@ const rootReducer = {
   gallery: galleryReducer,
   notifications: notificationsReducer,
   partners: partnersReducer,
+  pastEvents: pastEventsReducer,
   previousSpeakers: previousSpeakersReducer,
   routing: routingReducer,
   schedule: scheduleReducer,

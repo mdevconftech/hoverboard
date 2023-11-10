@@ -35,7 +35,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
         }
 
         :host([transparent]) .toolbar-logo {
-          background-color: var(--hero-logo-color);
+          background-color: #fff;
           opacity: var(--hero-logo-opacity, 1);
         }
 
@@ -50,9 +50,10 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           display: block;
           width: 150px;
           height: 32px;
-          background-color: var(--default-primary-color);
-          transition: background-color var(--animation);
-          -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
+          background-color: #fff;
+          background-image: url('/images/logo_nav_small.png');
+          background-size: contain;
+          transition: background-color var(--animation), background-image var(--animation);
         }
 
         .nav-items {
@@ -167,7 +168,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           {% endfor %}
         </paper-tabs>
 
-        <a
+        <!--a
             href="{$ buyTicketUrl $}"
             target="_blank"
             rel="noopener noreferrer"
@@ -176,7 +177,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             ga-event-action="buy_click"
           >
             <paper-button class="buy-button" primary>{$ buyTicket $}</paper-button>
-          </a>
+          </a-->
 
       </app-toolbar>
     `;

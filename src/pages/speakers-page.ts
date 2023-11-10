@@ -269,7 +269,7 @@ export class SpeakersPage extends SpeakersHoC(ReduxMixin(PolymerElement)) {
         </template>
       </div>
 
-      
+
 
       <footer-block></footer-block>
     `;
@@ -325,6 +325,7 @@ export class SpeakersPage extends SpeakersHoC(ReduxMixin(PolymerElement)) {
       requestAnimationFrame(() => {
         if (active && id) {
           const speakerData = speakersMap[id];
+          speakerData.bio = speakerData.bio.replaceAll("\n", "<br>");
           speakerData && openDialog(DIALOGS.SPEAKER, speakerData);
         } else {
           this.isSpeakerDialogOpened && closeDialog(DIALOGS.SPEAKER);
