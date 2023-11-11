@@ -1,17 +1,17 @@
 {
   "basepath": "/",
   "url": "https://mdevconf.tech",
-  "analytics": "UA-43643469-8",
+  "analytics": "G-4PYBVV7FJ5",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyBqksJOo9MZUD3ZxXqCLWE3JwTSRsn_LAQ",
-    "authDomain": "mdevconf2022.firebaseapp.com",
-    "databaseURL": "mdevconf2022.firebaseapp.com",
-    "projectId": "mdevconf2022",
-    "storageBucket": "mdevconf2022.appspot.com",
-    "messagingSenderId": "671546021945",
-    "appId": "1:671546021945:web:7b8e90add4baffed0015e8",
-    "measurementId": "G-9FEWE2Y65P"
+    "apiKey": "AIzaSyB86GpEJn_ifmvLliMFmSfxG5LHR30J-t4",
+    "authDomain": "mdevconf-2023.firebaseapp.com",
+    "databaseURL": "mdevconf-2023.firebaseapp.com",
+    "projectId": "mdevconf-2023",
+    "storageBucket": "mdevconf-2023.appspot.com",
+    "messagingSenderId": "557788719486",
+    "appId": "1:557788719486:web:3047844150b28f0acbab2f",
+    "measurementId": "G-4PYBVV7FJ5"
   },
   "googleMapApiKey": "AIzaSyAKOkGjmfBPTuYlDyPxlrSj7H-1oqWET7E"
 }
